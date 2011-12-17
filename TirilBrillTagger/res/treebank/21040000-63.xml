@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="3">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"aşırı+Adj")]' REL="[2,3,(MODIFIER)]"> Aşırı </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"iddia+Noun+A3sg+Pnon+Nom")(2,"Adj+With")(3,"Verb+Zero+Pres+A3pl")]' REL="[3,1,(SENTENCE)]"> iddialılar </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"iddia+Noun+A3sg+Pnon+Nom")(2,"Adj+With")(3,"Noun+Zero+A3sg+Pnon+Nom")]' REL="[2,2,(OBJECT)]"> İddialı </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos")(2,"Adv+As")]' REL="[4,2,(MODIFIER)]"> oldukça </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"değer+Noun+A3sg+Pnon+Nom")]' REL="[4,2,(OBJECT)]"> değer </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"kazan+Verb+Pos")(2,"Noun+PastPart+A3sg+P3pl+Acc")]' REL="[5,1,(OBJECT)]"> kazandıklarını </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"düşün+Verb+Pos+Prog1+A3pl")]' REL="[6,1,(SENTENCE)]"> düşünüyorlar </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"kendi+Pron+ReflexP+A3pl+P3pl+Dat")]' REL="[2,1,(OBJECT)]"> Kendilerine </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"aşırı+Adj")]' REL="[3,3,(MODIFIER)]"> aşırı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"güven+Noun+A3sg+Pnon+Nom")(2,"Adj+With")(3,"Verb+Zero+Pres+A3pl")]' REL="[4,1,(SENTENCE)]"> güvenliler </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

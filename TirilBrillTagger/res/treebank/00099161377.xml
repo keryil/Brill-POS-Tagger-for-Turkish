@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"evet+Adv")]' REL="[3,1,(MODIFIER)]"> Evet </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A1sg")]' REL="[5,1,(SENTENCE)]"> dedim </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"Casino_Venüs+Noun+Prop+A3sg+Pnon+Loc")(2,"Verb+Zero+Past+A1sg")]' REL="[5,1,(SENTENCE)]" ORG_IG1='[(1,"casino+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"Venüs+Noun+Prop+A3sg+Pnon+Loc")(2,"Verb+Zero+Past+A1sg")]'> Casino_Venüs'teydim </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

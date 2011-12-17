@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Mebrure+Noun+Prop+A3sg+Pnon+Nom")]' REL="[4,1,(SUBJECT)]"> Mebrure </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"zarf+Noun+A3sg+Pnon+Acc")]' REL="[4,1,(OBJECT)]"> zarfı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Dat")]' REL="[4,1,(DATIVE.ADJUNCT)]"> bana </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"uza+Verb")(2,"Verb+Caus+Pos+Past+A3sg")]' REL="[5,1,(SENTENCE)]"> uzattı </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

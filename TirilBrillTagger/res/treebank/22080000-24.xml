@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"iş+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(CLASSIFIER)]"> İş </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"güvence+Noun+A3sg+P3sg+Nom")]' REL="[8,2,(SUBJECT)]"> Güvencesi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"iş+Noun+A3sg+Pnon+Nom")]' REL="[5,1,(CLASSIFIER)]"> İş </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"kanun+Noun+A3sg+P3sg+Nom")]' REL="[6,1,(OBJECT)]"> Kanunu </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ile+Postp+PCNom")]' REL="[7,1,(OBJECT)]"> ile </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"birlikte+Postp+PCIns")]' REL="[8,2,(MODIFIER)]"> birlikte </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"ele_al+Verb")(2,"Verb+Pass+Pos+Imp+A3sg")]' REL="[9,1,(SENTENCE)]" ORG_IG1='[(1,"el+Noun+A3sg+Pnon+Dat")]' ORG_IG2='[(1,"al+Verb")(2,"Verb+Pass+Pos+Imp+A3sg")]'> ele_alınsın </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[12,3,(COORDINATION)]"> , </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"ssk+Noun+A3sg+Pnon+Nom")]' REL="[11,1,(CLASSIFIER)]"> SSK </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"prim+Noun+A3pl+P3sg+Nom")]' REL="[12,3,(SUBJECT)]"> primleri </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"düş+Verb")(2,"Verb+Caus")(3,"Verb+Pass+Pos+Imp+A3sg")]' REL="[13,1,(SENTENCE)]"> düşürülsün </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

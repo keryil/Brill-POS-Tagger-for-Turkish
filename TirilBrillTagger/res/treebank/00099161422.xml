@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"kim+Pron+QuesP+A3sg+Pnon+Nom")]' REL="[3,1,(SENTENCE)]"> Kim </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3sg+Pnon+Nom")]' REL="[1,1,(SUBJECT)]"> o </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[4,1,(OBJECT)]"> ? </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A3sg")]' REL="[9,1,(SENTENCE)]"> dedi </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"sert+Adj")]' REL="[7,1,(MODIFIER)]"> sert </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[7,1,(DETERMINER)]"> bir </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"erkek+Noun+A3sg+Pnon+Nom")]' REL="[8,1,(CLASSIFIER)]"> erkek </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"ses+Noun+A3sg+P3sg+Nom")]' REL="[4,1,(SUBJECT)]"> sesi </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

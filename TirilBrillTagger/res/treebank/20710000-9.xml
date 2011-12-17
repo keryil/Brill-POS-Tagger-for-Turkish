@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"THY_uçuş+Verb+Pos+Imp+A2sg")]' REL="[2,1,(CLASSIFIER)]" ORG_IG1='[(1,"thy+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"uçuş+Verb+Pos+Imp+A2sg")]'> THY_Uçuş </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"İşletme_Başkanı_Kaptan_Pilot_İlhami_Rojda+Noun+Prop+A3sg+Pnon+Nom")]' REL="[17,1,(SUBJECT)]" ORG_IG1='[(1,"işle+Verb")(2,"Verb+Caus+Pos")(3,"Noun+Inf+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"başkan+Noun+A3sg+P3sg+Nom")]' ORG_IG3='[(1,"kaptan+Noun+A3sg+Pnon+Nom")]' ORG_IG4='[(1,"pilot+Noun+A3sg+Pnon+Nom")]' ORG_IG5='[(1,"İlhami+Noun+Prop+A3sg+Pnon+Nom")]' ORG_IG6='[(1,"Rojda+Noun+Prop+A3sg+Pnon+Nom")]'> İşletme_Başkanı_Kaptan_Pilot_İlhami_Rojda </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ise+Conj")]' REL="[2,1,(INTENSIFIER)]"> ise </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"aile+Noun+A3sg+Pnon+Gen")]' REL="[6,2,(POSSESSOR)]"> ailenin </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ver+Verb+Pos")(2,"Adj+PastPart+P3sg")]' REL="[7,1,(MODIFIER)]"> verdiği </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"bilgi+Noun+A3sg+Pnon+Gen")]' REL="[8,1,(POSSESSOR)]"> bilginin </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"aksine+Adv")]' REL="[16,2,(MODIFIER)]"> aksine </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"Ulusu+Noun+Prop+A3sg+Pnon+Gen")]' REL="[16,2,(OBJECT)]"> Ulusu'nun </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"kaza+Noun+A3sg+Pnon+Nom")]' REL="[11,1,(CLASSIFIER)]"> kaza </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"gün+Noun+A3sg+P3sg+Nom")]' REL="[16,2,(LOCATIVE.ADJUNCT)]"> günü </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"stand_rojda+Noun+A3sg+Pnon+Nom")]' REL="[16,2,(OBJECT)]" ORG_IG1='[(1,"stand+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"Rojda+Noun+Prop+A3sg+Pnon+Nom")]'> stand_Rojda </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"(+Punc")]' REL="[,( )]"> ( </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"nöbet+Noun+A3sg+Pnon+Nom")(2,"Noun+Agt+A3sg+Pnon+Nom")]' REL="[12,1,(APPOSITION)]"> nöbetçi </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,")+Punc")]' REL="[,( )]"> ) </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,"ol+Verb+Neg")(2,"Noun+PastPart+A3sg+P3sg+Acc")]' REL="[17,1,(OBJECT)]"> olmadığını </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,"söyle+Verb+Pos+Past+A3sg")]' REL="[18,1,(SENTENCE)]"> söyledi </W>
+<W IX="18" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

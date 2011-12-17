@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"birbiri+Pron+A3sg+P3sg+Ins")]' REL="[2,2,(MODIFIER)]"> Birbiriyle </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"uyum+Noun+A3sg+Pnon+Nom")(2,"Adj+With")]' REL="[6,1,(MODIFIER)]"> uyumlu </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"üç+Num+Card")]' REL="[4,1,(MODIFIER)]"> üç </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[5,1,(COORDINATION)]"> , </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"dört+Num+Card")]' REL="[6,1,(MODIFIER)]"> dört </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ses+Noun+A3sg+Pnon+Nom")]' REL="[23,1,(SUBJECT)]"> ses </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"bağlama+Noun+A3sg+Pnon+Abl")]' REL="[9,1,(ABLATIVE.ADJUNCT)]"> bağlamadan </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"çık+Verb+Pos")(2,"Adv+AfterDoingSo")]' REL="[16,2,(MODIFIER)]"> çıkıp </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"elektronik+Adj")]' REL="[11,1,(MODIFIER)]"> elektronik </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"cihaz+Noun+A3pl+Pnon+Dat")]' REL="[12,1,(DATIVE.ADJUNCT)]"> cihazlara </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[15,1,(COORDINATION)]"> , </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"ora+Noun+A3sg+Pnon+Abl")]' REL="[16,2,(ABLATIVE.ADJUNCT)]"> oradan </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"da+Conj")]' REL="[13,1,(INTENSIFIER)]"> da </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"hava+Noun+A3sg+Pnon+Dat")]' REL="[16,2,(DATIVE.ADJUNCT)]"> havaya </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,"yay+Verb")(2,"Verb+Pass+Pos")(3,"Adv+AfterDoingSo")]' REL="[23,1,(MODIFIER)]"> yayılıp </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="18" LEM="" MORPH=" " IG='[(1,"birkaç+Adj")]' REL="[19,1,(MODIFIER)]"> birkaç </W>
+<W IX="19" LEM="" MORPH=" " IG='[(1,"saniye+Noun+A3sg+Pnon+Loc")]' REL="[23,1,(MODIFIER)]"> saniyede </W>
+<W IX="20" LEM="" MORPH=" " IG='[(1,"yüzlerce+Num+Card")]' REL="[21,1,(MODIFIER)]"> yüzlerce </W>
+<W IX="21" LEM="" MORPH=" " IG='[(1,"metre+Noun+A3sg+Pnon+Nom")]' REL="[22,1,(MODIFIER)]"> metre </W>
+<W IX="22" LEM="" MORPH=" " IG='[(1,"uzak+Adj")(2,"Noun+Zero+A3sg+Pnon+Dat")]' REL="[23,1,(DATIVE.ADJUNCT)]"> uzağa </W>
+<W IX="23" LEM="" MORPH=" " IG='[(1,"git+Verb+Pos+Past+A3sg")]' REL="[24,1,(SENTENCE)]"> gitti </W>
+<W IX="24" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

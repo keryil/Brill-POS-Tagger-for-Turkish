@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ama+Conj")]' REL="[11,1,(S.MODIFIER)]"> Ama </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"sen+Pron+PersP+A2sg+Pnon+Nom")]' REL="[6,1,(SUBJECT)]"> sen </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ille+Adv")]' REL="[6,1,(MODIFIER)]"> ille </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[3,1,(INTENSIFIER)]"> de </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ol+Verb+Neg+Aor+A3sg")]' REL="[6,1,(OBJECT)]"> olmaz </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Aor+Cond+A2sg")]' REL="[10,2,(MODIFIER)]"> dersen </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"kim+Pron+QuesP+A3sg+Pnon+Nom")]' REL="[10,2,(SUBJECT)]"> kim </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"sen+Pron+PersP+A2sg+Pnon+Dat")]' REL="[10,2,(DATIVE.ADJUNCT)]"> sana </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"bu+Pron+DemonsP+A3sg+Pnon+Acc")]' REL="[10,2,(OBJECT)]"> bunu </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"dayat+Verb+Pos")(2,"Verb+Able+Aor+A3sg")]' REL="[11,1,(SENTENCE)]"> dayatabilir </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

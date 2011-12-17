@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Allah+Noun+Prop+A3sg+Pnon+Nom")]' REL="[3,1,(SUBJECT)]"> Allah </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"layık+Noun+A3sg+P2sg+Acc")]' REL="[3,1,(OBJECT)]"> layığını </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ver+Verb+Pos+Imp+A3sg")]' REL="[4,1,(SENTENCE)]"> versin </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"!+Punc")]' REL="[,( )]"> ! </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"öd+Noun+A3sg+P1sg+Acc")]' REL="[2,1,(OBJECT)]"> Ödümü </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kop+Verb+Pos+Aor+Past+A2sg")]' REL="[3,1,(SENTENCE)]"> kopardın </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

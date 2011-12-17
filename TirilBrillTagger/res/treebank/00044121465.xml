@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Hannes_alfven+Noun+A3sg+Pnon+Nom")]' REL="[5,1,(APPOSITION)]" ORG_IG1='[(1,"hannes+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"alfven+Noun+A3sg+Pnon+Nom")]'> Hannes_Alfven </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,":+Punc")]' REL="[,( )]"> : </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"Big_bang+Noun+A3sg+Pnon+Nom")]' REL="[5,2,(OBJECT)]" ORG_IG1='[(1,"big+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"bang+Noun+A3sg+Pnon+Nom")]'> Big_bang </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[5,1,(DETERMINER)]"> bir </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"söylence+Noun+A3sg+Pnon+Nom")(2,"Verb+Zero+Pres+Cop+A3sg")]' REL="[6,1,(SENTENCE)]"> söylencedir </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[14,1,(COORDINATION)]"> , </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"hak+Noun+A3sg+Pnon+Nom")(2,"Adj+Without")(3,"Noun+Ness+A3sg+Pnon+Nom")]' REL="[8,1,(OBJECT)]"> haksızlık </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"et+Verb+Neg+Opt+A1pl")]' REL="[14,1,(S.MODIFIER)]"> etmeyelim </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"belki+Adv")]' REL="[14,1,(MODIFIER)]"> belki </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[10,1,(INTENSIFIER)]"> de </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"iyi+Adj")]' REL="[14,1,(MODIFIER)]"> iyi </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[14,1,(DETERMINER)]"> bir </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"söylence+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(APPOSITION)]"> söylence </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"alfven+Noun+A3sg+Pnon+Nom")]' REL="[8,3,(SUBJECT)]"> Alfven </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"fizik+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(CLASSIFIER)]"> Fizik </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"dal+Noun+A3sg+P3sg+Loc")]' REL="[6,1,(MODIFIER)]"> dalında </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"Nobel+Noun+Prop+A3sg+Pnon+Nom")]' REL="[6,2,(CLASSIFIER)]"> Nobel </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ödül+Noun+A3sg+Pnon+Nom")(2,"Adj+With")]' REL="[8,3,(MODIFIER)]"> ödüllü </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[8,3,(SUBJECT)]"> bir </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"bilim+Noun+A3sg+Pnon+Nom")(2,"Noun+Agt+A3sg+Pnon+Nom")(3,"Verb+Zero+Pres+Cop+A3sg")]' REL="[9,1,(SENTENCE)]"> bilimcidir </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

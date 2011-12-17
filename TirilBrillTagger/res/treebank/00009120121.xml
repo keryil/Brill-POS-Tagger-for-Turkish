@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"doğru+Adj")(2,"Noun+Zero+A3pl+Pnon+Acc")]' REL="[2,1,(OBJECT)]"> Doğruları </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bil+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[3,3,(OBJECT)]"> bilmek </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"zor+Adj")(2,"Noun+Zero+A3sg+P3sg+Loc")(3,"Verb+Zero+Pres+A1pl")]' REL="[4,1,(SENTENCE)]"> zorundayız </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[6,1,(COORDINATION)]"> , </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"bu+Pron+Demons+A3sg+Pnon+Nom")]' REL="[6,1,(DETERMINER)]"> bu </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"doğru+Adj")]' REL="[7,1,(SENTENCE)]"> doğru </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>

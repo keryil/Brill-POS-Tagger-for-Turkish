@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[15,1,(SENTENCE)]"> Ve </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"fakat+Conj")]' REL="[15,1,(SENTENCE)]"> fakat </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[5,1,(DETERMINER)]"> bu </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"yeni+Adj")]' REL="[5,1,(MODIFIER)]"> yeni </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"gerçek+Noun+A3sg+Pnon+Nom")]' REL="[14,1,(SUBJECT)]"> gerçek </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"Kadıköy+Noun+Prop+A3sg+Pnon+Nom")]' REL="[8,1,(CLASSIFIER)]"> Kadıköy </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"vapur+Noun+A3sg+P3sg+Gen")]' REL="[10,1,(CLASSIFIER)]"> vapurunun </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"karşıdan_karşı+Noun+A3sg+Pnon+Dat")]' REL="[10,1,(MODIFIER)]" ORG_IG1='[(1,"karşı+Noun+A3sg+Pnon+Abl")]' ORG_IG2='[(1,"karşı+Noun+A3sg+Pnon+Dat")]'> karşıdan_karşıya </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"geç+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[11,1,(CLASSIFIER)]"> geçiş </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"süre+Noun+A3sg+P3sg+Acc")]' REL="[14,1,(OBJECT)]"> süresini </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"hiçbir+Det")]' REL="[13,1,(DETERMINER)]"> hiçbir </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"şekil+Noun+A3sg+Pnon+Loc")]' REL="[14,1,(MODIFIER)]"> şekilde </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"değiş+Verb")(2,"Verb+Caus+Neg+Past+A3sg")]' REL="[15,1,(SENTENCE)]"> değiştirmedi </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

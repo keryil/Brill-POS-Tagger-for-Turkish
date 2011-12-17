@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="3">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"evet+Adv")]' REL="[2,1,(SENTENCE)]"> Evet </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[4,1,(COORDINATION)]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"geri+Adv")]' REL="[4,1,(MODIFIER)]"> geri </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"dön+Verb+Pos+Prog1+A1sg")]' REL="[5,1,(SENTENCE)]"> dönüyorum </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"o+Pron+DemonsP+A3sg+Pnon+Nom")(2,"Adj+Without")]' REL="[2,2,(MODIFIER)]"> Onsuz </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"yap+Verb")(2,"Verb+Able+Neg+Past+A1sg")]' REL="[3,1,(SENTENCE)]"> yapamadım </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"uzak+Adj")(2,"Verb+Become+Pos")(3,"Noun+PastPart+A3sg+P1sg+Dat")]' REL="[2,1,(OBJECT)]"> Uzaklaştığıma </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"pişman_ol+Verb+Pos+Past+A1sg")]' REL="[3,1,(SENTENCE)]" ORG_IG1='[(1,"pişman+Adj")]' ORG_IG2='[(1,"ol+Verb+Pos+Past+A1sg")]'> pişman_oldum </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"çok+Adv")]' REL="[2,1,(MODIFIER)]"> Çok </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"sık+Adv")]' REL="[4,1,(MODIFIER)]"> sık </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"mı+Ques+Pres+A3sg")]' REL="[2,1,(QUESTION.PARTICLE)]"> mı </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"aşık_ol+Verb+Pos+Aor+A3sg")]' REL="[6,1,(SENTENCE)]" ORG_IG1='[(1,"aşık+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"ol+Verb+Pos+Aor+A3sg")]'> aşık_olur </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"Mahmut+Noun+Prop+A3sg+Pnon+Nom")]' REL="[4,1,(SUBJECT)]"> Mahmut </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[7,1,(OBJECT)]"> ? </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"diye+Postp+PCNom")]' REL="[8,1,(MODIFIER)]"> diye </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"sor+Verb+Pos+Past+A1sg")]' REL="[9,1,(SENTENCE)]"> sordum </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

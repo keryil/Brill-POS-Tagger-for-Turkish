@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"insan+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(CLASSIFIER)]"> İnsan </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"hak+Noun+A3pl+P3sg+Abl")]' REL="[10,1,(OBJECT)]"> haklarından </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"sanayi+Noun+A3sg+P3sg+Dat")]' REL="[5,1,(OBJECT)]"> sanayiine </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[9,1,(COORDINATION)]"> , </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"kültürel+Adj")]' REL="[7,1,(MODIFIER)]"> kültürel </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[8,1,(COORDINATION)]"> ve </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"toplumsal+Adj")]' REL="[9,1,(MODIFIER)]"> toplumsal </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"yaşam+Noun+A3sg+P3sg+Dat")]' REL="[10,1,(OBJECT)]"> yaşamına </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"değin+Postp+PCDat")]' REL="[13,1,(MODIFIER)]"> değin </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"iç+Noun+A3sg+P3sg+Dat")]' REL="[13,1,(OBJECT)]"> içine </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"hapsol+Verb+Pos")(2,"Noun+PastPart+A3sg+P3sg+Nom")]' REL="[14,1,(CLASSIFIER)]"> hapsolduğu </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"yalnız+Adj")(2,"Noun+Ness+A3pl+Pnon+Ins")]' REL="[15,1,(OBJECT)]"> yalnızlıklarla </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"yaşa+Verb+Pos")(2,"Adj+PresPart")]' REL="[17,1,(MODIFIER)]"> yaşayan </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[17,1,(DETERMINER)]"> bir </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,"ülke+Noun+A3sg+Pnon+Acc")]' REL="[18,1,(SENTENCE)]"> ülkeyi </W>
+<W IX="18" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>

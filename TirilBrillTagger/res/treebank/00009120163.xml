@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bir+Adj")]' REL="[4,1,(MODIFIER)]"> Bir </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[1,1,(INTENSIFIER)]"> de </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"kılıç+Noun+A3sg+Pnon+Nom")]' REL="[5,1,(OBJECT)]"> kılıç </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"çık+Verb+Pos+Past+A3sg")]' REL="[8,1,(SENTENCE)]"> çıktı </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"kutu+Noun+A3pl+Pnon+Gen")]' REL="[7,1,(CLASSIFIER)]"> kutuların </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"ara+Noun+A3sg+P3sg+Abl")]' REL="[5,1,(ABLATIVE.ADJUNCT)]"> arasından </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"oğul+Noun+A3sg+P1sg+Nom")]' REL="[7,1,(VOCATIVE)]"> Oğlum </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ne+Pron+QuesP+A3sg+Pnon+Nom")]' REL="[5,1,(SUBJECT)]"> Ne </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"iş+Noun+A3sg+Pnon+Dat")]' REL="[5,1,(OBJECT)]"> işe </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"yara+Verb+Pos")(2,"Noun+PastPart+A3sg+P3sg+Acc")]' REL="[7,1,(OBJECT)]"> yaradığını </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"sor+Verb+Pos+Past+A3sg")]' REL="[8,1,(SENTENCE)]"> sordu </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

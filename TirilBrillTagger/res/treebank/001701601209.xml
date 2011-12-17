@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Nom")]' REL="[6,1,(SUBJECT)]"> Ben </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"sen+Pron+PersP+A2sg+Pnon+Gen")]' REL="[3,1,(OBJECT)]"> senin </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"gibi+Postp+PCNom")]' REL="[6,1,(MODIFIER)]"> gibi </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"pis+Adj")]' REL="[5,1,(MODIFIER)]"> pis </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"boğaz+Noun+A3sg+Pnon+Nom")]' REL="[7,1,(SENTENCE)]"> boğaz </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"değil+Verb+Pres+A1sg")]' REL="[5,1,(NEGATIVE.PARTICLE)]"> değilim </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"koy+Verb+Pos+Imp+A2sg")]' REL="[13,1,(SENTENCE)]"> koy </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"cep+Noun+A3sg+P3sg+Dat")]' REL="[8,1,(DATIVE.ADJUNCT)]"> cebine </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"akşam+Noun+A3sg+Pnon+Nom")]' REL="[12,1,(MODIFIER)]"> akşam </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"abi+Noun+A3sg+P1sg+Dat")]' REL="[12,1,(OBJECT)]"> abime </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"ver+Verb+Pos+Aor+A2sg")]' REL="[13,1,(SENTENCE)]"> verirsin </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hey+Interj")]' REL="[2,1,(VOCATIVE)]"> Hey </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[3,1,(COORDINATION)]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"Ömer+Noun+Prop+A3sg+Pnon+Nom")]' REL="[4,1,(VOCATIVE)]"> Ömer </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[6,1,(COORDINATION)]"> , </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"kalk+Verb+Pos+Imp+A2sg")]' REL="[7,1,(DETERMINER)]"> kalk </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"oğul+Noun+A3sg+P1sg+Nom")]' REL="[5,1,(VOCATIVE)]"> oğlum </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[8,1,(COORDINATION)]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"geç_kal+Verb+Pos+Narr+A1pl")]' REL="[9,1,(SENTENCE)]" ORG_IG1='[(1,"geç+Adv")]' ORG_IG2='[(1,"kal+Verb+Pos+Narr+A1pl")]'> geç_kalmışız </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

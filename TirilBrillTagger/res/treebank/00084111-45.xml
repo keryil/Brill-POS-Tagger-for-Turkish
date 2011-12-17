@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"o+Det")]' REL="[2,1,(DETERMINER)]"> O </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"gün+Noun+A3sg+Pnon+Nom")]' REL="[7,1,(MODIFIER)]"> gün </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"Recep+Noun+Prop+A3sg+Pnon+Ins")]' REL="[5,1,(MODIFIER)]"> Recep'le </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"Ömer+Noun+Prop+A3sg+Pnon+Gen")]' REL="[6,1,(SUBJECT)]"> Ömer'in </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"gecik+Verb+Pos")(2,"Noun+Inf+A3pl+P3pl+Dat")]' REL="[7,1,(OBJECT)]"> gecikmelerine </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"kız+Verb+Pos+Narr+Past+A3sg")]' REL="[9,1,(SENTENCE)]"> kızmıştı </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"Saffet+Noun+Prop+A3sg+Pnon+Nom")]' REL="[7,1,(SUBJECT)]"> Saffet </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

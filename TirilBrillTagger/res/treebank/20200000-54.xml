@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"balık+Noun+A3pl+Pnon+Gen")]' REL="[2,1,(POSSESSOR)]"> Balıkların </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"para+Noun+A3sg+P3sg+Acc")]' REL="[3,1,(OBJECT)]"> parasını </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"öde+Verb+Pos+Fut+A3pl")]' REL="[4,1,(SENTENCE)]"> ödeyecekler </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="5">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Casino_Venüs+Noun+Prop+A3sg+Pnon+Nom")]' REL="[2,1,(OBJECT)]" ORG_IG1='[(1,"casino+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"Venüs+Noun+Prop+A3sg+Pnon+Nom")]'> Casino_Venüs </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A3sg")]' REL="[4,1,(SENTENCE)]"> dedi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"Gül_abla+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(SUBJECT)]" ORG_IG1='[(1,"Gül+Noun+Prop+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"abla+Noun+A3sg+Pnon+Nom")]'> Gül_Abla </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"şu+Pron+DemonsP+A3sg+Pnon+Nom")]' REL="[4,1,(SUBJECT)]"> Şu </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"sen+Pron+PersP+A2sg+Pnon+Gen")]' REL="[4,1,(POSSESSOR)]"> senin </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"erkek+Adj")]' REL="[4,1,(CLASSIFIER)]"> erkek </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"makine+Noun+A3sg+P2sg+Nom")]' REL="[5,1,(SENTENCE)]"> makinen </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"tut+Verb")(2,"Verb+Pass+Pos+Narr+A2sg")]' REL="[3,1,(SENTENCE)]"> Tutulmuşsun </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3sg+Pnon+Dat")]' REL="[1,2,(SUBJECT)]"> ona </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="4">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[2,1,(DETERMINER)]"> Bir </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"aldatmaca+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(SENTENCE)]"> aldatmaca </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="5">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"tehlike+Noun+A3sg+Pnon+Nom")(2,"Adj+With")]' REL="[2,1,(MODIFIER)]"> Tehlikeli </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"şey+Noun+A3pl+Pnon+Nom")]' REL="[4,1,(SENTENCE)]"> şeyler </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bu+Pron+DemonsP+A3pl+Pnon+Nom")]' REL="[2,1,(SUBJECT)]"> bunlar </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>

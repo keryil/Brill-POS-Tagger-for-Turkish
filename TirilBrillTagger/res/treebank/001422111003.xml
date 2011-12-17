@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="4">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"rekabet+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(SUBJECT)]"> Rekabet </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ne+Pron+QuesP+A3pl+Pnon+Nom")]' REL="[3,2,(OBJECT)]"> neler </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yap+Verb")(2,"Verb+Caus+Pos+Prog1+A3sg")]' REL="[4,1,(SENTENCE)]"> yaptırıyor </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"leblebi+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(OBJECT)]"> Leblebi </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos")(2,"Adv+AfterDoingSo")]' REL="[3,1,(MODIFIER)]"> deyip </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"geç+Verb+Neg+Imp+A2pl")]' REL="[4,1,(SENTENCE)]"> geçmeyin </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"rakı+Noun+A3sg+Pnon+Gen")]' REL="[2,1,(POSSESSOR)]"> Rakının </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"yan+Noun+A3sg+P3sg+Abl")]' REL="[4,1,(ABLATIVE.ADJUNCT)]"> yanından </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"eksik+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(OBJECT)]"> eksik </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"et+Verb+Neg+Imp+A2pl")]' REL="[5,1,(SENTENCE)]"> etmeyin </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="4">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ata+Noun+A3sg+P1pl+Gen")]' REL="[2,1,(POSSESSOR)]"> Atamızın </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"meze+Noun+A3sg+P3sg+Nom")]' REL="[4,1,(SENTENCE)]"> mezesi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"o+Pron+DemonsP+A3sg+Pnon+Nom")]' REL="[2,1,(SUBJECT)]"> o </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

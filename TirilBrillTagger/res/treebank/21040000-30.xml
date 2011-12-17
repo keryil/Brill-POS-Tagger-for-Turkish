@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"a+Interj")]' REL="[2,1,(CLASSIFIER)]"> A </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"tip+Noun+A3sg+P3sg+Nom")]' REL="[3,1,(MODIFIER)]"> tipi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"fon+Noun+A3pl+Pnon+Gen")]' REL="[7,1,(POSSESSOR)]"> fonların </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"geçen+Adj")]' REL="[5,1,(MODIFIER)]"> geçen </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"yıl+Noun+A3sg+Pnon+Dat")]' REL="[6,1,(OBJECT)]"> yıla </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ait+Postp+PCDat")]' REL="[7,1,(MODIFIER)]"> ait </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"performans+Noun+A3sg+P3sg+Acc")]' REL="[8,2,(OBJECT)]"> performansını </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"incele+Verb+Pos+Aor")(2,"Adv+While")]' REL="[13,2,(MODIFIER)]"> incelerken </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"başlıca+Adj")]' REL="[12,1,(MODIFIER)]"> başlıca </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"üç+Num+Card")]' REL="[12,1,(MODIFIER)]"> üç </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"ana+Adj")]' REL="[12,1,(MODIFIER)]"> ana </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"kategori+Noun+A3sg+Pnon+Dat")]' REL="[13,2,(DATIVE.ADJUNCT)]"> kategoriye </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"ayır+Verb+Pos")(2,"Verb+Able+Aor+A1pl")]' REL="[15,1,(SENTENCE)]"> ayırabiliriz </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,":+Punc")]' REL="[,( )]"> : </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"niçin+Adv")]' REL="[2,1,(SENTENCE)]"> Niçin </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[8,1,(COORDINATION)]"> ? </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"niçin+Adv")]' REL="[7,2,(MODIFIER)]"> Niçin </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"bir+Adv")]' REL="[5,1,(MODIFIER)]"> bir </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"gir+Verb+Pos")(2,"Adj+PresPart")]' REL="[7,2,(SUBJECT)]"> giren </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"bir_daha+Adv")]' REL="[7,2,(MODIFIER)]" ORG_IG1='[(1,"bir+Det")]' ORG_IG2='[(1,"daha+Adv")]'> bir_daha </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"çık+Verb")(2,"Verb+Able+Neg+Aor+A3sg")]' REL="[9,1,(SENTENCE)]"> çıkamaz </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"ora+Noun+A3sg+Pnon+Abl")]' REL="[7,2,(ABLATIVE.ADJUNCT)]"> oradan </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[10,1,(OBJECT)]"> ? </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"diye+Postp+PCNom")]' REL="[11,1,(OBJECT)]"> diye </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"sor+Verb+Pos+Past+A1sg")]' REL="[12,1,(SENTENCE)]"> sordum </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

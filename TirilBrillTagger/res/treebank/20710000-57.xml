@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"İstanbul+Noun+Prop+A3sg+Pnon+Nom")]' REL="[2,1,(DATIVE.ADJUNCT)]"> İstanbul </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[3,1,(COORDINATION)]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"Ankara+Noun+Prop+A3sg+Pnon+Nom")]' REL="[4,1,(DATIVE.ADJUNCT)]"> Ankara </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[5,1,(COORDINATION)]"> , </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"İzmir+Noun+Prop+A3sg+Pnon+Nom")]' REL="[6,1,(DATIVE.ADJUNCT)]"> İzmir </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[7,1,(COORDINATION)]"> , </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"Antalya+Noun+Prop+A3sg+Pnon+Nom")]' REL="[8,1,(DATIVE.ADJUNCT)]"> Antalya </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[9,1,(COORDINATION)]"> , </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"Dalaman+Noun+Prop+A3sg+Pnon+Nom")]' REL="[10,1,(DATIVE.ADJUNCT)]"> Dalaman </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[11,1,(COORDINATION)]"> , </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"Adana+Noun+Prop+A3sg+Pnon+Nom")]' REL="[12,1,(DATIVE.ADJUNCT)]"> Adana </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[13,1,(COORDINATION)]"> , </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"Trabzon+Noun+Prop+A3sg+Pnon+Nom")]' REL="[14,1,(DATIVE.ADJUNCT)]"> Trabzon </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[15,1,(COORDINATION)]"> , </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"Bodrum_Milas+Noun+Prop+A3sg+Pnon+Nom")]' REL="[16,1,(DATIVE.ADJUNCT)]" ORG_IG1='[(1,"bodrum+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"Milas+Noun+Prop+A3sg+Pnon+Nom")]'> Bodrum_Milas </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[17,1,(COORDINATION)]"> , </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,"Bursa+Noun+Prop+A3sg+Pnon+Loc")]' REL="[19,1,(DATIVE.ADJUNCT)]"> Bursa'da </W>
+<W IX="18" LEM="" MORPH=" " IG='[(1,"'+Punc")]' REL="[,( )]"> ' </W>
+<W IX="19" LEM="" MORPH=" " IG='[(1,"bulun+Verb+Pos+Prog1+A3sg")]' REL="[20,1,(SENTENCE)]"> bulunuyor </W>
+<W IX="20" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"önce+Adv")]' REL="[3,1,(MODIFIER)]"> Önce </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kahve+Noun+A3pl+P1pl+Acc")]' REL="[3,1,(OBJECT)]"> kahvelerimizi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"iç+Verb+Pos+Opt+A1pl")]' REL="[5,1,(SENTENCE)]"> içelim </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[3,1,(INTENSIFIER)]"> de </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>

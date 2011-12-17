@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"o+Det")]' REL="[2,1,(DETERMINER)]"> O </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"anlam+Noun+A3sg+Pnon+Loc")]' REL="[10,1,(LOCATIVE.ADJUNCT)]"> anlamda </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"tarih+Noun+A3sg+Pnon+Gen")]' REL="[5,1,(POSSESSOR)]"> tarihin </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"doğru+Adj")(2,"Noun+Zero+A3sg+P3sg+Nom")]' REL="[6,1,(SUBJECT)]"> doğrusu </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ya_da+Conj")]' REL="[7,1,(COORDINATION)]" ORG_IG1='[(1,"ya+Conj")]' ORG_IG2='[(1,"da+Conj")]'> ya_da </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"yanlış+Adj")(2,"Noun+Zero+A3sg+P3sg+Nom")]' REL="[10,1,(SUBJECT)]"> yanlışı </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"çok+Adv")]' REL="[10,1,(MODIFIER)]"> çok </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"da+Conj")]' REL="[8,1,(INTENSIFIER)]"> da </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"fark_et+Verb+Neg+Prog1+A3sg")]' REL="[11,1,(SENTENCE)]" ORG_IG1='[(1,"fark+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"et+Verb+Neg+Prog1+A3sg")]'> fark_etmiyor </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

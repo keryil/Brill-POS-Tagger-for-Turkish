@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="5">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"küçük+Adv")]' REL="[2,1,(MODIFIER)]"> Küçük </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"gör+Verb+Neg+Imp+A2pl")]' REL="[3,1,(SENTENCE)]"> görmeyin </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"özen+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(OBJECT)]"> Özen </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"göster+Verb+Pos+Imp+A2pl")]' REL="[4,1,(SENTENCE)]"> gösterin </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"o+Pron+DemonsP+A3pl+Pnon+Dat")]' REL="[2,1,(DATIVE.ADJUNCT)]"> onlara </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ağız+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(CLASSIFIER)]"> Ağız </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"tat+Noun+A3sg+Pnon+Acc")]' REL="[3,1,(OBJECT)]"> tadı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"için+Postp+PCNom")]' REL="[4,1,(MODIFIER)]"> için </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"gerek+Noun+A3sg+Pnon+Nom")(2,"Adj+With")]' REL="[7,1,(SENTENCE)]"> gerekli </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[6,1,(DETERMINER)]"> bu </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"memiş+Noun+A3pl+Pnon+Nom")]' REL="[4,1,(SUBJECT)]"> memişler </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="4">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"işte+Adv")]' REL="[6,1,(S.MODIFIER)]"> İşte </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"rakı+Noun+A3sg+Pnon+Nom")]' REL="[5,1,(SUBJECT)]"> rakı </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"bu+Pron+DemonsP+A3pl+Pnon+Acc")]' REL="[5,1,(DATIVE.ADJUNCT)]"> bunları </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"temizle+Verb+Pos+Prog1+A3sg")]' REL="[6,1,(SUBJECT)]"> temizliyor </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="5">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"duyarlı+Adj")]' REL="[2,1,(MODIFIER)]"> Duyarlı </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kıl+Verb+Pos+Prog1+A3sg")]' REL="[3,1,(SENTENCE)]"> kılıyor </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Recep_ağabey+Noun+A3sg+Pnon+Nom")]' REL="[6,2,(VOCATIVE)]" ORG_IG1='[(1,"Recep+Noun+Prop+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"ağabey+Noun+A3sg+Pnon+Nom")]'> Recep_Ağabey </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Gen")]' REL="[4,1,(POSSESSOR)]"> benim </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"pantolon+Noun+A3sg+Pnon+Loc")]' REL="[6,2,(LOCATIVE.ADJUNCT)]"> pantolonda </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ateş+Noun+A3sg+Pnon+Nom")]' REL="[6,2,(SUBJECT)]"> ateş </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"var+Adj")(2,"Verb+Zero+A3sg")]' REL="[7,1,(SENTENCE)]"> var </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[8,1,(OBJECT)]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"diye+Postp+PCNom")]' REL="[9,1,(MODIFIER)]"> diye </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"seslen+Verb+Pos+Past+A3sg")]' REL="[10,1,(SENTENCE)]"> seslendi </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

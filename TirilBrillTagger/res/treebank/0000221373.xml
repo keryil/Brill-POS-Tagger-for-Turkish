@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Kerem+Noun+Prop+A3sg+Pnon+Nom")]' REL="[5,2,(SUBJECT)]"> Kerem </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"cep+Noun+A3sg+P3sg+Abl")]' REL="[5,2,(ABLATIVE.ADJUNCT)]"> cebinden </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[4,1,(DETERMINER)]"> bir </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"mendil+Noun+A3sg+Pnon+Nom")]' REL="[5,2,(OBJECT)]"> mendil </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"çık+Verb")(2,"Verb+Caus")(3,"Verb+Caus+Pos+Narr+A3sg")]' REL="[12,1,(MODIFIER)]"> çıkartmış </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,";+Punc")]' REL="[,( )]"> ; </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"yüz+Noun+A3sg+P3sg+Loc")(2,"Adj+Rel")]' REL="[8,1,(MODIFIER)]"> yüzündeki </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[9,2,(COORDINATION)]"> , </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"boyun+Noun+A3sg+P3sg+Loc")(2,"Adj+Rel")]' REL="[11,1,(MODIFIER)]"> boynundaki </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"ter+Noun+A3sg+Pnon+Nom")]' REL="[11,1,(CLASSIFIER)]"> ter </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"damlacık+Noun+A3pl+P3pl+Acc")]' REL="[12,1,(OBJECT)]"> damlacıklarını </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"sil+Verb+Pos+Prog1+Past+A3sg")]' REL="[13,1,(SENTENCE)]"> siliyordu </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Cumhuriyetçi_Türk_parti+Noun+A3sg+P3sg+Nom")]' REL="[5,1,(CLASSIFIER)]" ORG_IG1='[(1,"cumhuriyet+Noun+A3sg+Pnon+Nom")(2,"Adj+Agt")]' ORG_IG2='[(1,"türk+Noun+A3sg+Pnon+Prop+Nom")]' ORG_IG3='[(1,"parti+Noun+A3sg+P3sg+Nom")]'> Cumhuriyetçi_Türk_Partisi </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"(+Punc")]' REL="[,( )]"> ( </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"and+Noun+A3sg+Pnon+Nom")]' REL="[,( )]"> and </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,")+Punc")]' REL="[,( )]"> ) </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"Genel_sekreter+Noun+A3sg+P3sg+Nom")]' REL="[6,1,(MODIFIER)]" ORG_IG1='[(1,"genel+Adj")]' ORG_IG2='[(1,"sekreter+Noun+A3sg+P3sg+Nom")]'> Genel_Sekreteri </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"Ferdi_Sabit_Soyer+Noun+Prop+A3sg+Pnon+Nom")]' REL="[14,1,(SUBJECT)]" ORG_IG1='[(1,"Ferdi+Noun+Prop+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"Sabit+Noun+Prop+A3sg+Pnon+Nom")]' ORG_IG3='[(1,"Soyer+Noun+Prop+A3sg+Pnon+Nom")]'> Ferdi_Sabit_Soyer </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[6,1,(INTENSIFIER)]"> de </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,""+Punc")]' REL="[,( )]"> " </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"Poor's+Noun+Prop+A3sg+Pnon+Gen")]' REL="[10,1,(POSSESSOR)]"> Poor's'un </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"plan+Noun+A3sg+P3sg+Dat")]' REL="[12,1,(OBJECT)]"> planına </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"halk+Noun+A3sg+Pnon+Gen")]' REL="[12,1,(SUBJECT)]"> halkın </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"sahip_çık+Verb+Pos")(2,"Noun+PastPart+A3sg+P3sg+Acc")]' REL="[14,1,(OBJECT)]" ORG_IG1='[(1,"sahip+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"çık+Verb+Pos")(2,"Noun+PastPart+A3sg+P3sg+Acc")]'> sahip_çıktığını </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,""+Punc")]' REL="[,( )]"> " </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"söyle+Verb+Pos+Past+A3sg")]' REL="[15,1,(SENTENCE)]"> söyledi </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

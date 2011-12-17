@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"nere+Pron+QuesP+A3sg+Pnon+Loc")(2,"Verb+Zero+Past+A2sg")]' REL="[2,1,(SENTENCE)]"> Nerdeydin </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

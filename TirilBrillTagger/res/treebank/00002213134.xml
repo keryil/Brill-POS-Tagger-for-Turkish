@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ora+Noun+A3sg+Pnon+Loc")(2,"Adj+Rel")(3,"Noun+Zero+A3pl+Pnon+Gen")]' REL="[2,1,(MODIFIER)]"> Oradakilerin </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"hepsi+Pron+A3pl+P3pl+Nom")]' REL="[4,1,(MODIFIER)]"> hepsi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"sen+Pron+PersP+A2sg+Pnon+Gen")]' REL="[4,1,(OBJECT)]"> senin </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"gibi+Postp+PCNom")]' REL="[5,1,(SENTENCE)]"> gibi </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hepsi+Pron+A3pl+P3pl+Nom")]' REL="[3,1,(SUBJECT)]"> Hepsi </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3sg+Pnon+Acc")]' REL="[3,1,(OBJECT)]"> onu </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bekle+Verb+Pos+Prog1+A3sg")]' REL="[4,1,(SENTENCE)]"> bekliyor </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

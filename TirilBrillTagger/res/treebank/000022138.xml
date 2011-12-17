@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"kapı+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(SUBJECT)]"> Kapı </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"açık+Adv")]' REL="[3,1,(SENTENCE)]"> açık </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"gir+Verb+Pos+Imp+A2sg")]' REL="[2,1,(SENTENCE)]"> gir </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

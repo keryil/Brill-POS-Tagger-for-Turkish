@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Ayhan+Noun+Prop+A3sg+Pnon+Nom")]' REL="[4,1,(SUBJECT)]"> Ayhan </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"mezun+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(OBJECT)]"> mezun </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos+Past+A3sg")]' REL="[4,1,(MODIFIER)]"> oldu </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"gel+Verb+Pos+Past+A3sg")]' REL="[5,1,(SENTENCE)]"> geldi </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"anne+Noun+A3sg+P1sg+Nom")]' REL="[6,1,(SUBJECT)]"> Annem </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"(+Punc")]' REL="[,( )]"> ( </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"can+Noun+A3sg+P1sg+Nom")]' REL="[4,1,(MODIFIER)]"> canım </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"anne+Noun+A3sg+P1sg+Nom")]' REL="[5,1,(APPOSITION)]"> annem </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,")+Punc")]' REL="[,( )]"> ) </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"sev+Verb+Pos+Aor+A3sg")]' REL="[8,1,(SENTENCE)]"> sever </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3sg+Pnon+Acc")]' REL="[6,1,(OBJECT)]"> onu </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"..+Punc")]' REL="[,( )]"> .. </W>
+</S>
+</Set>

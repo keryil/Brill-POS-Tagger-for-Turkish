@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"tarih+Noun+A3sg+Pnon+Acc")]' REL="[11,1,(OBJECT)]"> Tarihi </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"iç+Noun+A3sg+P3sg+Abl")]' REL="[5,1,(ABLATIVE.ADJUNCT)]"> içinden </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ders+Noun+A3pl+Pnon+Nom")]' REL="[12,1,(OBJECT)]"> dersler </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"çık+Verb")(2,"Verb+Caus")(3,"Verb+Pass+Pos")(4,"Adj+FutPart+Pnon")]' REL="[6,1,(MODIFIER)]"> çıkarılacak </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"cep+Noun+A3sg+Pnon+Nom")]' REL="[7,1,(CLASSIFIER)]"> cep </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"kılavuz+Noun+A3sg+Pnon+Acc")]' REL="[8,1,(OBJECT)]"> kılavuzu </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Abl")]' REL="[11,1,(ABLATIVE.ADJUNCT)]"> olmaktan </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"kültür+Noun+A3sg+Pnon+Nom")]' REL="[10,1,(CLASSIFIER)]"> kültür </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"boyut+Noun+A3sg+P3sg+Dat")]' REL="[11,1,(DATIVE.ADJUNCT)]"> boyutuna </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"taşı+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[12,1,(OBJECT)]"> taşımak </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"gerek+Verb+Pos+Prog1+A3sg")]' REL="[13,1,(SENTENCE)]"> gerekiyor </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

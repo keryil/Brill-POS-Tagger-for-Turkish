@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Gen")]' REL="[2,1,(POSSESSOR)]"> Benim </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"yük+Noun+A3sg+P1sg+Nom")]' REL="[4,1,(OBJECT)]"> yüküm </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Dat")]' REL="[4,1,(DATIVE.ADJUNCT)]"> bana </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"yet+Verb+Pos+Prog1+A3sg")]' REL="[5,1,(SENTENCE)]"> yetiyor </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[9,1,(COORDINATION)]"> , </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"Hülya+Noun+Prop+A3sg+Pnon+Nom")]' REL="[9,1,(VOCATIVE)]"> Hülya </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"hal+Noun+A3sg+P1sg+Acc")]' REL="[9,1,(OBJECT)]"> halimi </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"gör+Verb+Neg+Prog1+A3sg")]' REL="[11,1,(SENTENCE)]"> görmüyor </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"mu+Ques+Pres+A2sg")]' REL="[9,1,(QUESTION.PARTICLE)]"> musun </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[12,1,(OBJECT)]"> ? </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A1sg")]' REL="[13,1,(SENTENCE)]"> dedim </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

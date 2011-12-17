@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ne+Adv")]' REL="[2,1,(MODIFIER)]"> Ne </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"rahat+Adj")]' REL="[7,1,(MODIFIER)]"> rahat </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ne+Adv")]' REL="[5,1,(MODIFIER)]"> ne </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"güzel+Adj")]' REL="[7,1,(MODIFIER)]"> güzel </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[7,1,(DETERMINER)]"> bir </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"ev+Noun+A3sg+Pnon+Nom")]' REL="[8,1,(OBJECT)]"> ev </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"bul+Verb+Pos+Narr+A2sg")]' REL="[9,1,(SENTENCE)]"> bulmuşsun </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

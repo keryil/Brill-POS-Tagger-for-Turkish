@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"yaş+Noun+A3sg+Pnon+Nom")(2,"Adj+With")]' REL="[3,1,(MODIFIER)]"> Yaşlı </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[3,1,(DETERMINER)]"> bir </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"dost+Noun+A3sg+Pnon+Gen")]' REL="[4,1,(POSSESSOR)]"> dostun </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"armağan+Noun+A3sg+P3sg+Nom")]' REL="[5,1,(SENTENCE)]"> armağanı </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"doğrusu+Adv")]' REL="[5,1,(S.MODIFIER)]"> Doğrusu </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bura+Noun+A3sg+Pnon+Loc")]' REL="[4,1,(LOCATIVE.ADJUNCT)]"> burada </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"çok+Adv")]' REL="[4,1,(MODIFIER)]"> çok </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"rahat+Adj")(2,"Verb+Zero+Pres+A1sg")]' REL="[5,1,(SENTENCE)]"> rahatım </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

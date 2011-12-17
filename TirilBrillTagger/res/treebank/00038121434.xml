@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[2,1,(DETERMINER)]"> Bu </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"konu+Noun+A3sg+Pnon+Loc")]' REL="[17,1,(LOCATIVE.ADJUNCT)]"> konuda </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"Egemimarlık+Noun+Prop+A3sg+Pnon+Gen")]' REL="[6,1,(POSSESSOR)]"> Egemimarlık'ın </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"doksandokuz+Num+Ord")]' REL="[6,1,(MODIFIER)]"> doksandokuz. </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"sayı+Noun+A3sg+P3sg+Loc")]' REL="[17,1,(LOCATIVE.ADJUNCT)]"> sayısında </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"Cumhuriyet_Dönemi_Türkiye_Mimarlığı_başlık+Noun+A3sg+P3sg+Nom")]' REL="[9,1,(OBJECT)]" ORG_IG1='[(1,"cumhuriyet+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"dönem+Noun+A3sg+P3sg+Nom")]' ORG_IG3='[(1,"Türkiye+Noun+Prop+A3sg+Pnon+Nom")]' ORG_IG4='[(1,"mimar+Noun+A3sg+Pnon+Nom")(2,"Noun+Ness+A3sg+P3sg+Nom")]' ORG_IG5='[(1,"başlık+Noun+A3sg+P3sg+Nom")]'> Cumhuriyet_Dönemi_Türkiye_Mimarlığı_başlığı </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"alt+Noun+A3sg+P3sg+Loc")]' REL="[10,1,(LOCATIVE.ADJUNCT)]"> altında </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"gerçek+Noun+A3sg+Pnon+Nom")(2,"Verb+Become")(3,"Verb+Caus")(4,"Verb+Pass+Pos")(5,"Adj+PresPart")]' REL="[11,1,(MODIFIER)]"> gerçekleştirilen </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"toplantı+Noun+A3sg+Pnon+Loc")]' REL="[17,1,(LOCATIVE.ADJUNCT)]"> toplantıda </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"Sayın_Uğur_Tanyeli+Noun+Prop+A3sg+Pnon+Gen")]' REL="[14,1,(POSSESSOR)]" ORG_IG1='[(1,"sayın+Adj")]' ORG_IG2='[(1,"Uğur+Noun+Prop+A3sg+Pnon+Nom")]' ORG_IG3='[(1,"Tanyeli+Noun+Prop+A3sg+Pnon+Gen")]'> Sayın_Uğur_Tanyeli'nin </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"dile_getir+Verb+Pos")(2,"Adj+PastPart+P3sg")]' REL="[15,1,(MODIFIER)]" ORG_IG1='[(1,"dil+Noun+A3sg+Pnon+Dat")]' ORG_IG2='[(1,"getir+Verb+Pos")(2,"Adj+PastPart+P3sg")]'> dile_getirdiği </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"fikir+Noun+A3pl+Pnon+Nom")]' REL="[17,1,(OBJECT)]"> fikirler </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,"dikkat_çekici+Adj")]' REL="[17,1,(MODIFIER)]" ORG_IG1='[(1,"dikkat+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"çekici+Adj")]'> dikkat_çekici </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,"görün+Verb+Pos+Prog1+A3sg")]' REL="[18,1,(SENTENCE)]"> görünüyor </W>
+<W IX="18" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"peebles+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(APPOSITION)]"> Peebles </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,":+Punc")]' REL="[,( )]"> : </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"Big_bang+Noun+A3sg+Pnon+Nom")]' REL="[6,2,(SUBJECT)]" ORG_IG1='[(1,"big+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"bang+Noun+A3sg+Pnon+Nom")]'> Big_bang </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"yaradılış+Noun+A3sg+Pnon+Gen")]' REL="[6,1,(POSSESSOR)]"> yaradılışın </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"çağ+Noun+A3sg+P1pl+Loc")(2,"Adj+Rel")]' REL="[6,1,(MODIFIER)]"> çağımızdaki </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"versiyon+Noun+A3sg+P3sg+Nom")(2,"Verb+Zero+Pres+Cop+A3sg")]' REL="[2,1,(APPOSITION)]"> versiyonudur </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

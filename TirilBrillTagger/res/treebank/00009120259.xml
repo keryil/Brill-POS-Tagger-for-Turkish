@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"siz+Pron+PersP+A2pl+Pnon+Nom")]' REL="[3,1,(SUBJECT)]"> Siz </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"neden+Noun+A3sg+P3sg+Acc")]' REL="[3,1,(OBJECT)]"> nedenini </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"anla+Verb+Pos")(2,"Verb+Able+Prog1+A3sg")]' REL="[5,1,(SUBJECT)]"> anlayabiliyor </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"mu+Ques+Pres+A2pl")]' REL="[3,1,(QUESTION.PARTICLE)]"> musunuz </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

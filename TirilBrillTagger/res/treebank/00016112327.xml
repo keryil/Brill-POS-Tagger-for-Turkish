@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[2,1,(DETERMINER)]"> Bu </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"süreç+Noun+A3sg+Pnon+Ins")]' REL="[5,4,(SUBJECT)]"> süreçle </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"siyasal+Adj")]' REL="[4,1,(MODIFIER)]"> siyasal </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"düzlem+Noun+A3sg+Pnon+Loc")]' REL="[5,4,(LOCATIVE.ADJUNCT)]"> düzlemde </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ilişki+Noun+A3sg+Pnon+Nom")(2,"Verb+Acquire")(3,"Verb+Caus")(4,"Verb+Pass+Pos")(5,"Adj+PresPart")]' REL="[6,1,(MODIFIER)]"> ilişkilendirilen </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"olgu+Noun+A3sg+Pnon+Nom")]' REL="[15,2,(SUBJECT)]"> olgu </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"da+Conj")]' REL="[6,1,(INTENSIFIER)]"> da </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"artık+Adv")]' REL="[9,1,(MODIFIER)]"> artık </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"devrim+Noun+A3pl+Pnon+Nom")]' REL="[11,1,(CLASSIFIER)]"> devrimler </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"değil+Verb+Pres+A3sg")]' REL="[9,1,(NEGATIVE.PARTICLE)]"> değil </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[12,3,(COORDINATION)]"> , </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"devrim+Noun+A3sg+Pnon+Nom")(2,"Adj+Without")(3,"Noun+Ness+A3sg+Pnon+Nom")]' REL="[13,1,(CLASSIFIER)]"> devrimsizlik </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[14,3,(COORDINATION)]"> ve </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"küresel+Adj")(2,"Verb+Become+Pos")(3,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[15,1,(CLASSIFIER)]"> küreselleşme </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"süreç+Noun+A3sg+P3sg+Nom")(2,"Verb+Zero+Pres+Cop+A3sg")]' REL="[16,1,(SENTENCE)]"> sürecidir </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hazine+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(OBJECT)]"> Hazine </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"taraf+Noun+A3sg+P3sg+Abl")]' REL="[12,4,(MODIFIER)]"> tarafından </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"dış+Adj")]' REL="[4,3,(MODIFIER)]"> dış </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"borç+Noun+A3sg+Pnon+Nom")(2,"Verb+Acquire+Pos")(3,"Noun+Inf+A3pl+Pnon+Nom")]' REL="[6,1,(OBJECT)]"> borçlanmalar </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"için+Postp+PCNom")]' REL="[6,1,(MODIFIER)]"> için </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ver+Verb")(2,"Verb+Pass+Pos")(3,"Verb+Able")(4,"Adj+FutPart+Pnon")]' REL="[8,1,(MODIFIER)]"> verilebilecek </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"garanti+Noun+A3sg+Pnon+Nom")]' REL="[8,1,(CLASSIFIER)]"> garanti </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"tutar+Noun+A3sg+P3sg+Nom")]' REL="[12,4,(SUBJECT)]"> tutarı </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"beşyüz+Num+Card")]' REL="[10,1,(MODIFIER)]"> beşyüz </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"milyon+Num+Card")]' REL="[11,1,(MODIFIER)]"> milyon </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"dolar+Noun+A3sg+Pnon+Ins")]' REL="[12,4,(INSTRUMENTAL.ADJUNCT)]"> dolarla </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"sınır+Noun+A3sg+Pnon+Nom")(2,"Verb+Acquire")(3,"Verb+Caus")(4,"Verb+Pass+Pos+Past+A3sg")]' REL="[13,1,(SENTENCE)]"> sınırlandırıldı </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hazine+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(CLASSIFIER)]"> Hazine </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"garanti+Noun+A3pl+P3sg+Nom")]' REL="[3,1,(OBJECT)]"> garantileri </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"neden+Noun+A3sg+P3sg+Ins")]' REL="[4,1,(MODIFIER)]"> nedeniyle </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"doğ+Verb+Pos")(2,"Verb+Able")(3,"Adj+FutPart+Pnon")]' REL="[5,1,(MODIFIER)]"> doğabilecek </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ödeme+Noun+A3pl+Pnon+Nom")]' REL="[6,1,(OBJECT)]"> ödemeler </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"için+Postp+PCNom")]' REL="[12,2,(MODIFIER)]"> için </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[6,1,(INTENSIFIER)]"> de </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"üçyüzyirmialtı+Num+Card")]' REL="[9,1,(MODIFIER)]"> üçyüzyirmialtı </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"trilyon+Num+Card")]' REL="[10,1,(MODIFIER)]"> trilyon </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"lira+Noun+A3sg+Pnon+Nom")(2,"Adj+FitFor")]' REL="[11,1,(MODIFIER)]"> liralık </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"ödenek+Noun+A3sg+Pnon+Nom")]' REL="[12,2,(SUBJECT)]"> ödenek </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"ayır+Verb")(2,"Verb+Pass+Pos+Past+A3sg")]' REL="[13,1,(SENTENCE)]"> ayrıldı </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

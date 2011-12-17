@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"'+Punc")]' REL="[,( )]"> ' </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"Cumhuriyet+Noun+Prop+A3sg+Pnon+Abl")]' REL="[3,1,(ABLATIVE.ADJUNCT)]"> Cumhuriyet'ten </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"sap+Verb+Neg+Aor+A1pl")]' REL="[5,1,(SENTENCE)]"> sapmayız </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"Verheugen+Noun+Prop+A3sg+Pnon+Nom")]' REL="[3,1,(VOCATIVE)]"> Verheugen </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

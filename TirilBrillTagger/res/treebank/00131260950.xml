@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3sg+Pnon+Nom")]' REL="[2,1,(SUBJECT)]"> O </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"aristokrat+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(SENTENCE)]"> aristokrat </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[5,1,(COORDINATION)]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"sen+Pron+PersP+A2sg+Pnon+Nom")]' REL="[5,1,(SUBJECT)]"> sen </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"demokrat+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(SENTENCE)]"> demokrat </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

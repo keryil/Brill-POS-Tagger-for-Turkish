@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hayat+Noun+A3sg+P1sg+Nom")]' REL="[10,1,(SUBJECT)]"> Hayatım </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[3,1,(DETERMINER)]"> bir </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"gezgin+Noun+A3sg+Pnon+Gen")]' REL="[4,1,(POSSESSOR)]"> gezginin </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"hayat+Noun+A3sg+P3sg+Dat")]' REL="[10,1,(DATIVE.ADJUNCT)]"> hayatına </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"dönüş+Verb+Pos")(2,"Adv+SinceDoingSo")]' REL="[10,1,(MODIFIER)]"> dönüşeli </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"bu+Pron+DemonsP+A3sg+Pnon+Acc")]' REL="[10,1,(OBJECT)]"> bunu </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"artık+Adv")]' REL="[10,1,(MODIFIER)]"> artık </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"hemen+Adv")]' REL="[10,1,(MODIFIER)]"> hemen </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"anla+Verb+Pos+Prog1+A1sg")]' REL="[11,1,(SENTENCE)]"> anlıyorum </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

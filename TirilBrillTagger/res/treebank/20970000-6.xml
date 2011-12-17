@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Akgüney_dış_ilişkilerden_sorumlu_Genel_Başkan_Yardımcısı_Şaban_Dişli+Noun+Prop+A3sg+Pnon+Nom")]' REL="[9,1,(SUBJECT)]" ORG_IG1='[(1,"akgüney+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"dış+Adj")]' ORG_IG3='[(1,"ilişki+Noun+A3pl+Pnon+Abl")]' ORG_IG4='[(1,"sorum+Noun+A3sg+Pnon+Nom")(2,"Adj+With")(3,"Noun+Zero+A3sg+Pnon+Nom")]' ORG_IG5='[(1,"genel+Adj")]' ORG_IG6='[(1,"Başkan+Noun+Prop+A3sg+Pnon+Nom")]' ORG_IG7='[(1,"yardımcı+Noun+A3sg+P3sg+Nom")]' ORG_IG8='[(1,"Şaban+Noun+Prop+A3sg+Pnon+Nom")]' ORG_IG9='[(1,"Dişli+Noun+Prop+A3sg+Pnon+Nom")]'> Akgüney_dış_ilişkilerden_sorumlu_Genel_Başkan_Yardımcısı_Şaban_Dişli </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"Hıristiyan_Demokrat+Noun+Prop+A3pl+Pnon+Abl")]' REL="[8,2,(ABLATIVE.ADJUNCT)]" ORG_IG1='[(1,"hıristiyan+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"Demokrat+Noun+Prop+A3pl+Pnon+Abl")]'> Hıristiyan_Demokratlar'dan </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"kendi+Pron+ReflexP+A3pl+P3pl+Dat")]' REL="[5,2,(OBJECT)]"> kendilerine </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"üye_ol+Verb+Pos")(2,"Noun+Inf+A3pl+P3pl+Nom")]' REL="[6,1,(OBJECT)]" ORG_IG1='[(1,"üye+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"ol+Verb+Pos")(2,"Noun+Inf+A3pl+P3pl+Nom")]'> üye_olmaları </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"yön+Noun+A3sg+P3sg+Loc")]' REL="[8,2,(LOCATIVE.ADJUNCT)]"> yönünde </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"öneri+Noun+A3sg+Pnon+Nom")]' REL="[8,2,(OBJECT)]"> öneri </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"gel+Verb+Pos")(2,"Noun+PastPart+A3sg+P3sg+Acc")]' REL="[9,1,(OBJECT)]"> geldiğini </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"söyle+Verb+Pos+Past+A3sg")]' REL="[10,1,(SENTENCE)]"> söyledi </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

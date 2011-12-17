@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Kristof_Kolomp+Noun+Prop+A3sg+Pnon+Gen")]' REL="[22,1,(SUBJECT)]" ORG_IG1='[(1,"kristof+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"Kolomp+Noun+Prop+A3sg+Pnon+Gen")]'> Kristof_Kolomb'un </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"öyle+Adv")]' REL="[9,1,(MODIFIER)]"> öyle </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"insan+Noun+A3sg+Pnon+Nom")(2,"Noun+Ness+A3sg+Pnon+Nom")]' REL="[5,1,(CLASSIFIER)]"> insanlık </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ad+Noun+A3sg+P3sg+Dat")]' REL="[23,1,(DATIVE.ADJUNCT)]"> adına </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"keşif+Noun+A3pl+Pnon+Dat")]' REL="[23,1,(DATIVE.ADJUNCT)]"> keşiflere </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"çık+Verb+Pos+Narr")(2,"Adj+Zero")]' REL="[9,1,(MODIFIER)]"> çıkmış </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[9,1,(DETERMINER)]"> bir </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"seyyah+Noun+A3sg+Pnon+Nom")]' REL="[23,1,(ETOL)]"> seyyah </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"değil+Verb+Pres+A3sg")]' REL="[9,1,(NEGATIVE.PARTICLE)]"> değil </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"yeni+Adj")]' REL="[13,2,(MODIFIER)]"> yeni </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"zengin+Adj")(2,"Noun+Ness+A3pl+Pnon+Nom")]' REL="[14,1,(CLASSIFIER)]"> zenginlikler </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"peş+Noun+A3sg+P3sg+Loc")]' REL="[15,1,(LOCATIVE.ADJUNCT)]"> peşinde </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"koş+Verb+Pos")(2,"Adj+PresPart")]' REL="[16,1,(MODIFIER)]"> koşan </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[19,1,(MODIFIER)]"> ve </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,"tayfa+Noun+A3sg+P3sg+Dat")]' REL="[23,1,(DATIVE.ADJUNCT)]"> tayfasına </W>
+<W IX="18" LEM="" MORPH=" " IG='[(1,"kan+Noun+A3sg+Pnon+Nom")]' REL="[19,1,(OBJECT)]"> kan </W>
+<W IX="19" LEM="" MORPH=" " IG='[(1,"kus+Verb")(2,"Verb+Caus+Pos")(3,"Adj+PresPart")]' REL="[22,1,(MODIFIER)]"> kusturan </W>
+<W IX="20" LEM="" MORPH=" " IG='[(1,"zalim+Adj")]' REL="[22,1,(MODIFIER)]"> zalim </W>
+<W IX="21" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[22,1,(DETERMINER)]"> bir </W>
+<W IX="22" LEM="" MORPH=" " IG='[(1,"kaptan_ol+Verb+Pos")(2,"Noun+PastPart+A3sg+P3sg+Acc")]' REL="[23,1,(OBJECT)]" ORG_IG1='[(1,"kaptan+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"ol+Verb+Pos")(2,"Noun+PastPart+A3sg+P3sg+Acc")]'> kaptan_olduğunu </W>
+<W IX="23" LEM="" MORPH=" " IG='[(1,"fark_et+Verb+Pos+Prog1+A2pl")]' REL="[24,1,(SENTENCE)]" ORG_IG1='[(1,"fark+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"et+Verb+Pos+Prog1+A2pl")]'> fark_ediyorsunuz </W>
+<W IX="24" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

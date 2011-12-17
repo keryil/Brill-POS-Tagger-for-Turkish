@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"asistan+Noun+A3sg+P1sg+Nom")]' REL="[11,1,(SUBJECT)]"> Asistanım </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kalın+Adj")]' REL="[3,1,(MODIFIER)]"> kalın </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"cam+Noun+A3sg+Pnon+Nom")(2,"Adj+With")]' REL="[4,1,(MODIFIER)]"> camlı </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"gözlük+Noun+A3pl+P3sg+Gen")]' REL="[5,1,(POSSESSOR)]"> gözlüklerinin </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"art+Noun+A3sg+P3sg+Abl")]' REL="[6,1,(ABLATIVE.ADJUNCT)]"> ardından </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"görün+Verb+Pos")(2,"Adj+PresPart")]' REL="[9,1,(MODIFIER)]"> görünen </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"bulanık+Adj")]' REL="[9,1,(MODIFIER)]"> bulanık </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"anlam+Noun+A3sg+Pnon+Nom")(2,"Adj+Without")]' REL="[9,1,(MODIFIER)]"> anlamsız </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"göz+Noun+A3pl+P3sg+Acc")]' REL="[11,1,(OBJECT)]"> gözlerini </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Dat")]' REL="[11,1,(DATIVE.ADJUNCT)]"> bana </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"çevir+Verb+Pos+Past+A3sg")]' REL="[12,1,(SENTENCE)]"> çevirdi </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

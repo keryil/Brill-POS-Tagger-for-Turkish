@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"çocuk+Noun+A3sg+Pnon+Nom")]' REL="[9,1,(SUBJECT)]"> Çocuk </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"baş+Noun+A3sg+P3sg+Acc")]' REL="[8,1,(OBJECT)]"> başını </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[5,1,(DETERMINER)]"> bir </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"yan+Noun+A3sg+Pnon+Abl")]' REL="[8,1,(ABLATIVE.ADJUNCT)]"> yandan </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"diğer+Adj")]' REL="[7,1,(MODIFIER)]"> diğer </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"yan+Noun+A3sg+Pnon+Dat")]' REL="[8,1,(MODIFIER)]"> yana </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"çevir+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Ins")]' REL="[9,1,(OBJECT)]"> çevirmekle </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"yetin+Verb+Pos+Past+A3sg")]' REL="[10,1,(SENTENCE)]"> yetindi </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

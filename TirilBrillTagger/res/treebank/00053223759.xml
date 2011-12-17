@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hayır+Interj")]' REL="[15,1,(S.MODIFIER)]"> Hayır </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"insan+Noun+A3sg+Pnon+Nom")]' REL="[13,2,(SUBJECT)]"> insan </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"yeğen_meğen+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(APPOSITION)]" ORG_IG1='[(1,"yeğen+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"meğen+Noun+A3sg+Pnon+Nom")]'> yeğen_meğen </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ama+Conj")]' REL="[10,1,(S.MODIFIER)]"> ama </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"bazen+Adv")]' REL="[9,1,(MODIFIER)]"> bazen </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"ciddi+Adj")(2,"Noun+Zero+A3sg+Pnon+Dat")]' REL="[9,1,(OBJECT)]"> ciddiye </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"al+Verb+Pos+Prog1+A3sg")]' REL="[10,1,(SENTENCE)]"> alıyor </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[13,1,(COORDINATION)]"> , </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"cidden+Adv")]' REL="[12,2,(MODIFIER)]"> cidden </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"alın+Verb+Pos")(2,"Adv+AfterDoingSo")]' REL="[13,2,(MODIFIER)]"> alınıp </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"kap+Verb")(2,"Verb+Caus+Pos+Prog1+A3sg")]' REL="[15,1,(SENTENCE)]"> kaptırıyor </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"kendi+Pron+ReflexP+A3sg+P3sg+Acc")]' REL="[13,2,(OBJECT)]"> kendini </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Nom")]' REL="[3,1,(SENTENCE)]"> Ben </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[1,1,(INTENSIFIER)]"> de </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hafif+Adj")]' REL="[2,1,(MODIFIER)]"> Hafif </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"konyak+Noun+A3sg+Pnon+Nom")(2,"Adj+JustLike")]' REL="[3,1,(SENTENCE)]"> konyakımsı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ama+Conj")]' REL="[8,1,(S.MODIFIER)]"> ama </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"konyak+Noun+A3sg+Pnon+Nom")]' REL="[8,1,(SENTENCE)]"> konyak </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"da+Conj")]' REL="[5,1,(INTENSIFIER)]"> da </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"değil+Verb+Pres+A3sg")]' REL="[5,1,(NEGATIVE.PARTICLE)]"> değil </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"skoç+Noun+A3sg+Pnon+Nom")]' REL="[10,1,(CLASSIFIER)]"> skoç </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"viski+Noun+A3pl+P3sg+Dat")]' REL="[11,1,(OBJECT)]"> viskilerine </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"göre+Postp+PCDat")]' REL="[14,1,(MODIFIER)]"> göre </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"daha+Adv")]' REL="[13,1,(MODIFIER)]"> daha </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"yanık+Adj")]' REL="[14,1,(MODIFIER)]"> yanık </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"koku+Noun+A3sg+Pnon+Nom")(2,"Adj+With")]' REL="[16,1,(SENTENCE)]"> kokulu </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"sanki+Adv")]' REL="[16,1,(S.MODIFIER)]"> sanki </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

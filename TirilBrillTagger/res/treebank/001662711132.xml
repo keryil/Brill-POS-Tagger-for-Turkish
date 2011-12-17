@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"kahve+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(SUBJECT)]"> Kahve </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ne+Pron+QuesP+A3sg+Pnon+Nom")]' REL="[3,1,(QUESTION.PARTICLE)]"> ne </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"zaman+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(MODIFIER)]"> zaman </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"gel+Verb+Pos+Prog1+A3sg")]' REL="[5,1,(SENTENCE)]"> geliyor </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[6,1,(OBJECT)]"> ? </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"diye+Postp+PCNom")]' REL="[7,1,(OBJECT)]"> diye </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"sor+Verb+Pos+Past+A3sg")]' REL="[9,1,(SENTENCE)]"> sordu </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Dat")]' REL="[7,1,(DATIVE.ADJUNCT)]"> bana </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

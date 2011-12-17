@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"çay+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(CLASSIFIER)]"> Çay </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ocak+Noun+A3sg+P3sg+Gen")]' REL="[3,1,(POSSESSOR)]"> ocağının </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ora+Noun+A3sg+Pnon+Loc")]' REL="[5,2,(LOCATIVE.ADJUNCT)]"> orada </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"merdiven+Noun+A3sg+Pnon+Nom")]' REL="[5,2,(SUBJECT)]"> merdiven </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"var+Adj")(2,"Verb+Zero+A3sg")]' REL="[6,1,(SENTENCE)]"> var </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

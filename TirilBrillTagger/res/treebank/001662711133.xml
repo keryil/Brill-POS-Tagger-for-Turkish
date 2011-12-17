@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hafta+Noun+A3sg+Pnon+Dat")]' REL="[3,1,(DATIVE.ADJUNCT)]"> Haftaya </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"iki+Num+Card")]' REL="[3,1,(MODIFIER)]"> iki </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ay+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(OBJECT)]"> ay </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"dol+Verb+Pos+Prog1+A3sg")]' REL="[12,1,(SENTENCE)]"> doluyor </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"cumartesi+Noun+A3sg+Pnon+Nom")]' REL="[7,1,(MODIFIER)]"> Cumartesi </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"beraber+Adv")]' REL="[8,1,(MODIFIER)]"> beraber </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"git+Verb+Pos")(2,"Adv+AfterDoingSo")]' REL="[8,1,(MODIFIER)]"> gidip </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"al+Verb+Pos+Opt+A1pl")]' REL="[10,1,(OBJECT)]"> alalım </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Equ")]' REL="[8,1,(EQU.ADJUNCT)]"> bence </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A1sg")]' REL="[12,1,(SENTENCE)]"> dedim </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"baba+Noun+A3sg+P1sg+Dat")]' REL="[10,1,(DATIVE.ADJUNCT)]"> babama </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

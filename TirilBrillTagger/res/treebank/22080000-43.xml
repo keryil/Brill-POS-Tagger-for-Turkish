@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"tamamla+Verb")(2,"Verb+Pass+Neg")(3,"Adj+PresPart")(4,"Noun+Zero+A3sg+Pnon+Dat")]' REL="[3,2,(DATIVE.ADJUNCT)]"> Tamamlanmayana </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"para+Noun+A3sg+Pnon+Nom")]' REL="[3,2,(SUBJECT)]"> para </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yok+Adj")(2,"Verb+Zero+A3sg")]' REL="[4,1,(SENTENCE)]"> yok </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

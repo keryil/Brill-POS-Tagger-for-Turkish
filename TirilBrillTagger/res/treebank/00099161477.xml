@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"gel+Verb+Pos+Imp+A2sg")]' REL="[2,1,(SENTENCE)]"> Gel </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[3,1,(OBJECT)]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A1sg")]' REL="[5,1,(SENTENCE)]"> dedim </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"Celal+Noun+Prop+A3sg+Pnon+Dat")]' REL="[3,1,(DATIVE.ADJUNCT)]"> Celal'e </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"git+Verb+Pos+Prog1+A1pl")]' REL="[2,1,(SENTENCE)]"> Gidiyoruz </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"belki+Adv")]' REL="[5,1,(S.MODIFIER)]"> Belki </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[1,1,(INTENSIFIER)]"> de </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"rastla+Verb+Pos+Fut+A2pl")]' REL="[5,1,(SENTENCE)]"> rastlayacaksınız </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3sg+Pnon+Dat")]' REL="[3,1,(OBJECT)]"> ona </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hiç+Adv")]' REL="[4,1,(MODIFIER)]"> Hiç </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kafa+Noun+A3sg+P3sg+Acc")]' REL="[4,1,(OBJECT)]"> kafasını </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yer+Noun+A3sg+Pnon+Abl")]' REL="[4,1,(ABLATIVE.ADJUNCT)]"> yerden </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"kaldır+Verb+Neg+Prog1+A3sg")]' REL="[5,1,(SENTENCE)]"> kaldırmıyor </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[9,1,(COORDINATION)]"> , </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"hiçbir+Det")]' REL="[7,1,(DETERMINER)]"> hiçbir </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"sempati+Noun+A3sg+Pnon+Nom")]' REL="[8,1,(CLASSIFIER)]"> sempati </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"belirti+Noun+A3sg+P3sg+Nom")]' REL="[9,1,(OBJECT)]"> belirtisi </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"göster+Verb+Neg+Prog1+Past+A3sg")]' REL="[10,1,(SENTENCE)]"> göstermiyordu </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

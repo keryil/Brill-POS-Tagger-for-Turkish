@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[2,1,(DETERMINER)]"> Bir </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"mektup+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(SENTENCE)]"> mektup </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"mu+Ques+Pres+A3sg")]' REL="[2,1,(QUESTION.PARTICLE)]"> mu </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

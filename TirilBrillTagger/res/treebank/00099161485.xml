@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"nasıl+Adv")]' REL="[2,1,(MODIFIER)]"> Nasıl </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bul+Verb+Pos+Past+A2sg")]' REL="[4,1,(SENTENCE)]"> buldun </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3sg+Pnon+Acc")]' REL="[2,1,(OBJECT)]"> onu </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

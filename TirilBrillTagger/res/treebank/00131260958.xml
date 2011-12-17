@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="5">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"cevap+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(OBJECT)]"> Cevap </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ver+Verb+Neg+Past+A1sg")]' REL="[3,1,(SENTENCE)]"> vermedim </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"galiba+Adv")]' REL="[3,1,(S.MODIFIER)]"> Galiba </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"hak+Noun+A3sg+Pnon+Nom")(2,"Adj+With")]' REL="[3,1,(SENTENCE)]"> haklı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Atila_Sav+Noun+Prop+A3sg+Pnon+Nom")]' REL="[3,1,(SUBJECT)]" ORG_IG1='[(1,"Atila+Noun+Prop+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"Sav+Noun+Prop+A3sg+Pnon+Nom")]'> Atila_Sav </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"büyükelçi+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(OBJECT)]"> büyükelçi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yapı+Noun+A3sg+P3sg+Loc")(2,"Verb+Zero+Pres+Cop+A3sg")]' REL="[4,1,(SENTENCE)]"> yapısındadır </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="4">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Nom")]' REL="[2,1,(SENTENCE)]"> Ben </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+</S>
+<S No="5">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bil+Verb+Neg+Prog1+A1sg")]' REL="[2,1,(SENTENCE)]"> Bilmiyorum </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>

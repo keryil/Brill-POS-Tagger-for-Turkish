@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ne+Conj")]' REL="[5,1,(S.MODIFIER)]"> Ne </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kendi+Pron+ReflexP+A3pl+P3pl+Nom")]' REL="[3,1,(OBJECT)]"> kendileri </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"et+Verb+Pos+Prog1+A3sg")]' REL="[5,1,(SENTENCE)]"> ediyor </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"rahat+Adj")]' REL="[3,1,(ETOL)]"> rahat </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ne+Conj")]' REL="[10,1,(S.MODIFIER)]"> ne </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"alem+Noun+A3sg+Pnon+Dat")]' REL="[8,1,(DATIVE.ADJUNCT)]"> aleme </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"ver+Verb+Pos+Prog1+A3pl")]' REL="[10,1,(SENTENCE)]"> veriyorlar </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"huzur+Noun+A3sg+Pnon+Nom")]' REL="[8,1,(OBJECT)]"> huzur </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>

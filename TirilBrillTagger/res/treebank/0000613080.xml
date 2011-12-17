@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos+Aor+A3sg")]' REL="[2,1,(SENTENCE)]"> Olur </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[3,1,(OBJECT)]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A3sg")]' REL="[5,1,(SENTENCE)]"> dedi </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"jul+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(SUBJECT)]"> Jul </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

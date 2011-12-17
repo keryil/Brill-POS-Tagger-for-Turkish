@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"yalan+Noun+A3pl+Pnon+Dat")]' REL="[2,1,(DATIVE.ADJUNCT)]"> Yalanlara </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[3,1,(COORDINATION)]"> ve </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yanlış+Noun+A3pl+Pnon+Dat")]' REL="[6,1,(DATIVE.ADJUNCT)]"> yanlışlara </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ömür+Noun+A3sg+Pnon+Nom")]' REL="[5,1,(CLASSIFIER)]"> ömür </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"boy+Noun+A3sg+Pnon+Acc")]' REL="[6,1,(OBJECT)]"> boyu </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"mahkum_et+Verb")(2,"Verb+Pass+Pos+Narr")(3,"Adj+Zero")]' REL="[7,1,(MODIFIER)]" ORG_IG1='[(1,"mahkum+Adj")]' ORG_IG2='[(1,"et+Verb")(2,"Verb+Pass+Pos+Narr")(3,"Adj+Zero")]'> mahkum_edilmiş </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"birey+Noun+A3pl+Pnon+Nom")]' REL="[8,1,(SUBJECT)]"> bireyler </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[15,2,(COORDINATION)]"> ve </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"toplum+Noun+A3pl+Pnon+Gen")]' REL="[11,1,(POSSESSOR)]"> toplumların </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"dışarı+Noun+A3sg+Pnon+Abl")]' REL="[11,1,(MODIFIER)]"> dışarıdan </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"görüntü+Noun+A3sg+P3sg+Gen")]' REL="[15,1,(SENTENCE)]"> görüntüsünün </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"zeka+Noun+A3sg+Pnon+Nom")]' REL="[13,1,(CLASSIFIER)]"> zeka </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"sefalet+Noun+A3sg+P3sg+Ins")]' REL="[14,1,(MODIFIER)]"> sefaletiyle </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"eşdeğer+Adj")]' REL="[15,1,(OBJECT)]"> eşdeğer </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos")(2,"Noun+FutPart+A3sg+P3sg+Nom")]' REL="[17,1,(SUBJECT)]"> olacağı </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,"da+Conj")]' REL="[15,1,(INTENSIFIER)]"> da </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,"doğru+Adj")]' REL="[18,1,(SENTENCE)]"> doğru </W>
+<W IX="18" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Emsan+Noun+Prop+A3sg+Pnon+Nom")]' REL="[3,1,(CLASSIFIER)]"> Emsan </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"vergi+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(CLASSIFIER)]"> vergi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"barış+Noun+A3sg+P3sg+Nom")]' REL="[4,1,(CLASSIFIER)]"> barışı </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"proje+Noun+A3sg+P3sg+Nom")]' REL="[5,1,(OBJECT)]"> projesi </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ile+Postp+PCNom")]' REL="[6,2,(OBJECT)]"> ile </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ilgi+Noun+A3sg+Pnon+Nom")(2,"Adj+With")]' REL="[7,1,(MODIFIER)]"> ilgili </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"görüş+Noun+A3pl+P3sg+Nom")]' REL="[8,1,(SUBJECT)]"> görüşleri </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"şöyle+Adj")]' REL="[10,1,(SENTENCE)]"> şöyle </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,":+Punc")]' REL="[,( )]"> : </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

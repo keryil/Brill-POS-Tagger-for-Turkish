@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[15,1,(S.MODIFIER)]"> Ve </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[3,1,(DETERMINER)]"> bir </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ilkokul+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(CLASSIFIER)]"> ilkokul </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"öğrenci+Noun+A3sg+P3sg+Ins")]' REL="[14,1,(INSTRUMENTAL.ADJUNCT)]"> öğrencisiyle </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"yirmi+Num+Card")(2,"Noun+Zero+A3pl+P3sg+Loc")(3,"Adj+Rel")]' REL="[8,1,(MODIFIER)]"> yirmilerindeki </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[8,1,(DETERMINER)]"> bir </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"kadı+Noun+A3sg+Pnon+Gen")]' REL="[9,1,(POSSESSOR)]"> kadının </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"aşk+Noun+A3sg+P3sg+Dat")]' REL="[14,1,(DATIVE.ADJUNCT)]"> aşkına </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"hiç_kimse+Noun+A3sg+Pnon+Nom")]' REL="[14,2,(SUBJECT)]" ORG_IG1='[(1,"hiç+Adv")]' ORG_IG2='[(1,"kimse+Noun+A3sg+Pnon+Nom")]'> hiç_kimse </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"artık+Adv")]' REL="[14,1,(MODIFIER)]"> artık </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"hiçbir+Det")]' REL="[13,1,(DETERMINER)]"> hiçbir </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"şey+Noun+A3sg+Pnon+Nom")]' REL="[14,2,(OBJECT)]"> şey </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"söyle+Verb")(2,"Verb+Able+Neg+Fut+A3sg")]' REL="[15,1,(SENTENCE)]"> söyleyemeyecek </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

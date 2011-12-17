@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"uy+Verb+Pos+Imp+A2sg")]' REL="[5,1,(VOCATIVE)]"> Uy </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"sev+Verb+Pos+Imp+A3pl")]' REL="[5,1,(SENTENCE)]"> sevsinler </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"sen+Pron+PersP+A2sg+Pnon+Acc")]' REL="[3,1,(OBJECT)]"> seni </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"!+Punc")]' REL="[,( )]"> ! </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"araba+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(OBJECT)]"> Araba </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"beğen+Verb+Neg")(2,"Adj+PresPart")(3,"Noun+Zero+A3sg+Pnon+Dat")]' REL="[3,1,(OBJECT)]"> beğenmeyene </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bak+Verb+Pos+Imp+A2pl")]' REL="[4,1,(SENTENCE)]"> bakın </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

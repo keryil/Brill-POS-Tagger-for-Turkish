@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="3">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"-+Punc")]' REL="[,( )]"> - </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"teyze+Noun+A3sg+P2pl+Gen")]' REL="[3,1,(POSSESSOR)]"> Teyzenizin </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"durum+Noun+A3sg+P3sg+Nom")]' REL="[4,1,(OBJECT)]"> durumu </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"nasıl+Adj")]' REL="[6,1,(SENTENCE)]"> nasıl </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"sahi+Adv")]' REL="[6,1,(S.MODIFIER)]"> sahi </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"sor+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Acc")]' REL="[2,1,(OBJECT)]"> Sormayı </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"unut+Verb+Pos+Past+A1sg")]' REL="[3,1,(SENTENCE)]"> unuttum </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Nükhet+Noun+Prop+A3sg+Pnon+Nom")]' REL="[2,1,(SUBJECT)]"> Nükhet </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"söyle+Verb+Pos+Narr+Past+A3sg")]' REL="[4,1,(SENTENCE)]"> söylemişti </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[2,1,(INTENSIFIER)]"> de </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

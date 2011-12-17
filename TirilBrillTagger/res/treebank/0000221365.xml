@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"sanki+Adv")]' REL="[5,1,(MODIFIER)]"> Sanki </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[4,1,(DETERMINER)]"> bir </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"uyuşturucu+Noun+A3sg+Pnon+Nom")]' REL="[4,2,(CLASSIFIER)]"> uyuşturucu </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"bağımlı+Adj")(2,"Noun+Zero+A3sg+P3sg+Nom")]' REL="[5,1,(OBJECT)]"> bağımlısı </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"gibi+Postp+PCNom")]' REL="[6,1,(SENTENCE)]"> gibi </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[7,1,(OBJECT)]"> , </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"diye+Postp+PCNom")]' REL="[8,1,(MODIFIER)]"> diye </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"mırıldan+Verb+Pos+Past+A3sg")]' REL="[10,1,(SENTENCE)]"> mırıldandı </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"Nejat+Noun+Prop+A3sg+Pnon+Nom")]' REL="[8,1,(SUBJECT)]"> Nejat </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

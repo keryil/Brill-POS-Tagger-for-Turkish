@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hem+Conj")]' REL="[2,1,(COORDINATION)]"> Hem </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"deprem+Noun+A3sg+Pnon+Abl")]' REL="[3,1,(ABLATIVE.ADJUNCT)]"> depremden </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"hem+Conj")]' REL="[4,1,(COORDINATION)]"> hem </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"kaza+Noun+A3sg+Pnon+Abl")]' REL="[6,1,(ABLATIVE.ADJUNCT)]"> kazadan </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"sağ+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(MODIFIER)]"> sağ </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"kurtul+Verb+Pos+Past+A3sg")]' REL="[7,1,(SENTENCE)]"> kurtuldu </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

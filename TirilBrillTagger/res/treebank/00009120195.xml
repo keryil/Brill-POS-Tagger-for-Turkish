@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"şey+Noun+A3sg+Pnon+Dat")]' REL="[2,1,(DATIVE.ADJUNCT)]"> Şeye </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"git+Verb+Pos+Past+A1pl")]' REL="[5,1,(SENTENCE)]"> gittik </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"geçen+Adj")]' REL="[4,1,(MODIFIER)]"> geçen </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"akşam+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(MODIFIER)]"> akşam </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"cesur+Adj")]' REL="[2,1,(MODIFIER)]"> Cesur </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"yürek+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(CLASSIFIER)]"> Yürek </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"film+Noun+A3sg+P3sg+Dat")]' REL="[4,1,(SENTENCE)]"> filmine </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

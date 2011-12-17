@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Kerem+Noun+Prop+A3sg+Pnon+Nom")]' REL="[3,1,(SUBJECT)]"> Kerem </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bir_an+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(MODIFIER)]" ORG_IG1='[(1,"bir+Det")]' ORG_IG2='[(1,"an+Noun+A3sg+Pnon+Nom")]'> bir_an </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"dur+Verb+Pos+Past+A3sg")]' REL="[4,1,(SENTENCE)]"> durdu </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

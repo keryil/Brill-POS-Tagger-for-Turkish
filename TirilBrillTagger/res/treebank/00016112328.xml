@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="3">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"teknoloji+Noun+A3sg+Pnon+Nom")]' REL="[12,5,(SUBJECT)]"> Teknoloji </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bilgi+Noun+A3sg+Pnon+Gen")]' REL="[5,2,(SUBJECT)]"> bilginin </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"üretim+Noun+A3sg+Pnon+Loc")]' REL="[5,3,(LOCATIVE.ADJUNCT)]"> üretimde </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"kullan+Verb")(2,"Verb+Pass+Pos")(3,"Verb+Able+Aor")(4,"Adj+Zero")]' REL="[6,1,(OBJECT)]"> kullanılabilir </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"hal+Noun+A3sg+Pnon+Dat")]' REL="[7,2,(MODIFIER)]"> hale </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"getir+Verb")(2,"Verb+Pass+Pos")(3,"Noun+Inf+A3sg+P3sg+Nom")]' REL="[8,1,(OBJECT)]"> getirilmesi </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"amaç+Noun+A3sg+P3sg+Ins")]' REL="[12,5,(MODIFIER)]"> amacıyla </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"birtakım+Adj")]' REL="[10,1,(MODIFIER)]"> birtakım </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"düzenek+Noun+A3pl+Pnon+Gen")]' REL="[11,2,(SUBJECT)]"> düzeneklerin </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"tasarımla+Verb")(2,"Verb+Pass+Pos")(3,"Adv+AfterDoingSo")]' REL="[12,5,(MODIFIER)]"> tasarımlanıp </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"oluş+Verb")(2,"Verb+Caus")(3,"Verb+Pass+Pos")(4,"Noun+Inf+A3sg+P3sg+Nom")(5,"Verb+Zero+Pres+Cop+A3sg")]' REL="[13,1,(SENTENCE)]"> oluşturulmasıdır </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bilimsel+Adj")]' REL="[2,1,(MODIFIER)]"> Bilimsel </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bilgi+Noun+A3pl+Pnon+Nom")]' REL="[9,1,(SUBJECT)]"> bilgiler </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[2,1,(INSTRUMENTAL.ADJUNCT)]"> de </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"teknoloji+Noun+A3sg+Pnon+Nom")]' REL="[5,1,(CLASSIFIER)]"> teknoloji </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"aracılık+Noun+A3sg+P3sg+Ins")]' REL="[9,1,(INSTRUMENTAL.ADJUNCT)]"> aracılığıyla </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[8,1,(DETERMINER)]"> bir </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"üre+Verb")(2,"Verb+Caus+Pos")(3,"Adj+Agt")]' REL="[8,1,(MODIFIER)]"> üretici </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"güç+Noun+A3sg+Pnon+Dat")]' REL="[9,1,(OBJECT)]"> güce </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"dönüş+Verb+Pos+Aor+A3sg")]' REL="[10,1,(SENTENCE)]"> dönüşür </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bilim+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(OBJECT)]"> Bilim </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[3,1,(COORDINATION)]"> ve </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"teknoloji+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(OBJECT)]"> teknoloji </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ara+Noun+A3sg+P3sg+Loc")]' REL="[7,1,(MODIFIER)]"> arasında </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"bugün+Noun+A3sg+Pnon+Nom")(2,"Adj+Rel")]' REL="[7,1,(MODIFIER)]"> bugünkü </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"mevcut+Adj")]' REL="[7,1,(MODIFIER)]"> mevcut </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"ilişki+Noun+A3sg+Pnon+Nom")]' REL="[10,2,(SUBJECT)]"> ilişki </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"gün+Noun+A3sg+P1pl+Dat")]' REL="[10,1,(MODIFIER)]"> günümüze </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"özgü+Adj")(2,"Verb+Zero+Pres+Cop+A3sg")]' REL="[11,1,(SENTENCE)]"> özgüdür </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

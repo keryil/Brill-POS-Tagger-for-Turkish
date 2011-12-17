@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"yeni+Adj")]' REL="[2,1,(MODIFIER)]"> Yeni </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"gel+Verb+Pos")(2,"Adj+PresPart")]' REL="[9,1,(SUBJECT)]"> gelen </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"masa+Noun+A3sg+Pnon+Gen")]' REL="[6,1,(POSSESSOR)]"> masanın </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[6,1,(DETERMINER)]"> bir </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"kenar+Noun+A3sg+P3sg+Loc")(2,"Adj+Rel")]' REL="[8,1,(MODIFIER)]"> kenarındaki </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"boş+Adj")]' REL="[8,1,(MODIFIER)]"> boş </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"sandalye+Noun+A3sg+Pnon+Dat")]' REL="[9,1,(DATIVE.ADJUNCT)]"> sandalyeye </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"at+Verb+Pos+Narr+Past+A3sg")]' REL="[11,1,(SENTENCE)]"> atmıştı </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"kendi+Pron+ReflexP+A3sg+P3sg+Acc")]' REL="[9,1,(OBJECT)]"> kendini </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

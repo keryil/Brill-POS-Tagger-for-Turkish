@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"kadın+Noun+A3pl+Pnon+Nom")]' REL="[5,1,(SUBJECT)]"> Kadınlar </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ürün+Noun+A3pl+Pnon+Acc")]' REL="[3,1,(OBJECT)]"> ürünleri </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"satın_al+Verb+Pos")(2,"Adv+WithoutHavingDoneSo")]' REL="[4,1,(ABLATIVE.ADJUNCT)]" ORG_IG1='[(1,"satın+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"al+Verb+Pos")(2,"Adv+WithoutHavingDoneSo")]'> satın_almadan </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"önce+Postp+PCAbl")]' REL="[5,1,(MODIFIER)]"> önce </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"incele+Verb+Pos+Prog1+A3sg")]' REL="[6,1,(SENTENCE)]"> inceliyor </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Drugstore+Noun+Prop+A3sg+Pnon+Loc")]' REL="[3,3,(LOCATIVE.ADJUNCT)]"> Drugstore'da </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"alışveriş+Noun+A3sg+Pnon+Nom")]' REL="[3,3,(MODIFIER)]"> alışveriş </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yap+Verb+Pos")(2,"Adj+PresPart")(3,"Noun+Zero+A3pl+Pnon+Gen")]' REL="[4,1,(OBJECT)]"> yapanların </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"yüzde_91+Num+Card")(2,"Noun+Zero+A3sg+P3sg+Nom")]' REL="[15,1,(SUBJECT)]" ORG_IG1='[(1,"yüzde+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"91+Num+Card")(2,"Noun+Zero+A3sg+P3sg+Nom")]'> yüzde_91'i </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ambalaj+Noun+A3sg+P2sg+Nom")]' REL="[6,1,(POSSESSOR)]"> ambalajın </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"önyüz+Noun+A3sg+P3sg+Acc")]' REL="[7,1,(OBJECT)]"> önyüzünü </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[9,1,(COORDINATION)]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"yüzde_42+Num+Card")(2,"Noun+Zero+A3sg+P3sg+Nom")]' REL="[9,1,(MODIFIER)]" ORG_IG1='[(1,"yüzde+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"42+Num+Card")(2,"Noun+Zero+A3sg+P3sg+Nom")]'> yüzde_42'si </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"arka+Noun+A3sg+P3sg+Acc")]' REL="[10,1,(OBJECT)]"> arkasını </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[14,1,(COORDINATION)]"> , </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"yüzde_8+Num+Card")(2,"Noun+Zero+A3sg+P3sg+Nom")]' REL="[15,1,(SUBJECT)]" ORG_IG1='[(1,"yüzde+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"8+Num+Card")(2,"Noun+Zero+A3sg+P3sg+Nom")]'> yüzde_8'i </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[11,1,(INTENSIFIER)]"> de </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"yan+Adj")]' REL="[14,1,(MODIFIER)]"> yan </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"yüz+Noun+A3sg+P3pl+Acc")]' REL="[15,1,(OBJECT)]"> yüzlerini </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"oku+Verb+Pos+Prog1+A3sg")]' REL="[16,1,(SENTENCE)]"> okuyor </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

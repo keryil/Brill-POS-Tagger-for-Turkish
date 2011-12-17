@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Nesrin+Noun+Prop+A3sg+Pnon+Nom")]' REL="[3,1,(APPOSITION)]"> Nesrin </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,":+Punc")]' REL="[,( )]"> : </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"niçin+Adv")]' REL="[4,1,(SENTENCE)]"> Niçin </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[13,1,(COORDINATION)]"> ? </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Gen")]' REL="[8,1,(POSSESSOR)]"> Benim </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"herhangi+Adj")]' REL="[7,1,(MODIFIER)]"> herhangi </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"biri+Pron+A2pl+P2pl+Ins")]' REL="[8,1,(OBJECT)]"> birinizle </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"sorun+Noun+A3sg+P1sg+Nom")]' REL="[9,1,(OBJECT)]"> sorunum </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos")(2,"Noun+PastPart+A3sg+P3sg+Loc")]' REL="[12,1,(MODIFIER)]"> olduğunda </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"bu+Pron+DemonsP+A3sg+Pnon+Acc")]' REL="[12,1,(OBJECT)]"> bunu </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"başka+Adj")(2,"Noun+Zero+A3sg+P3sg+Ins")]' REL="[12,1,(OBJECT)]"> başkasıyla </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"konuş+Verb+Pos")(2,"Adj+PastPart+P1sg")]' REL="[13,1,(SUBJECT)]"> konuştuğum </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos+Narr+Cop+A3sg")]' REL="[14,1,(SENTENCE)]"> olmuştur </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bu+Pron+DemonsP+A3sg+Pnon+Nom")]' REL="[5,1,(SUBJECT)]"> Bu </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"herhangi+Adj")]' REL="[3,1,(MODIFIER)]"> herhangi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[4,2,(DETERMINER)]"> bir </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"rahatla+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[5,1,(OBJECT)]"> rahatlama </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"sağla+Verb+Neg+Prog1+A3sg")]' REL="[7,1,(SENTENCE)]"> sağlamıyor </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ki+Conj")]' REL="[5,1,(INTENSIFIER)]"> ki </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[16,1,(COORDINATION)]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"en_fazla+Adv")]' REL="[16,1,(MODIFIER)]" ORG_IG1='[(1,"en+Adv")]' ORG_IG2='[(1,"fazla+Postp+PCAbl")]'> en_fazla </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"o+Det")]' REL="[10,1,(DETERMINER)]"> o </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"sorun+Noun+A3sg+P3sg+Nom")]' REL="[12,1,(OBJECT)]"> sorunu </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"nasıl+Adv")]' REL="[12,1,(MODIFIER)]"> nasıl </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"çöz+Verb+Pos")(2,"Noun+FutPart+A3sg+P1sg+Dat")]' REL="[13,1,(OBJECT)]"> çözeceğime </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"ilişkin+Postp+PCDat")]' REL="[14,1,(MODIFIER)]"> ilişkin </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"tavsiye+Noun+A3sg+Pnon+Nom")]' REL="[15,1,(OBJECT)]"> tavsiye </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"al+Verb+Pos+Narr+A3sg")]' REL="[16,1,(OBJECT)]"> almış </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos+Prog1+A1sg")]' REL="[17,1,(SENTENCE)]"> oluyorum </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

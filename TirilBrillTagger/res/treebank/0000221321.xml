@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Muammer_bey+Noun+A3sg+Pnon+Dat")]' REL="[3,1,(DATIVE.ADJUNCT)]" ORG_IG1='[(1,"Muammer+Noun+Prop+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"bey+Noun+A3sg+Pnon+Dat")]'> Muammer_beye </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"su+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(OBJECT)]"> su </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"getir+Verb+Pos+Imp+A2sg")]' REL="[5,1,(SENTENCE)]"> getir </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"oğul+Noun+A3sg+P1sg+Nom")]' REL="[3,1,(VOCATIVE)]"> oğlum </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>
