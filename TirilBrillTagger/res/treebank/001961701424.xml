@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="windows-1254" ?>
-<Set sentences="1">
-<S No="1">
-<W IX="1" LEM="" MORPH=" " IG='[(1,"tüt+Verb+Pos+Prog1+A3sg")]' REL="[4,1,(SENTENCE)]"> Tütüyor </W>
-<W IX="2" LEM="" MORPH=" " IG='[(1,"burun+Noun+A3sg+P1sg+Loc")]' REL="[1,1,(LOCATIVE.ADJUNCT)]"> burnumda </W>
-<W IX="3" LEM="" MORPH=" " IG='[(1,"oysa+Adv")]' REL="[1,1,(MODIFIER)]"> oysa </W>
-<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
-</S>
-</Set>

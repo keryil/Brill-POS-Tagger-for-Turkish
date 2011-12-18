@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="windows-1254" ?>
-<Set sentences="1">
-<S No="1">
-<W IX="1" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Nom")]' REL="[2,1,(SUBJECT)]"> Ben </W>
-<W IX="2" LEM="" MORPH=" " IG='[(1,"konuş+Verb+Pos+Desr+A1sg")]' REL="[3,1,(SENTENCE)]"> konuşsam </W>
-<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
-</S>
-</Set>
