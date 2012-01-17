@@ -14,21 +14,25 @@ class TurkishTreebankCorpusReader(XMLCorpusReader):
     classdocs
     '''
 
-    def abc(self):
-        pass
+    def sents(self, fileid):
+        tree = self.xml(fileid)
+        sents_xml = tree.findall("S")
+        sents = []
+        for xml in sents_xml:
+            for child in xml:
+                sents.append(child.text)
       
 if __name__ == '__main__':
     import os
     print os.getcwd()
-    fileids = [line.rstrip() for line in open("../filelist.txt")]
-    print fileids
+    fileids = [file for file in os.listdir("../../../res/treebank/")]
+#    print fileids
     turkish_treebank = LazyCorpusLoader(name="turkish_treebank", 
                                         reader_cls=TurkishTreebankCorpusReader,
                                         fileids=fileids)
 #    print turkish_treebank.words()
     for file in turkish_treebank.fileids():
         try:
-#            continue
-            print turkish_treebank.words(file)
+            print turkish_treebank.sents(file)
         except ParseError, e:
-            print "ERROR: file, e"
+            print "ERROR: %s, %s" % (file, e)

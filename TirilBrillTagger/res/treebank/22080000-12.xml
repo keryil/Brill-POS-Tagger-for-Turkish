@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="windows-1254" ?>
-<Set sentences="1">
-<S No="1">
-<W IX="1" LEM="" MORPH=" " IG='[(1,"hesap+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(CLASSIFIER)]"> Hesap </W>
-<W IX="2" LEM="" MORPH=" " IG='[(1,"uzman+Noun+A3pl+P3sg+Nom")]' REL="[3,1,(SUBJECT)]"> uzmanları </W>
-<W IX="3" LEM="" MORPH=" " IG='[(1,"hazırla+Verb+Pos+Past+A3sg")]' REL="[4,1,(SENTENCE)]"> hazırladı </W>
-<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
-</S>
-</Set>

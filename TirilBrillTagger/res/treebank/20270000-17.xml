@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="windows-1254" ?>
-<Set sentences="1">
-<S No="1">
-<W IX="1" LEM="" MORPH=" " IG='[(1,"rol+Noun+A3sg+Pnon+Acc")]' REL="[3,1,(OBJECT)]"> Rolü </W>
-<W IX="2" LEM="" MORPH=" " IG='[(1,"başka+Adj")(2,"Noun+Zero+A3sg+P3sg+Dat")]' REL="[3,1,(DATIVE.ADJUNCT)]"> başkasına </W>
-<W IX="3" LEM="" MORPH=" " IG='[(1,"ver+Verb+Pos+Narr+A3pl+Past")]' REL="[4,1,(SENTENCE)]"> vermişlerdi </W>
-<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
-</S>
-</Set>

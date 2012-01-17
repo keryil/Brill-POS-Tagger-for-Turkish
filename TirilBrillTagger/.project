@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>.000022131.xml.swp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/nltk_data/corpora/turkish_treebank/.000022131.xml.swp</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
