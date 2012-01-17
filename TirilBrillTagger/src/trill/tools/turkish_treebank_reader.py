@@ -8,6 +8,7 @@ import nltk
 from nltk.corpus.util import LazyCorpusLoader
 from nltk.corpus.reader import XMLCorpusReader
 from xml.etree.cElementTree import ParseError
+from xml.etree.ElementTree import ElementTree
 win_data_dir = "C:\\Users\\Kerem\\nltk_data"
 nix_data_dir = "/home/kerem/nltk_data"
 class TurkishTreebankCorpusReader(XMLCorpusReader):
@@ -44,4 +45,8 @@ if __name__ == '__main__':
         try:
             turkish_treebank.sents(file)
         except ParseError, e:
-            print "ERROR: %s, %s" % (file, e)
+            print file
+            tree = ElementTree()
+            tree.parse(open(os.path.join(treebank_path, file)))
+            print tree
+#            print "ERROR: %s, %s" % (file, e)
