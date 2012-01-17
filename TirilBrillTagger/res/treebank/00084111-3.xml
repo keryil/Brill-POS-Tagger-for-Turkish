@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hıçkırık+Noun+A3pl+P1sg+Gen")]' REL="[2,1,(POSSESSOR)]"> Hıçkırıklarımın </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ara+Noun+A3sg+P3sg+Loc")]' REL="[4,1,(MODIFIER)]"> arasında </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"söyle+Verb+Pos")(2,"Noun+PastPart+A3pl+P2sg+Acc")]' REL="[4,1,(OBJECT)]"> söylediklerini </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"dinle+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Dat")]' REL="[5,1,(OBJECT)]"> dinlemeye </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"başla+Verb+Pos+Past+A1sg")]' REL="[6,1,(SENTENCE)]"> başladım </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

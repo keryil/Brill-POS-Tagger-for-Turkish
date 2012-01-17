@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"dün+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(MODIFIER)]"> Dün </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kutu+Noun+A3pl+Pnon+Nom")]' REL="[3,1,(OBJECT)]"> kutular </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"aç+Verb")(2,"Verb+Pass+Pos")(3,"Adv+When")]' REL="[4,1,(SENTENCE)]"> açılınca </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"eski+Adj")]' REL="[2,1,(MODIFIER)]"> Eski </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"eşya+Noun+A3sg+Pnon+Ins")]' REL="[3,1,(OBJECT)]"> eşyayla </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"haşır_neşir_ol+Verb+Pos+Past+A1sg")]' REL="[4,1,(SENTENCE)]" ORG_IG1='[(1,"haşır+Dup")]' ORG_IG2='[(1,"neşir+Noun+A3sg+Pnon+Nom")]' ORG_IG3='[(1,"ol+Verb+Pos+Past+A1sg")]'> haşır_neşir_oldum </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

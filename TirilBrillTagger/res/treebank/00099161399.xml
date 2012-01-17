@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bil+Verb+Pos+Prog1+A1sg")]' REL="[2,1,(SENTENCE)]"> Biliyorum </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"!+Punc")]' REL="[3,1,(COORDINATION)]"> ! </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bil+Verb+Pos+Prog1+A1sg")]' REL="[5,1,(SENTENCE)]"> Biliyorum </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"işte+Adv")]' REL="[3,1,(MODIFIER)]"> işte </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"!+Punc")]' REL="[8,1,(COORDINATION)]"> ! </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"o+Pron+DemonsP+A3sg+Pnon+Nom")]' REL="[8,1,(SUBJECT)]"> O </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Gen")]' REL="[8,1,(POSSESSOR)]"> benim </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"makine+Noun+A3sg+P1sg+Nom")]' REL="[9,1,(OBJECT)]"> makinem </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"!+Punc")]' REL="[,( )]"> ! </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"diye+Postp+PCNom")]' REL="[11,1,(MODIFIER)]"> diye </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"bağır+Verb+Pos+Past+A1sg")]' REL="[12,1,(SENTENCE)]"> bağırdım </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

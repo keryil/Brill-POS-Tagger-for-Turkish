@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"aniden+Adv")]' REL="[3,1,(MODIFIER)]"> Aniden </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kaybol+Verb+Pos")(2,"Adv+AfterDoingSo")]' REL="[3,1,(MODIFIER)]"> kaybolup </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"git+Verb+Pos")(2,"Verb+Hastily+Past+A3sg")]' REL="[4,1,(SENTENCE)]"> gidiverdi </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

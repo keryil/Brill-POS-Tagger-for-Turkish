@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"'+Punc")]' REL="[,( )]"> ' </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bu+Pron+DemonsP+A3sg+Pnon+Abl")]' REL="[7,3,(OBJECT)]"> bundan </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"yüzlerce+Num+Card")]' REL="[5,1,(MODIFIER)]"> yüzlerce </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"firma+Noun+A3sg+Pnon+Gen")]' REL="[7,3,(OBJECT)]"> firmanın </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"olumsuz+Adj")]' REL="[7,3,(MODIFIER)]"> olumsuz </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"etkile+Verb")(2,"Verb+Pass+Pos")(3,"Noun+FutPart+A3sg+P3sg+Acc")]' REL="[8,2,(OBJECT)]"> etkileneceğini </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"belir+Verb")(2,"Verb+Caus+Pos+Past+A3sg")]' REL="[9,1,(SENTENCE)]"> belirtti </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

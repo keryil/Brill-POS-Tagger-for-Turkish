@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="3">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"seçim+Noun+A3sg+Pnon+Gen")]' REL="[2,1,(OBJECT)]"> Seçimin </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"üst+Noun+A3sg+P3sg+Abl")]' REL="[6,1,(ABLATIVE.ADJUNCT)]"> üstünden </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"neredeyse+Adv")]' REL="[6,1,(MODIFIER)]"> neredeyse </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"bir+Num+Card")]' REL="[5,1,(MODIFIER)]"> bir </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ay+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(OBJECT)]"> ay </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"geç+Verb+Pos+Past+A3sg")]' REL="[7,1,(SENTENCE)]"> geçti </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"baraj+Noun+A3sg+Pnon+Gen")]' REL="[2,1,(POSSESSOR)]"> Barajın </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"alt+Noun+A3sg+P3sg+Loc")]' REL="[3,1,(LOCATIVE.ADJUNCT)]"> altında </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"kal+Verb+Pos")(2,"Adj+PresPart")]' REL="[5,1,(MODIFIER)]"> kalan </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"siyasi+Adj")]' REL="[5,1,(MODIFIER)]"> siyasi </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"parti+Noun+A3pl+Pnon+Nom")]' REL="[7,3,(SUBJECT)]"> partiler </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"şok+Noun+A3sg+Pnon+Acc")]' REL="[7,3,(OBJECT)]"> şoku </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"atla+Verb")(2,"Verb+Caus")(3,"Verb+Able+Neg+Past+A3sg")]' REL="[8,1,(SENTENCE)]"> atlatamadı </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[2,1,(DETERMINER)]"> Bu </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"parti+Noun+A3pl+Pnon+Nom")]' REL="[3,2,(SUBJECT)]"> partiler </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ara+Noun+A3sg+P3sg+Loc")(2,"Adj+Rel")]' REL="[4,1,(MODIFIER)]"> arasındaki </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"Dyp+Noun+Prop+A3sg+Pnon+Loc")]' REL="[5,1,(OBJECT)]"> DYP'de </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ise+Conj")]' REL="[10,2,(COORDINATION)]"> ise </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"göz+Noun+A3sg+Pnon+Ins")]' REL="[7,3,(COORDINATION)]"> gözle </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"gör+Verb")(2,"Verb+Pass+Pos+Aor")(3,"Adj+Zero")]' REL="[9,3,(MODIFIER)]"> görülür </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[9,3,(DETERMINER)]"> bir </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"hareket+Noun+A3sg+Pnon+Nom")(2,"Adj+With")(3,"Noun+Ness+A3sg+Pnon+Nom")]' REL="[10,2,(OBJECT)]"> hareketlilik </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"var+Adj")(2,"Verb+Zero+A3sg")]' REL="[11,1,(SENTENCE)]"> var </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

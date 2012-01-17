@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"düşün+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Dat")]' REL="[2,1,(OBJECT)]"> Düşünmeye </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"çalış+Verb+Pos+Prog1+Past+A1sg")]' REL="[3,1,(SENTENCE)]"> çalışıyordum </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

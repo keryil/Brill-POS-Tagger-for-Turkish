@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Beyan_et+Verb+Pos")(2,"Adj+PresPart")(3,"Noun+Zero+A3sg+Pnon+Abl")]' REL="[4,1,(ABLATIVE.ADJUNCT)]" ORG_IG1='[(1,"beyan+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"et+Verb+Pos")(2,"Adj+PresPart")(3,"Noun+Zero+A3sg+Pnon+Abl")]'> Beyan_edenden </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"az+Adj")]' REL="[3,1,(MODIFIER)]"> az </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"vergi+Noun+A3sg+Pnon+Nom")]' REL="[4,2,(SUBJECT)]"> vergi </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"al+Verb")(2,"Verb+Pass+Pos+Imp+A3sg")]' REL="[5,1,(SENTENCE)]"> alınsın </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

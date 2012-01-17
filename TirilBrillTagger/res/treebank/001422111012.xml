@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Anadolu+Noun+Prop+A3sg+Pnon+Gen")]' REL="[2,1,(POSSESSOR)]"> Anadolu'nun </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"peynir+Noun+A3pl+P3sg+Nom")]' REL="[3,1,(OBJECT)]"> peynirleri </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ise+Postp+PCAbl")]' REL="[5,1,(MODIFIER)]"> ise </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"çok+Adv")]' REL="[5,1,(MODIFIER)]"> çok </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"çeşit+Noun+A3sg+Pnon+Nom")(2,"Adj+With")(3,"Noun+Zero+A3sg+Pnon+Nom")]' REL="[6,1,(SENTENCE)]"> çeşitli </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,":+Punc")]' REL="[,( )]"> : </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"tulum+Noun+A3sg+Pnon+Nom")]' REL="[8,1,(CLASSIFIER)]"> Tulum </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"peynir+Noun+A3pl+P3sg+Nom")]' REL="[9,1,(APPOSITION)]"> peynirleri </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[10,1,(COORDINATION)]"> , </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"ot+Noun+A3sg+Pnon+Nom")(2,"Adj+With")]' REL="[11,1,(CLASSIFIER)]"> otlu </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"peynir+Noun+A3pl+Pnon+Nom")]' REL="[6,1,(APPOSITION)]"> peynirler </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hepsi+Pron+A3pl+P3pl+Nom")]' REL="[4,1,(SUBJECT)]"> Hepsi </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"rakı+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(CLASSIFIER)]"> rakı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"sofra+Noun+A3sg+P3sg+Dat")]' REL="[4,1,(DATIVE.ADJUNCT)]"> sofrasına </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"git+Verb+Pos+Aor+A3sg")]' REL="[5,1,(SENTENCE)]"> gider </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

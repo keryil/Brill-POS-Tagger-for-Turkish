@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"anlat+Verb+Pos+Past+A1sg")]' REL="[3,1,(SENTENCE)]"> Anlattım </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"mı+Ques+Pres+A3sg")]' REL="[1,1,(QUESTION.PARTICLE)]"> mı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Her_şey+Noun+A3sg+Pnon+Acc")]' REL="[2,1,(OBJECT)]" ORG_IG1='[(1,"her+Det")]' ORG_IG2='[(1,"şey+Noun+A3sg+Pnon+Acc")]'> Her_şeyi </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"anlat+Verb+Pos+Past+A1sg")]' REL="[4,1,(OBJECT)]"> anlattım </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"mı+Ques+Pres+A3sg")]' REL="[2,1,(QUESTION.PARTICLE)]"> mı </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A2pl")]' REL="[5,1,(SENTENCE)]"> dediniz </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

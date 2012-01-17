@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="3">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Celal+Noun+Prop+A3sg+Pnon+Gen")]' REL="[2,1,(POSSESSOR)]"> Celal'in </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"renk+Noun+A3sg+P3sg+Nom")]' REL="[7,1,(SUBJECT)]"> rengi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[4,1,(DETERMINER)]"> bir </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"an+Noun+A3sg+Pnon+Nom")]' REL="[7,1,(MODIFIER)]"> an </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"kül+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(OBJECT)]"> kül </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"gibi+Postp+PCNom")]' REL="[7,1,(MODIFIER)]"> gibi </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"sar+Verb+Pos+Aor+Past+A3sg")]' REL="[8,1,(SENTENCE)]"> sarardı </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"heyecan+Noun+A3sg+Pnon+Nom")(2,"Verb+Acquire+Pos+Narr+Past+A3sg")]' REL="[2,1,(SENTENCE)]"> Heyecanlanmıştı </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"tüm+Det")]' REL="[2,1,(DETERMINER)]"> Tüm </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"gövde+Noun+A3sg+P3sg+Abl")]' REL="[8,1,(ABLATIVE.ADJUNCT)]"> gövdesinden </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"elektrik+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(CLASSIFIER)]"> elektrik </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"akım+Noun+A3sg+P3sg+Nom")]' REL="[5,1,(OBJECT)]"> akımı </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"gibi+Postp+PCNom")]' REL="[7,1,(MODIFIER)]"> gibi </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[7,1,(DETERMINER)]"> bir </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"titre+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[8,1,(SUBJECT)]"> titreme </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"geç+Verb+Pos+Past+A3sg")]' REL="[9,1,(SENTENCE)]"> geçti </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

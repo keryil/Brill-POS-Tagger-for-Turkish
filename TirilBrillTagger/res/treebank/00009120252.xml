@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="5">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"başta+Adv")]' REL="[3,1,(MODIFIER)]"> Başta </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"güneydoğu+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(CLASSIFIER)]"> Güneydoğu </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"sorun+Noun+A3sg+P3sg+Nom")]' REL="[4,1,(SENTENCE)]"> sorunu </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"özel+Adj")(2,"Verb+Become")(3,"Verb+Caus+Pos")(4,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[2,1,(SENTENCE)]"> Özelleştirme </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"enflasyon+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(SENTENCE)]"> Enflasyon </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+<S No="4">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"gümrük+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(CLASSIFIER)]"> Gümrük </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"birlik+Noun+A3sg+P3sg+Nom")]' REL="[3,1,(SENTENCE)]"> Birliği </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+<S No="5">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"demokratik+Adj")(2,"Verb+Become+Pos")(3,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[2,1,(SENTENCE)]"> Demokratikleşme </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>

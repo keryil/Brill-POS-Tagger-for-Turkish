@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"tümüyle+Adv")]' REL="[2,1,(MODIFIER)]"> Tümüyle </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"meşru+Adj")]' REL="[3,1,(MODIFIER)]"> meşru </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yol+Noun+A3pl+Pnon+Ins")]' REL="[7,1,(INSTRUMENTAL.ADJUNCT)]"> yollarla </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"yüksek+Adj")]' REL="[5,1,(MODIFIER)]"> yüksek </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"rakım+Noun+A3sg+Pnon+Nom")(2,"Adj+With")]' REL="[6,1,(MODIFIER)]"> rakımlı </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"tepe+Noun+A3sg+Pnon+Dat")]' REL="[7,1,(OBJECT)]"> tepeye </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"çık+Verb+Pos+Narr")(2,"Adj+Zero")]' REL="[8,1,(MODIFIER)]"> çıkmış </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"adam+Noun+A3sg+Pnon+Acc")]' REL="[12,1,(OBJECT)]"> adamı </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"şişman+Adj")]' REL="[10,1,(ETOL)]"> şişman </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[12,1,(COORDINATION)]"> ve </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"ahali+Noun+A3pl+Pnon+Acc")]' REL="[12,1,(OBJECT)]"> ahaliyi </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"pişman_eyle+Verb+Pos+Prog1+A3pl")]' REL="[13,1,(SENTENCE)]" ORG_IG1='[(1,"pişman+Adj")]' ORG_IG2='[(1,"eyle+Verb+Pos+Prog1+A3pl")]'> pişman_eyliyorlar </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

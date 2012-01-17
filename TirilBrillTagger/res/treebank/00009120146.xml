@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="3">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"albüm+Noun+A3pl+Pnon+Acc")]' REL="[4,1,(OBJECT)]"> Albümleri </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"geri+Noun+A3sg+Pnon+Dat")]' REL="[3,1,(OBJECT)]"> geriye </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"doğru+Postp+PCDat")]' REL="[4,1,(MODIFIER)]"> doğru </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"çevir+Verb+Pos+Past+A1sg")]' REL="[5,1,(SENTENCE)]"> çevirdim </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"70+Num+Card")(2,"Noun+Zero+A3pl+Pnon+Dat")]' REL="[2,1,(OBJECT)]"> 70'lere </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kadar+Postp+PCDat")]' REL="[3,1,(MODIFIER)]"> kadar </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"git+Verb+Pos")(2,"Verb+Able+Past+A1sg")]' REL="[4,1,(SENTENCE)]"> gidebildim </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"sonra+Adv")]' REL="[5,1,(S.MODIFIER)]"> Sonra </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"tuhaf+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(CLASSIFIER)]"> tuhaf </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"şey+Noun+A3pl+Pnon+Nom")]' REL="[4,1,(OBJECT)]"> şeyler </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos+Past+A3sg")]' REL="[5,1,(SENTENCE)]"> oldu </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hiç+Adv")]' REL="[3,1,(MODIFIER)]"> Hiç </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"böyle+Adv")]' REL="[3,1,(MODIFIER)]"> böyle </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"düşün+Verb+Neg+Narr+Past+A1sg")]' REL="[4,1,(SENTENCE)]"> düşünmemiştim </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[10,1,(COORDINATION)]"> , </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"doğru+Adj")(2,"Noun+Zero+A3sg+P3sg+Nom")]' REL="[11,1,(S.MODIFIER)]"> doğrusu </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"bugün+Noun+A3sg+Pnon+Dat")]' REL="[7,1,(OBJECT)]"> bugüne </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"kadar+Postp+PCDat")]' REL="[10,1,(MODIFIER)]"> kadar </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"hiç+Adv")]' REL="[10,1,(MODIFIER)]"> hiç </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"böyle+Adv")]' REL="[10,1,(MODIFIER)]"> böyle </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"düşün+Verb+Neg+Narr+Past+A1sg")]' REL="[11,1,(SENTENCE)]"> düşünmemiştim </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"yara+Verb+Pos")(2,"Verb+Able+Aor+A3sg")]' REL="[2,1,(SENTENCE)]"> Yarayabilir </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"yeniden+Adv")]' REL="[4,1,(MODIFIER)]"> Yeniden </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"siz+Pron+PersP+A2pl+Pnon+Acc")]' REL="[3,1,(OBJECT)]"> sizi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"düşün+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Dat")]' REL="[4,1,(OBJECT)]"> düşünmeye </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"başla+Verb+Pos")(2,"Verb+Able+Aor+A3sg")]' REL="[5,1,(SENTENCE)]"> başlayabilir </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

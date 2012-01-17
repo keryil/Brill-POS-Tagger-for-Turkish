@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"siz+Pron+PersP+A2pl+Pnon+Nom")]' REL="[4,2,(SUBJECT)]"> Siz </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"sektör+Noun+A3sg+Pnon+Loc")(2,"Adj+Rel")]' REL="[4,2,(MODIFIER)]"> sektördeki </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"tek+Adj")]' REL="[4,2,(MODIFIER)]"> tek </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"antropoloji+Noun+A3sg+Pnon+Nom")(2,"Noun+Agt+A3sg+Pnon+Nom")(3,"Verb+Zero+Pres+A2pl")]' REL="[5,1,(SENTENCE)]"> antropologsunuz </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"daha+Adv")]' REL="[2,1,(MODIFIER)]"> Daha </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"önce+Adv")]' REL="[4,1,(MODIFIER)]"> önce </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"nere+Pron+QuesP+A3sg+Pnon+Loc")]' REL="[4,1,(LOCATIVE.ADJUNCT)]"> nerede </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"çalış+Verb+Pos+Prog1+Past+A2pl")]' REL="[5,1,(SENTENCE)]"> çalışıyordunuz </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

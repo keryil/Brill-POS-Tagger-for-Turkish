@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"yahu+Interj")]' REL="[3,2,(VOCATIVE)]"> Yahu </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"nasıl+Adv")]' REL="[3,2,(MODIFIER)]"> nasıl </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yap+Verb")(2,"Verb+Caus+Pos+Aor+A1pl")]' REL="[5,1,(SENTENCE)]"> yaptırırız </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"zor+Adj")(2,"Noun+Zero+A3sg+Pnon+Ins")]' REL="[3,2,(MODIFIER)]"> zorla </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

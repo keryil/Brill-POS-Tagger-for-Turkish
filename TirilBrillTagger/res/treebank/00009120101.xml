@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Beş_bin+Num+Card")]' REL="[2,1,(MODIFIER)]" ORG_IG1='[(1,"5+Num+Card")(2,"Noun+Zero+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"bin+Num+Card")]'> Beş_bin </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"asker+Noun+A3sg+P3sg+Gen")]' REL="[3,1,(POSSESSOR)]"> askerinin </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"harekat+Noun+A3sg+P3sg+Loc")]' REL="[8,1,(LOCATIVE.ADJUNCT)]"> harekatında </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"pirinç+Noun+A3sg+Pnon+Nom")]' REL="[5,1,(CLASSIFIER)]"> pirinç </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[6,1,(COORDINATION)]"> ve </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ekmek+Noun+A3sg+Pnon+Nom")]' REL="[7,1,(CLASSIFIER)]"> ekmek </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"stoku+Noun+A3sg+Pnon+Nom")]' REL="[8,1,(OBJECT)]"> stoku </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"yap+Verb+Neg+Prog1+A3sg")]' REL="[9,1,(SENTENCE)]"> yapmıyor </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"memur+Noun+A3sg+Pnon+Dat")]' REL="[9,1,(OBJECT)]"> Memura </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ikibinüç+Num+Card")(2,"Noun+Zero+A3sg+Pnon+Loc")]' REL="[9,1,(LOCATIVE.ADJUNCT)]"> ikibinüç'te </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"deppler+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(OBJECT)]"> Deppler </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"geçmiş+Adj")]' REL="[6,1,(MODIFIER)]"> geçmiş </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ımf+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(OBJECT)]"> IMF </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"enflasyon+Noun+A3sg+Pnon+Dat")]' REL="[7,1,(OBJECT)]"> enflasyona </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"göre+Postp+PCDat")]' REL="[8,1,(MODIFIER)]"> göre </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"zam+Noun+A3sg+Pnon+Nom")]' REL="[9,1,(OBJECT)]"> zam </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"söz+Noun+A3sg+P3sg+Nom")]' REL="[10,1,(SENTENCE)]"> sözü </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

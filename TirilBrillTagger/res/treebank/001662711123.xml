@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="3">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[2,1,(DETERMINER)]"> Bir </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"akşam+Noun+A3sg+Pnon+Nom")]' REL="[5,1,(MODIFIER)]"> akşam </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"annemler+Noun+A3pl+P1sg+Dat")]' REL="[5,1,(DATIVE.ADJUNCT)]"> annemlere </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"konu+Noun+A3sg+Pnon+Acc")]' REL="[5,1,(OBJECT)]"> konuyu </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"aç+Verb+Pos+Past+A1sg")]' REL="[6,1,(SENTENCE)]"> açtım </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"anne+Noun+A3sg+P1sg+Nom")]' REL="[6,1,(SUBJECT)]"> Annem </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"önce+Adv")]' REL="[3,1,(MODIFIER)]"> Önce </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"gör+Verb+Pos")(2,"Noun+Inf+A3sg+P1pl+Nom")]' REL="[4,1,(OBJECT)]"> görmemiz </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"lazım+Adj")]' REL="[6,1,(SENTENCE)]"> lazım </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Equ")]' REL="[4,1,(EQU.ADJUNCT)]"> bence </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A3sg")]' REL="[7,1,(SENTENCE)]"> dedi </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ancak+Adv")]' REL="[10,1,(S.MODIFIER)]"> Ancak </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[3,1,(DETERMINER)]"> bu </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"saye+Noun+A3sg+Pnon+Loc")]' REL="[9,1,(OBJECT)]"> sayede </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"o+Pron+DemonsP+A3sg+Pnon+Dat")]' REL="[6,1,(OBJECT)]"> ona </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"en+Adv")]' REL="[6,1,(MODIFIER)]"> en </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"yakış+Verb+Pos")(2,"Adj+PresPart")]' REL="[7,1,(MODIFIER)]"> yakışan </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"isim+Noun+A3sg+Pnon+Acc")]' REL="[9,2,(OBJECT)]"> ismi </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"kolay+Adj")(2,"Adv+Ly")]' REL="[9,2,(MODIFIER)]"> kolayca </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"bul+Verb+Pos")(2,"Verb+Able+Aor+A1pl")]' REL="[10,1,(SENTENCE)]"> bulabiliriz </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

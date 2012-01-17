@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[5,1,(SUBJECT)]"> Bu </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"eski+Adj")(2,"Noun+Zero+A3sg+Pnon+Abl")]' REL="[3,1,(OBJECT)]"> eskiden </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"kal+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[5,1,(MODIFIER)]"> kalma </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[5,1,(DETERMINER)]"> bir </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"durum+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(SENTENCE)]"> durum </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[7,1,(OBJECT)]"> , </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A1sg")]' REL="[8,1,(SENTENCE)]"> dedim </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

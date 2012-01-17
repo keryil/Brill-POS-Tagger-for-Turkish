@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"kablo+Noun+A3sg+Pnon+Loc")]' REL="[4,1,(MODIFIER)]"> Kabloda </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"güç+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(CLASSIFIER)]"> güç </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"birlik+Noun+A3sg+P3sg+Nom")]' REL="[4,1,(OBJECT)]"> birliği </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"yap+Verb+Pos+Past+A3pl")]' REL="[5,1,(SENTENCE)]"> yaptılar </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3sg+Pnon+Gen")]' REL="[4,1,(POSSESSOR)]"> Onun </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bu+Pron+DemonsP+A3sg+Pnon+Nom")]' REL="[3,1,(OBJECT)]"> bu </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ev+Noun+A3sg+Pnon+Loc")]' REL="[5,1,(LOCATIVE.ADJUNCT)]"> evde </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"yer+Noun+A3sg+P3sg+Nom")]' REL="[5,1,(OBJECT)]"> yeri </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"yok+Adj")]' REL="[7,1,(SENTENCE)]"> yok </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"artık+Adv")]' REL="[5,1,(MODIFIER)]"> artık </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[8,1,(OBJECT)]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"diye+Postp+PCNom")]' REL="[9,1,(MODIFIER)]"> diye </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"bağır+Verb+Pos+Narr+A3sg")]' REL="[10,1,(SENTENCE)]"> bağırmış </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

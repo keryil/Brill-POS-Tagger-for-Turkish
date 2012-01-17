@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"öbür+Adj")]' REL="[2,1,(MODIFIER)]"> Öbür </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bardak+Noun+A3sg+Pnon+Acc")]' REL="[4,1,(OBJECT)]"> bardağı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"da+Conj")]' REL="[2,1,(INTENSIFIER)]"> da </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"dol+Verb")(2,"Verb+Caus+Pos+Past+A3sg")]' REL="[7,1,(SENTENCE)]"> doldurdu </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"döke_saç+Verb+Pos+Opt+A3sg")]' REL="[4,1,(MODIFIER)]" ORG_IG1='[(1,"dök+Verb+Pos+Opt+A3sg")]' ORG_IG2='[(1,"saç+Noun+A3sg+Pnon+Dat")]'> döke_saça </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

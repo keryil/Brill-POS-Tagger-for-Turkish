@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Başbakanlık+Noun+Prop+A3sg+Pnon+Loc")]' REL="[2,2,(LOCATIVE.ADJUNCT)]"> Başbakanlık'ta </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"yap+Verb")(2,"Verb+Pass+Pos")(3,"Adj+PresPart")]' REL="[3,1,(MODIFIER)]"> yapılan </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"toplantı+Noun+A3pl+Pnon+Loc")]' REL="[16,2,(MODIFIER)]"> toplantılarda </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"maaş+Noun+A3sg+Pnon+Nom")]' REL="[5,2,(CLASSIFIER)]"> maaş </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"art+Verb+Pos")(2,"Noun+Inf+A3sg+P3sg+Gen")]' REL="[12,4,(SUBJECT)]"> artışının </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"tazminat+Noun+A3pl+Pnon+Nom")]' REL="[7,1,(MODIFIER)]"> tazminatlar </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[9,1,(COORDINATION)]"> ve </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"sosyal+Adj")]' REL="[9,1,(MODIFIER)]"> sosyal </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"yardım+Noun+A3pl+Pnon+Loc")]' REL="[11,2,(MODIFIER)]"> yardımlarda </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"düzenle+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[11,2,(SUBJECT)]"> düzenleme </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"yap+Verb")(2,"Verb+Pass+Pos")(3,"Adv+ByDoingSo")]' REL="[12,4,(MODIFIER)]"> yapılarak </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"gerçek+Adj")(2,"Verb+Become")(3,"Verb+Caus")(4,"Verb+Pass+Pos")(5,"Noun+Inf+A3sg+P3sg+Nom")]' REL="[13,1,(CLASSIFIER)]"> gerçekleştirilmesi </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"seçenek+Noun+A3sg+P3sg+Gen")]' REL="[14,1,(POSSESSOR)]"> seçeneğinin </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"üzer+Noun+A3sg+P3sg+Loc")]' REL="[15,1,(MODIFIER)]"> üzerinde </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"çalış+Verb")(2,"Verb+Pass+Pos")(3,"Noun+PastPart+A3sg+P3sg+Nom")]' REL="[16,2,(SUBJECT)]"> çalışıldığı </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,"öğren+Verb")(2,"Verb+Pass+Pos+Past+A3sg")]' REL="[17,1,(SENTENCE)]"> öğrenildi </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

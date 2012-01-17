@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"o+Det")]' REL="[2,1,(DETERMINER)]"> O </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ara+Noun+A3sg+Pnon+Loc")]' REL="[10,2,(MODIFIER)]"> arada </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"geri+Noun+A3sg+Pnon+Dat")]' REL="[4,1,(MODIFIER)]"> geri </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"dön+Verb+Pos")(2,"Adv+AfterDoingSo")]' REL="[7,1,(MODIFIER)]"> dönüp </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos")(2,"Adj+PresPart")(3,"Noun+Zero+A3pl+Pnon+Acc")]' REL="[6,1,(OBJECT)]"> olanları </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"anlat+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Dat")]' REL="[7,1,(OBJECT)]"> anlatmaya </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"çalış+Verb+Pos")(2,"Adj+PresPart")]' REL="[8,1,(MODIFIER)]"> çalışan </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"Ramiz+Noun+Prop+A3sg+Pnon+Gen")]' REL="[9,1,(POSSESSOR)]"> Ramiz'in </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"kafa+Noun+A3sg+P3sg+Dat")]' REL="[10,2,(DATIVE.ADJUNCT)]"> kafasına </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"in+Verb")(2,"Verb+Caus+Pos+Past+A3sg")]' REL="[12,1,(SENTENCE)]"> indirdi </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"cetvel+Noun+A3sg+P3sg+Acc")]' REL="[10,2,(OBJECT)]"> cetvelini </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[2,1,(DETERMINER)]"> Bu </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"sorun+Noun+A3pl+Pnon+Gen")]' REL="[3,1,(POSSESSOR)]"> sorunların </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"çözüm+Noun+A3sg+P3sg+Loc")(2,"Adj+Rel")]' REL="[4,1,(MODIFIER)]"> çözümündeki </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"anlaş+Verb+Pos")(2,"Noun+NotState+A3sg+Pnon+Nom")]' REL="[5,1,(OBJECT)]"> anlaşmazlık </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"gerekçe+Noun+A3sg+Pnon+Nom")]' REL="[6,2,(SUBJECT)]"> gerekçe </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"göster+Verb")(2,"Verb+Pass+Pos+Desr+A3sg")]' REL="[10,1,(MODIFIER)]"> gösterilse </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"o+Pron+DemonsP+A3sg+Pnon+Nom")]' REL="[10,3,(SUBJECT)]"> o </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"da+Conj")]' REL="[8,1,(INTENSIFIER)]"> da </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"anlaş+Verb")(2,"Verb+Pass+Pos")(3,"Verb+Able+Aor+A3sg")]' REL="[11,1,(SUBJECT)]"> anlaşılabilir </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

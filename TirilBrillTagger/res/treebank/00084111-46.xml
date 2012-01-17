@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"nere+Pron+QuesP+A3sg+Pnon+Loc")(2,"Verb+Zero+Pres+A2pl")]' REL="[3,1,(SENTENCE)]"> Neredesiniz </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"oğul+Noun+A3sg+P1sg+Nom")]' REL="[1,2,(VOCATIVE)]"> oğlum </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[4,1,(OBJECT)]"> ? </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A3sg")]' REL="[6,1,(SENTENCE)]"> dedi </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"bağır+Verb+Pos")(2,"Adv+ByDoingSo")]' REL="[4,1,(MODIFIER)]"> bağırarak </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"balık+Noun+A3pl+Pnon+Nom")]' REL="[2,1,(SUBJECT)]"> Balıklar </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"gel+Verb+Pos+Past+A3sg")]' REL="[3,1,(SENTENCE)]"> geldi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[4,2,(COORDINATION)]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ayıkla+Verb")(2,"Verb+Pass+Pos+Fut+A3sg")]' REL="[5,1,(SENTENCE)]"> ayıklanacak </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,";+Punc")]' REL="[7,2,(COORDINATION)]"> ; </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"sebze+Noun+A3pl+Pnon+Nom")]' REL="[7,1,(OBJECT)]"> sebzeler </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"soy+Verb")(2,"Verb+Pass+Pos+Fut+A3sg")]' REL="[8,1,(SENTENCE)]"> soyulacak </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[10,1,(COORDINATION)]"> , </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"meşrubat+Noun+A3sg+Pnon+Nom")]' REL="[10,1,(OBJECT)]"> meşrubat </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"taşın+Verb+Pos+Fut+A3sg")]' REL="[11,1,(SENTENCE)]"> taşınacak </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[13,2,(COORDINATION)]"> , </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"siz+Pron+PersP+A2pl+Pnon+Nom")]' REL="[13,2,(SUBJECT)]"> siz </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"yok+Adj")(2,"Verb+Zero+Pres+A2pl")]' REL="[14,1,(SENTENCE)]"> yoksunuz </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"tam+Adv")]' REL="[5,2,(MODIFIER)]"> Tam </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"da+Conj")]' REL="[1,1,(INTENSIFIER)]"> da </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"o+Pron+DemonsP+A3sg+Pnon+Nom")]' REL="[4,1,(DETERMINER)]"> o </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"satır+Noun+A3sg+Pnon+Nom")]' REL="[5,2,(OBJECT)]"> satır </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"gibi+Postp+PCNom")(2,"Verb+Zero+Past+A1sg")]' REL="[8,1,(SENTENCE)]"> gibiydim </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"o+Det")]' REL="[7,1,(DETERMINER)]"> o </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"sabah+Noun+A3sg+Pnon+Nom")]' REL="[5,2,(MODIFIER)]"> sabah </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[11,1,(COORDINATION)]"> , </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[10,1,(DETERMINER)]"> bir </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"başka+Adj")(2,"Noun+Zero+A3sg+P3sg+Nom")]' REL="[11,1,(OBJECT)]"> başkası </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"gibi+Postp+PCNom")]' REL="[12,1,(SENTENCE)]"> gibi </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[15,1,(COORDINATION)]"> , </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"pişman+Adj")]' REL="[14,1,(SENTENCE)]"> pişman </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[15,3,(COORDINATION)]"> ve </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"sıkıntı+Noun+A3sg+Pnon+Nom")(2,"Adj+With")(3,"Noun+Zero+A3sg+Pnon+Nom")]' REL="[16,1,(SENTENCE)]"> sıkıntılı </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Norveç+Noun+Prop+A3sg+Pnon+Abl")]' REL="[2,3,(ABLATIVE.ADJUNCT)]"> Norveç'ten </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ithal_et+Verb")(2,"Verb+Pass+Pos")(3,"Adj+PresPart")]' REL="[4,1,(MODIFIER)]" ORG_IG1='[(1,"ithal+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"et+Verb")(2,"Verb+Pass+Pos")(3,"Adj+PresPart")]'> ithal_edilen </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"Destecioğlu+Noun+Prop+A3sg+Pnon+Nom")]' REL="[4,1,(CLASSIFIER)]"> Destecioğlu </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"cihaz+Noun+A3sg+P3sg+Gen")]' REL="[5,1,(POSSESSOR)]"> cihazının </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"maliyet+Noun+A3sg+P3sg+Nom")]' REL="[10,1,(OBJECT)]"> maliyeti </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"üçyüzelli_bin_dolar+Noun+A3sg+Pnon+Acc")]' REL="[10,1,(OBJECT)]" ORG_IG1='[(1,"üçyüzelli+Num+Card")]' ORG_IG2='[(1,"bin+Num+Card")]' ORG_IG3='[(1,"dolar+Noun+A3sg+Pnon+Acc")]'> üçyüzelli_bin_doları </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"(+Punc")]' REL="[,( )]"> ( </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"yaklaşık_beşyüzelli_milyar_lira+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(APPOSITION)]" ORG_IG1='[(1,"yaklaşık+Adj")]' ORG_IG2='[(1,"beşyüzelli+Num+Card")]' ORG_IG3='[(1,"milyar+Num+Card")]' ORG_IG4='[(1,"lira+Noun+A3sg+Pnon+Nom")]'> yaklaşık_beşyüzelli_milyar_lira </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,")+Punc")]' REL="[,( )]"> ) </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"bul+Verb+Pos+Prog1+A3sg")]' REL="[11,1,(SENTENCE)]"> buluyor </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

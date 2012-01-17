@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"genç+Adj")]' REL="[2,1,(MODIFIER)]"> Genç </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"yaş+Noun+A3sg+P2sg+Dat")]' REL="[3,1,(OBJECT)]"> yaşına </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"karşın+Postp+PCDat")]' REL="[7,1,(MODIFIER)]"> karşın </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"bütün+Adj")]' REL="[6,1,(MODIFIER)]"> bütün </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"bu+Pron+DemonsP+A3pl+Pnon+Acc")]' REL="[7,1,(OBJECT)]"> bunları </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"bil+Verb+Pos+Prog1+A2sg")]' REL="[9,1,(SENTENCE)]"> biliyorsun </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"maryline+Noun+A3sg+Pnon+Nom")]' REL="[7,1,(SUBJECT)]"> Maryline </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

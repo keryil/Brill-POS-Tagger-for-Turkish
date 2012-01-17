@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="3">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ama+Conj")]' REL="[6,1,(S.MODIFIER)]"> Ama </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3sg+Pnon+Gen")]' REL="[3,1,(OBJECT)]"> onun </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"için+Postp+PCNom")]' REL="[4,1,(MODIFIER)]"> için </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"kork+Verb+Pos+Prog1+Past+A1sg")]' REL="[6,1,(SENTENCE)]"> korkuyordum </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"da+Conj")]' REL="[4,1,(INTENSIFIER)]"> da </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ya+Conj")]' REL="[7,1,(S.MODIFIER)]"> Ya </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3sg+Pnon+Acc")]' REL="[6,1,(OBJECT)]"> onu </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"çare+Noun+A3sg+Pnon+Nom")(2,"Adj+Without")(3,"Noun+Ness+A3sg+Pnon+Nom")]' REL="[4,1,(CLASSIFIER)]"> çaresizlik </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"canavar+Noun+A3sg+P3sg+Gen")]' REL="[5,1,(POSSESSOR)]"> canavarının </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"kol+Noun+A3pl+P3sg+Dat")]' REL="[6,1,(DATIVE.ADJUNCT)]"> kollarına </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"at+Verb+Pos+Aor+A3pl+Cond")]' REL="[7,1,(SENTENCE)]"> atarlarsa </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ya+Conj")]' REL="[10,1,(S.MODIFIER)]"> Ya </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"hava+Noun+A3sg+Pnon+Acc")]' REL="[3,3,(OBJECT)]"> havayı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"katı+Adj")(2,"Verb+Become")(3,"Verb+Caus+Pos+Aor+A3sg")]' REL="[4,1,(SENTENCE)]"> katılaştırır </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[6,1,(COORDINATION)]"> , </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"sefer+Noun+A3pl+Pnon+Acc")]' REL="[6,1,(OBJECT)]"> seferleri </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"kaldır+Verb+Pos+Aor+A3sg")]' REL="[7,1,(SENTENCE)]"> kaldırır </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[9,1,(COORDINATION)]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"yol+Noun+A3pl+P3sg+Acc")]' REL="[9,1,(OBJECT)]"> yollarını </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"kapa+Verb+Pos+Aor+A3pl+Cond")]' REL="[10,1,(SENTENCE)]"> kaparlarsa </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

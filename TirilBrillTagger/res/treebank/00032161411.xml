@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ama+Conj")]' REL="[13,1,(S.MODIFIER)]"> Ama </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A1sg")]' REL="[13,1,(SENTENCE)]"> dedim </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Nom")]' REL="[8,2,(SUBJECT)]"> ben </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ne+Conj")]' REL="[7,1,(COORDINATION)]"> ne </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"şiir+Noun+A3sg+Pnon+Nom")]' REL="[10,1,(OBJECT)]"> şiir </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"oku+Verb+Pos")(2,"Verb+Able+Aor+A1sg")]' REL="[3,1,(OBJECT)]"> okuyabilirim </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"ne+Conj")]' REL="[12,1,(COORDINATION)]"> ne </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[10,1,(INTENSIFIER)]"> de </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"şarkı+Noun+A3sg+Pnon+Nom")]' REL="[8,2,(OBJECT)]"> şarkı </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

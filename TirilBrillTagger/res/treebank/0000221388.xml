@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"kıpırda+Verb+Pos")(2,"Adv+WithoutHavingDoneSo")]' REL="[2,1,(MODIFIER)]"> Kıpırdamadan </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[3,2,(COORDINATION)]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"öyle+Adj")(2,"Adv+Ly")]' REL="[4,1,(MODIFIER)]"> öylece </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"dur+Verb+Pos+Prog1+Past+A3sg")]' REL="[5,1,(SENTENCE)]"> duruyordu </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

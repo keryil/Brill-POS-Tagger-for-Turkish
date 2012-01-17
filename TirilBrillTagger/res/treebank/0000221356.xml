@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="3">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Kerem+Noun+Prop+A3sg+Pnon+Nom")]' REL="[3,1,(SUBJECT)]"> Kerem </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"yer+Noun+A3sg+P3sg+Abl")]' REL="[3,1,(ABLATIVE.ADJUNCT)]"> yerinden </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"kalk+Verb+Pos+Narr+Past+A3sg")]' REL="[4,1,(SENTENCE)]"> kalkmıştı </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hız+Noun+A3sg+Pnon+Ins")]' REL="[4,1,(MODIFIER)]"> Hızla </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kapı+Noun+A3sg+Pnon+Dat")]' REL="[3,1,(OBJECT)]"> kapıya </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"doğru+Postp+PCDat")]' REL="[4,1,(MODIFIER)]"> doğru </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"git+Verb+Pos+Prog1+Past+A3sg")]' REL="[5,1,(SENTENCE)]"> gidiyordu </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"kapı+Noun+A3sg+Pnon+Gen")]' REL="[2,1,(MODIFIER)]"> Kapının </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ora+Noun+A3sg+Pnon+Loc")]' REL="[4,1,(LOCATIVE.ADJUNCT)]"> orda </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"hafif+Adj")(2,"Adv+Ly")]' REL="[4,1,(MODIFIER)]"> hafifçe </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"sendele+Verb+Pos+Past+A3sg")]' REL="[5,1,(SENTENCE)]"> sendeledi </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

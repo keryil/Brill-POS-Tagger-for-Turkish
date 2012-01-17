@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"peki+Adv")]' REL="[2,1,(SENTENCE)]"> Peki </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[3,1,(OBJECT)]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A1sg")]' REL="[7,1,(SENTENCE)]"> dedim </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"son+Adj")]' REL="[6,1,(MODIFIER)]"> son </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[6,1,(DETERMINER)]"> bir </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"gayret+Noun+A3sg+Pnon+Ins")]' REL="[3,1,(MODIFIER)]"> gayretle </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"beş+Num+Card")]' REL="[2,1,(MODIFIER)]"> Beş </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"dakika+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(OBJECT)]"> dakika </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"iç+Noun+A3sg+P3sg+Loc")]' REL="[7,1,(MODIFIER)]"> içinde </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[3,1,(INTENSIFIER)]"> de </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"mecal+Noun+A3sg+Pnon+Nom")(2,"Adj+Without")(3,"Noun+Ness+A3sg+Pnon+Abl")]' REL="[7,1,(MODIFIER)]"> mecalsizlikten </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"hayat+Noun+A3sg+Pnon+Dat")]' REL="[7,1,(OBJECT)]"> hayata </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"veda_et+Verb+Pos+Fut+Past+A1sg")]' REL="[9,1,(SENTENCE)]" ORG_IG1='[(1,"veda+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"et+Verb+Pos+Fut+Past+A1sg")]'> veda_edecektim </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"muhtemelen+Adv")]' REL="[7,1,(MODIFIER)]"> muhtemelen </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

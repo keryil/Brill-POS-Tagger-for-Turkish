@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"unakıtan+Noun+Prop+A3sg+Pnon+Nom")]' REL="[2,1,(CLASSIFIER)]"> Unakıtan </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"hükümet+Noun+A3sg+Pnon+Acc")]' REL="[18,3,(SUBJECT)]"> hükümeti </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"işçi+Noun+A3pl+Pnon+Gen")]' REL="[14,1,(POSSESSOR)]"> işçilerin </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"yasal+Adj")]' REL="[6,2,(MODIFIER)]"> yasal </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"zorunlu+Adj")(2,"Noun+Ness+A3sg+Pnon+Abl")]' REL="[7,3,(OBJECT)]"> zorunluluktan </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"kaynak+Noun+A3sg+Pnon+Nom")(2,"Verb+Acquire+Pos")(3,"Adj+PresPart")]' REL="[8,1,(MODIFIER)]"> kaynaklanan </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[12,3,(COORDINATION)]"> ve </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"toplusözleşme+Noun+A3sg+Pnon+Dat")]' REL="[10,3,(OBJECT)]"> toplusözleşmeye </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"kon+Verb")(2,"Verb+Pass+Pos")(3,"Noun+Inf+A3sg+P3sg+Nom")]' REL="[11,1,(OBJECT)]"> konulması </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"şart+Noun+A3sg+P3sg+Ins")]' REL="[12,3,(INSTRUMENTAL.ADJUNCT)]"> şartıyla </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"öde+Verb")(2,"Verb+Pass+Pos")(3,"Adj+PresPart")]' REL="[14,1,(MODIFIER)]"> ödenen </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"iki+Num+Card")]' REL="[14,1,(MODIFIER)]"> iki </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"ikramiye+Noun+A3sg+Pnon+Abl")]' REL="[15,2,(OBJECT)]"> ikramiyeden </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"iki+Num+Card")(2,"Noun+Zero+A3sg+P3sg+Acc")]' REL="[16,2,(OBJECT)]"> ikisini </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,"öde+Verb+Neg")(2,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[17,1,(OBJECT)]"> ödememe </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,"konu+Noun+A3sg+P3sg+Acc")]' REL="[18,3,(OBJECT)]"> konusunu </W>
+<W IX="18" LEM="" MORPH=" " IG='[(1,"değer+Noun+A3sg+Pnon+Nom")(2,"Verb+Acquire")(3,"Verb+Caus+Pos+Fut+A3sg")]' REL="[19,1,(SENTENCE)]"> değerlendirecek </W>
+<W IX="19" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"'+Punc")]' REL="[,( )]"> ' </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"haber+Noun+A3sg+P3sg+Dat")]' REL="[3,1,(OBJECT)]"> haberine </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"göre+Postp+PCDat")]' REL="[20,1,(MODIFIER)]"> göre </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"hükümet+Noun+A3sg+Pnon+Nom")]' REL="[10,1,(SUBJECT)]"> hükümet </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"iki+Num+Card")]' REL="[6,1,(MODIFIER)]"> iki </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ikramiye+Noun+A3sg+Pnon+Gen")]' REL="[7,3,(OBJECT)]"> ikramiyenin </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"öde+Verb")(2,"Verb+Pass+Neg")(3,"Noun+Inf+A3sg+P3sg+Nom")]' REL="[8,1,(OBJECT)]"> ödenmemesi </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"konu+Noun+A3sg+P3sg+Loc")]' REL="[9,1,(OBJECT)]"> konusunda </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"karar+Noun+A3sg+Pnon+Nom")]' REL="[10,1,(OBJECT)]"> karar </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"ver+Verb+Pos+Aor+Cond+A3sg")]' REL="[20,1,(MODIFIER)]"> verirse </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"ikibinüç+Num+Card")(2,"Noun+Zero+A3sg+Pnon+Nom")]' REL="[12,1,(CLASSIFIER)]"> ikibinüç </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"yıl+Noun+A3sg+P3sg+Loc")]' REL="[20,1,(MODIFIER)]"> yılında </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"sadece+Adv")]' REL="[15,1,(MODIFIER)]"> sadece </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[15,1,(DETERMINER)]"> bu </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"kalem+Noun+A3sg+Pnon+Abl")]' REL="[20,1,(OBJECT)]"> kalemden </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,"üçyüzon+Num+Card")]' REL="[17,1,(MODIFIER)]"> üçyüzon </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,"trilyon+Num+Card")]' REL="[18,2,(MODIFIER)]"> trilyon </W>
+<W IX="18" LEM="" MORPH=" " IG='[(1,"lira+Noun+A3sg+Pnon+Nom")(2,"Adj+FitFor")]' REL="[19,1,(MODIFIER)]"> liralık </W>
+<W IX="19" LEM="" MORPH=" " IG='[(1,"tasarruf+Noun+A3sg+Pnon+Nom")]' REL="[20,1,(OBJECT)]"> tasarruf </W>
+<W IX="20" LEM="" MORPH=" " IG='[(1,"sağlamış_ol+Verb+Pos+Fut+A3sg")]' REL="[21,1,(SENTENCE)]" ORG_IG1='[(1,"sağla+Verb+Pos+Narr+A3sg")]' ORG_IG2='[(1,"ol+Verb+Pos+Fut+A3sg")]'> sağlamış_olacak </W>
+<W IX="21" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hepsi+Pron+A1pl+P1pl+Nom")]' REL="[3,1,(SUBJECT)]"> Hepimiz </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"dahi+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(OBJECT)]"> dahi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"belle+Verb+Pos+Narr+A1pl")]' REL="[5,1,(SENTENCE)]"> bellemişiz </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3sg+Pnon+Acc")]' REL="[3,1,(OBJECT)]"> onu </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[2,1,(DETERMINER)]"> Bir </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ütü+Noun+A3sg+Pnon+Nom")]' REL="[4,2,(OBJECT)]"> ütü </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bile+Adv")]' REL="[2,1,(INTENSIFIER)]"> bile </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"tamir_et+Verb")(2,"Verb+Able+Neg+Prog1+A3sg")]' REL="[5,1,(SENTENCE)]" ORG_IG1='[(1,"tamir+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"et+Verb")(2,"Verb+Able+Neg+Prog1+A3sg")]'> tamir_edemiyor </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>

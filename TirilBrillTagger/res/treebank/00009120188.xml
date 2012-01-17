@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Anadolu+Noun+Prop+A3sg+Pnon+Loc")]' REL="[2,1,(LOCATIVE.ADJUNCT)]"> Anadolu'da </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"zor_ol+Verb+Pos+Neces+A3sg")]' REL="[7,1,(SUBJECT)]" ORG_IG1='[(1,"zor+Adj")]' ORG_IG2='[(1,"ol+Verb+Pos+Neces+A3sg")]'> zor_olmalı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"kız+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(CLASSIFIER)]"> kız </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"-+Punc")]' REL="[5,1,(COORDINATION)]"> - </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"erkek+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(CLASSIFIER)]"> erkek </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ilişki+Noun+A3sg+P3pl+Nom")]' REL="[2,1,(SUBJECT)]"> ilişkileri </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"iç+Verb+Neg+Aor+A3sg")]' REL="[3,1,(SENTENCE)]"> İçmez </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"mi+Ques+Pres+A2sg")]' REL="[1,1,(QUESTION.PARTICLE)]"> misin </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"iç+Verb+Pos+Narr+A2sg")]' REL="[3,1,(SENTENCE)]"> İçmişsin </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bile+Adv")]' REL="[1,1,(MODIFIER)]"> bile </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Nom")]' REL="[4,2,(SUBJECT)]"> Ben </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"yavru+Noun+A3sg+P1sg+Abl")]' REL="[4,2,(SUBJECT)]"> yavrumdan </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"nasıl+Adv")]' REL="[4,2,(MODIFIER)]"> nasıl </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ayır+Verb")(2,"Verb+Pass+Pos+Aor+A1sg")]' REL="[5,1,(SENTENCE)]"> ayrılırım </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[8,1,(COORDINATION)]"> ? </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3sg+Pnon+Acc")]' REL="[8,1,(OBJECT)]"> Onu </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"nere+Pron+QuesP+A3pl+Pnon+Dat")]' REL="[8,1,(DATIVE.ADJUNCT)]"> nerelere </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"gönder+Verb+Pos+Aor+A1sg")]' REL="[9,1,(SENTENCE)]"> gönderirim </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[10,1,(OBJECT)]"> ? </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"diye+Postp+PCNom")]' REL="[12,2,(MODIFIER)]"> diye </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"adam+Noun+A3sg+Pnon+Gen")]' REL="[12,1,(POSSESSOR)]"> adamın </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"ayaklarına_kapa+Verb")(2,"Verb+Pass+Pos+Narr+A3sg")]' REL="[15,1,(SENTENCE)]" ORG_IG1='[(1,"ayak+Noun+A3pl+P3sg+Dat")]' ORG_IG2='[(1,"kapa+Verb")(2,"Verb+Pass+Pos+Narr+A3sg")]'> ayaklarına_kapanmış </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"zavallı+Adj")]' REL="[14,1,(MODIFIER)]"> zavallı </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"kadın+Noun+A3sg+Pnon+Nom")]' REL="[12,2,(SUBJECT)]"> kadın </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

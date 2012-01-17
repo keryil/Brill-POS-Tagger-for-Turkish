@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"nasıl+Adj")(2,"Verb+Zero+Pres+A2pl")]' REL="[2,1,(SENTENCE)]"> Nasılsınız </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"vurgu+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(SENTENCE)]"> Vurgu </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,":+Punc")]' REL="[8,1,(COORDINATION)]"> : </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"orta+Noun+A3sg+Pnon+Abl")]' REL="[6,1,(ABLATIVE.ADJUNCT)]"> Ortadan </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"kaybol+Verb+Pos+Past+A2pl")]' REL="[7,1,(SENTENCE)]"> kayboldunuz </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[8,1,(COORDINATION)]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"iyi+Adj")(2,"Verb+Become+Pos+Past+A2pl")]' REL="[10,1,(SENTENCE)]"> iyileştiniz </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"mi+Ques+Pres+A3sg")]' REL="[8,1,(QUESTION.PARTICLE)]"> mi </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Gözkulak_ol+Verb")(2,"Verb+Pass+Pos")(3,"Noun+Inf+A3sg+P3sg+Nom")]' REL="[2,1,(CLASSIFIER)]" ORG_IG1='[(1,"gözkulak+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"ol+Verb")(2,"Verb+Pass+Pos")(3,"Noun+Inf+A3sg+P3sg+Nom")]'> Gözkulak_olunması </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"görev+Noun+A3sg+P3sg+Acc")]' REL="[3,1,(OBJECT)]"> görevini </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"üstlen+Verb+Pos+Narr+A3sg")]' REL="[5,1,(SENTENCE)]"> üstlenmiş </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"gibi+Postp+PCNom")]' REL="[3,1,(MODIFIER)]"> gibi </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

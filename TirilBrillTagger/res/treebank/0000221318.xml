@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="4">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"otur+Verb+Pos+Imp+A2pl")]' REL="[3,1,(SENTENCE)]"> Oturun </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"şöyle+Adv")]' REL="[1,1,(MODIFIER)]"> şöyle </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"biraz+Adv")]' REL="[3,1,(MODIFIER)]"> Biraz </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"nefes+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(OBJECT)]"> nefes </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"al+Verb+Pos+Imp+A2pl")]' REL="[4,1,(SENTENCE)]"> alın </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"dinlen+Verb+Pos+Imp+A2pl")]' REL="[2,1,(SENTENCE)]"> Dinlenin </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="4">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"heyecan+Noun+A3sg+Pnon+Nom")(2,"Adj+With")(3,"Noun+Zero+A3sg+Pnon+Nom")]' REL="[2,1,(OBJECT)]"> Heyecanlı </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[3,1,(COORDINATION)]"> ve </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yorgun+Adj")]' REL="[4,1,(OBJECT)]"> yorgun </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"görün+Verb+Pos+Prog1+A2pl")]' REL="[5,1,(SENTENCE)]"> görünüyorsunuz </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[6,1,(OBJECT)]"> , </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A3sg")]' REL="[7,1,(SENTENCE)]"> dedi </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Nom")]' REL="[2,3,(CLASSIFIER)]"> Ben </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"merkez+Noun+A3sg+Pnon+Nom")(2,"Noun+Agt+A3sg+Pnon+Nom")(3,"Noun+Ness+A3sg+Pnon+Nom")]' REL="[3,2,(SUBJECT)]"> Merkezcilik </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"Terk_et+Verb")(2,"Verb+Pass+Pos+Neces+A3sg")]' REL="[4,1,(SENTENCE)]" ORG_IG1='[(1,"terk+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"et+Verb")(2,"Verb+Pass+Pos+Neces+A3sg")]'> Terk_Edilmeli </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

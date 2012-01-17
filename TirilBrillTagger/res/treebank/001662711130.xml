@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"öyle+Adv")]' REL="[2,1,(OBJECT)]"> Öyle </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A1sg")]' REL="[4,1,(SENTENCE)]"> dedim </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"kısa+Adj")(2,"Adv+Ly")]' REL="[2,1,(MODIFIER)]"> kısaca </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Gen")]' REL="[2,1,(OBJECT)]"> Benim </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"için+Postp+PCNom")]' REL="[4,1,(MODIFIER)]"> için </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"büyük+Adj")(2,"Noun+Ness+A3sg+Pnon+Nom")]' REL="[4,1,(CLASSIFIER)]"> büyüklük </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"vakit+Noun+A3sg+P3sg+Nom")]' REL="[5,1,(SENTENCE)]"> vakti </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>

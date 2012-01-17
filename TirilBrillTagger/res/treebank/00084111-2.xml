@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"şimdi+Adv")]' REL="[5,1,(MODIFIER)]"> Şimdi </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Acc")]' REL="[5,1,(OBJECT)]"> beni </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"iyi+Adj")]' REL="[5,1,(MODIFIER)]"> iyi </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"dinle+Verb+Pos+Imp+A2pl")]' REL="[6,1,(SENTENCE)]"> dinleyin </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[7,1,(OBJECT)]"> , </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A3sg")]' REL="[8,1,(SENTENCE)]"> dedi </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

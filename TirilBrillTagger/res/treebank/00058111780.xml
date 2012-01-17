@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"öl+Verb")(2,"Verb+Caus+Pos")(3,"Noun+Inf+A3sg+Pnon+Ins")]' REL="[3,1,(INSTRUMENTAL.ADJUNCT)]"> Öldürmekle </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"de+Conj")]' REL="[1,2,(INTENSIFIER)]"> de </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"kal+Verb+Neg")(2,"Adv+AfterDoingSo")]' REL="[7,1,(MODIFIER)]"> kalmayıp </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ceset+Noun+A3sg+P2pl+Acc")]' REL="[7,1,(OBJECT)]"> cesedinizi </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"kadavra+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(CLASSIFIER)]"> kadavra </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"niyet+Noun+A3sg+P3sg+Dat")]' REL="[7,1,(DATIVE.ADJUNCT)]"> niyetine </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"kullan+Verb+Pos+Fut+A1sg")]' REL="[8,1,(SENTENCE)]"> kullanacağım </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[9,1,(OBJECT)]"> , </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A1sg")]' REL="[10,1,(SENTENCE)]"> dedim </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

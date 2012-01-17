@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Türkiye+Noun+Prop+A3sg+Pnon+Dat")]' REL="[4,3,(DATIVE.ADJUNCT)]"> Türkiye'ye </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"müzakere+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(CLASSIFIER)]"> müzakere </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"tarih+Noun+A3sg+P3sg+Nom")]' REL="[4,3,(OBJECT)]"> tarihi </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ver+Verb")(2,"Verb+Pass+Neg")(3,"Noun+Inf+A3sg+P3sg+Nom")]' REL="[10,1,(CLASSIFIER)]"> verilmemesi </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ancak+Conj")]' REL="[13,1,(S.MODIFIER)]"> ancak </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"Güney+Noun+Prop+A3sg+Pnon+Nom")]' REL="[7,1,(MODIFIER)]"> Güney </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"Kıbrıs+Noun+Prop+A3sg+P2sg+Nom")]' REL="[9,3,(OBJECT)]"> Kıbrıs'ın </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"Ab+Noun+Prop+A3sg+Pnon+Dat")]' REL="[9,3,(DATIVE.ADJUNCT)]"> AB'ye </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"al+Verb")(2,"Verb+Pass+Pos")(3,"Noun+Inf+A3sg+P3sg+Nom")]' REL="[10,1,(CLASSIFIER)]"> alınması </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"durum+Noun+A3sg+P3sg+Loc")]' REL="[12,2,(LOCATIVE.ADJUNCT)]"> durumunda </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"iş+Noun+A3pl+Pnon+Nom")]' REL="[12,2,(SUBJECT)]"> işler </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"karış+Verb+Pos")(2,"Verb+Able+Aor+A3sg")]' REL="[13,1,(SENTENCE)]"> karışabilir </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

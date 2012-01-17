@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Zeynep+Noun+Prop+A3sg+Pnon+Nom")]' REL="[4,1,(SUBJECT)]"> Zeynep </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"şaşkın+Adj")(2,"Noun+Ness+A3sg+Pnon+Ins")]' REL="[4,1,(MODIFIER)]"> şaşkınlıkla </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"kardeş+Noun+A3sg+P3sg+Dat")]' REL="[4,1,(OBJECT)]"> kardeşine </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"bak+Verb+Pos+Past+A3sg")]' REL="[5,1,(SENTENCE)]"> baktı </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"sen+Pron+PersP+A2sg+Pnon+Nom")]' REL="[9,1,(SUBJECT)]"> Sen </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"ne+Pron+QuesP+A3sg+Pnon+Nom")]' REL="[8,2,(QUESTION.PARTICLE)]"> ne </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos")(2,"Noun+PastPart+A3sg+P3sg+Gen")]' REL="[9,1,(OBJECT)]"> dediğinin </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"fark+Noun+A3sg+P3sg+Loc")]' REL="[11,1,(SENTENCE)]"> farkında </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"mı+Ques+Pres+A2sg")]' REL="[9,1,(QUESTION.PARTICLE)]"> mısın </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Nom")]' REL="[6,3,(SUBJECT)]"> Ben </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"mi+Ques+Pres+A3sg")]' REL="[1,1,(QUESTION.PARTICLE)]"> mi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"sen+Pron+PersP+A2sg+Pnon+Gen")]' REL="[4,1,(POSSESSOR)]"> senin </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"üst+Noun+A3sg+P2sg+Dat")]' REL="[6,3,(DATIVE.ADJUNCT)]"> üstüne </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"köpek+Noun+A3sg+Pnon+Acc")]' REL="[6,1,(OBJECT)]"> köpeği </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"sal+Verb")(2,"Verb+Caus")(3,"Verb+Caus+Pos+Past+A1sg")]' REL="[7,1,(SENTENCE)]"> saldırttım </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

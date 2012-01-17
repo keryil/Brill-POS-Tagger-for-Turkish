@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"-+Punc")]' REL="[,( )]"> - </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kaçıncı+Adj")]' REL="[3,1,(MODIFIER)]"> Kaçıncı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"kat+Noun+A3sg+Pnon+Dat")]' REL="[4,1,(DATIVE.ADJUNCT)]"> kata </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"çık+Verb+Pos+Prog1+A2sg")]' REL="[5,1,(SENTENCE)]"> çıkıyorsun </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

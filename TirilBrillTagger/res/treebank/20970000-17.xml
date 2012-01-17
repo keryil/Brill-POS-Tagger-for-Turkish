@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Linn_johannes+Noun+A3sg+Pnon+Nom")]' REL="[11,3,(SUBJECT)]" ORG_IG1='[(1,"linn+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"johannes+Noun+A3sg+Pnon+Nom")]'> Linn_Johannes </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"plan+Noun+A3sg+Pnon+Gen")]' REL="[10,2,(OBJECT)]"> planın </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"uzun+Adj")]' REL="[5,1,(MODIFIER)]"> uzun </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"vade+Noun+A3sg+Pnon+Loc")]' REL="[10,2,(MODIFIER)]"> vadede </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"türk+Noun+A3sg+Pnon+Nom")]' REL="[7,1,(CLASSIFIER)]"> Türk </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"toplum+Noun+A3sg+P3sg+Gen")]' REL="[9,2,(SUBJECT)]"> toplumunun </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"orta+Noun+A3sg+Pnon+Abl")]' REL="[9,2,(ABLATIVE.ADJUNCT)]"> ortadan </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"kalk+Verb+Pos")(2,"Noun+Inf+A3sg+P3sg+Dat")]' REL="[10,2,(OBJECT)]"> kalkmasına </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"neden_ol+Verb+Pos")(2,"Noun+FutPart+A3sg+P3sg+Acc")]' REL="[11,3,(OBJECT)]" ORG_IG1='[(1,"neden+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"ol+Verb+Pos")(2,"Noun+FutPart+A3sg+P3sg+Acc")]'> neden_olacağını </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"belir+Verb")(2,"Verb+Caus+Pos+Aor")(3,"Adv+While")]' REL="[23,1,(MODIFIER)]"> belirtirken </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"türk+Noun+A3pl+Pnon+Gen")]' REL="[14,2,(SUBJECT)]"> Türklerin </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"yaşa+Verb+Pos")(2,"Adj+PastPart+P3sg")]' REL="[18,1,(MODIFIER)]"> yaşadığı </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"yüzde+Noun+A3sg+Pnon+Nom")]' REL="[16,2,(CLASSIFIER)]"> yüzde </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,"28+Num+Card")(2,"Adj+FitFor")]' REL="[18,1,(MODIFIER)]"> 28'lik </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,"nüfus+Noun+A3sg+Pnon+Nom")]' REL="[18,1,(CLASSIFIER)]"> nüfus </W>
+<W IX="18" LEM="" MORPH=" " IG='[(1,"alan+Noun+A3sg+P3sg+Gen")]' REL="[22,3,(OBJECT)]"> alanının </W>
+<W IX="19" LEM="" MORPH=" " IG='[(1,"rum+Noun+A3sg+Pnon+Nom")]' REL="[20,1,(CLASSIFIER)]"> Rum </W>
+<W IX="20" LEM="" MORPH=" " IG='[(1,"alan+Noun+A3sg+P3sg+Nom")]' REL="[21,1,(OBJECT)]"> alanı </W>
+<W IX="21" LEM="" MORPH=" " IG='[(1,"hal+Noun+A3sg+P3sg+Dat")]' REL="[22,3,(OBJECT)]"> haline </W>
+<W IX="22" LEM="" MORPH=" " IG='[(1,"gel+Verb+Pos")(2,"Verb+Able")(3,"Noun+FutPart+A3sg+P3sg+Acc")]' REL="[23,1,(OBJECT)]"> gelebileceğini </W>
+<W IX="23" LEM="" MORPH=" " IG='[(1,"söyle+Verb+Pos+Past+A3sg")]' REL="[24,1,(SENTENCE)]"> söyledi </W>
+<W IX="24" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

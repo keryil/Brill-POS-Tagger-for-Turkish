@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"otuz_ay+Noun+A3sg+Pnon+Nom")]' REL="[2,2,(OBJECT)]" ORG_IG1='[(1,"otuz+Num+Card")]' ORG_IG2='[(1,"ay+Noun+A3sg+Pnon+Nom")]'> otuz_ay </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"sür+Verb+Pos")(2,"Adj+FutPart+Pnon")]' REL="[3,1,(MODIFIER)]"> sürecek </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"hat+Noun+A3sg+Pnon+Nom")]' REL="[4,2,(CLASSIFIER)]"> Hat </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"çalış+Verb+Pos")(2,"Noun+Inf+A3sg+P3pl+Nom")]' REL="[5,1,(OBJECT)]"> çalışmaları </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"boyunca+Postp+PCNom")]' REL="[13,2,(MODIFIER)]"> boyunca </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"ekip+Noun+A3pl+Pnon+Gen")]' REL="[8,1,(POSSESSOR)]"> ekiplerin </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"bütün+Adj")]' REL="[8,1,(MODIFIER)]"> bütün </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"ihtiyaç+Noun+A3pl+P3sg+Nom")]' REL="[13,2,(SUBJECT)]"> ihtiyaçları </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"çevre+Noun+A3sg+Pnon+Loc")(2,"Adj+Rel")]' REL="[10,1,(MODIFIER)]"> çevredeki </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"il+Noun+A3sg+Pnon+Nom")]' REL="[11,1,(ABLATIVE.ADJUNCT)]"> il </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[12,1,(COORDINATION)]"> ve </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"ilçe+Noun+A3pl+Pnon+Abl")]' REL="[13,2,(SENTENCE)]"> ilçelerden </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"karşıla+Verb")(2,"Verb+Pass+Pos+Fut+A3sg")]' REL="[14,1,(SENTENCE)]"> karşılanacak </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bu+Pron+DemonsP+A3sg+Pnon+Nom")]' REL="[5,1,(SUBJECT)]"> Bu </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"da+Conj")]' REL="[1,1,(INTENSIFIER)]"> da </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bölge+Noun+A3sg+Pnon+Loc")(2,"Adj+Rel")]' REL="[4,1,(MODIFIER)]"> bölgedeki </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ticaret+Noun+A3sg+Pnon+Dat")]' REL="[5,1,(OBJECT)]"> ticarete </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"katkıda_bulun+Verb+Pos+Fut+A3sg")]' REL="[6,1,(SENTENCE)]" ORG_IG1='[(1,"katkı+Noun+A3sg+Pnon+Loc")]' ORG_IG2='[(1,"bulun+Verb+Pos+Fut+A3sg")]'> katkıda_bulunacak </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

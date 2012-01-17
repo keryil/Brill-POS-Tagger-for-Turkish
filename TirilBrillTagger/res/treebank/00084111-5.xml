@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"dükkan+Noun+A3sg+Pnon+Nom")(2,"Noun+Agt+A3sg+P1sg+Nom")]' REL="[8,1,(SUBJECT)]"> Dükkancım </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bu+Pron+DemonsP+A3pl+Pnon+Acc")]' REL="[4,1,(OBJECT)]"> bunları </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"söyle+Verb+Pos")(2,"Noun+PastPart+A3sg+Pnon+Abl")]' REL="[5,1,(OBJECT)]"> söyledikten </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"sonra+Postp+PCAbl")]' REL="[8,1,(MODIFIER)]"> sonra </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"el+Noun+A3pl+P1sg+Abl")]' REL="[7,1,(OBJECT)]"> ellerimden </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"tut+Verb+Pos")(2,"Adv+AfterDoingSo")]' REL="[8,1,(MODIFIER)]"> tutup </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"kaldır+Verb+Pos+Past+A3sg")]' REL="[10,1,(SENTENCE)]"> kaldırdı </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Acc")]' REL="[8,1,(OBJECT)]"> beni </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ayak+Noun+A3sg+Pnon+Loc")]' REL="[2,1,(MODIFIER)]"> Ayakta </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"dur+Verb")(2,"Verb+Able+Neg")(3,"Adj+FutPart+Pnon")]' REL="[3,1,(OBJECT)]"> duramayacak </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"kadar+Postp+PCDat")]' REL="[6,1,(MODIFIER)]"> kadar </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"yorgun+Adj")]' REL="[5,1,(MODIFIER)]"> yorgun </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos")(2,"Noun+PastPart+A3sg+P1sg+Acc")]' REL="[6,1,(OBJECT)]"> olduğumu </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"san+Verb+Pos+Prog1+Past+A1sg")]' REL="[12,1,(SENTENCE)]"> sanıyordum </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"o+Det")]' REL="[10,1,(DETERMINER)]"> o </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"ilk+Adj")]' REL="[10,1,(MODIFIER)]"> ilk </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"adım+Noun+A3sg+Pnon+Dat")]' REL="[11,1,(OBJECT)]"> adıma </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"kadar+Postp+PCDat")]' REL="[6,1,(MODIFIER)]"> kadar </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>

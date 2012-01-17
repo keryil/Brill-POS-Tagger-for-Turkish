@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"gülümse+Verb+Pos")(2,"Noun+Inf+A3pl+Pnon+Nom")]' REL="[2,1,(SENTENCE)]"> Gülümsemeler </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

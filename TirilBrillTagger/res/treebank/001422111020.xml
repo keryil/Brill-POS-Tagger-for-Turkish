@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="10">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Rokfor+Noun+Prop+A3sg+Pnon+Gen")]' REL="[2,1,(POSSESSOR)]"> Rokfor'un </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"efsane+Noun+A3sg+P3sg+Nom")]' REL="[3,1,(SENTENCE)]"> efsanesi </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,":+Punc")]' REL="[,( )]"> : </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"vakit+Noun+A3sg+P3sg+Ins")]' REL="[9,1,(MODIFIER)]"> Vaktiyle </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"genç+Adj")]' REL="[8,1,(MODIFIER)]"> genç </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"bir+Num+Card")]' REL="[8,1,(MODIFIER)]"> bir </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"çoban+Noun+A3sg+Pnon+Nom")]' REL="[9,1,(SUBJECT)]"> çoban </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"var+Adj")(2,"Verb+Zero+Narr+A3sg")]' REL="[10,1,(SENTENCE)]"> varmış </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"günlük+Adj")]' REL="[2,1,(MODIFIER)]"> Günlük </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"azık+Noun+A3sg+Pnon+Acc")]' REL="[3,1,(MODIFIER)]"> azığı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"kara+Adj")]' REL="[4,1,(MODIFIER)]"> kara </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ekmek+Noun+A3sg+Pnon+Ins")]' REL="[5,1,(COORDINATION)]"> ekmekle </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"peynir+Noun+A3sg+Pnon+Acc")]' REL="[8,1,(OBJECT)]"> peyniri </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[7,1,(DETERMINER)]"> bu </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"mağara+Noun+A3sg+Pnon+Dat")]' REL="[8,1,(DATIVE.ADJUNCT)]"> mağaraya </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"koy+Verb+Pos+Narr+A3sg")]' REL="[9,1,(SENTENCE)]"> koymuş </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"öğle+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(CLASSIFIER)]"> Öğle </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"vakit+Noun+A3sg+P3sg+Nom")]' REL="[4,1,(MODIFIER)]"> vakti </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yavuklu+Noun+A3sg+P3sg+Nom")]' REL="[4,1,(SUBJECT)]"> yavuklusu </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"gel+Verb+Pos+Narr+A3sg")]' REL="[5,1,(SENTENCE)]"> gelmiş </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="4">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"oynaş+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Dat")]' REL="[2,1,(OBJECT)]"> Oynaşmaya </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"dal+Verb+Pos+Narr+A3pl")]' REL="[3,1,(SENTENCE)]"> dalmışlar </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="5">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ekmek+Noun+A3sg+Pnon+Ins")]' REL="[2,1,(COORDINATION)]"> Ekmekle </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"peynir+Noun+A3sg+Pnon+Acc")]' REL="[3,1,(OBJECT)]"> peyniri </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"unut+Verb+Pos+Narr+A3sg")]' REL="[4,1,(SENTENCE)]"> unutmuş </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="6">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"hafta+Noun+A3pl+Pnon+Nom")]' REL="[2,1,(OBJECT)]"> Haftalar </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"sonra+Postp+PCAbl")]' REL="[3,1,(MODIFIER)]"> sonra </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bul+Verb+Pos+Narr+A3sg")]' REL="[4,1,(SENTENCE)]"> bulmuş </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="7">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ekmek+Noun+A3sg+Pnon+Gen")]' REL="[2,1,(POSSESSOR)]"> Ekmeğin </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"küf+Noun+A3sg+P3sg+Nom")]' REL="[5,1,(SUBJECT)]"> küfü </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"peynir+Noun+A3sg+Pnon+Dat")]' REL="[5,1,(DATIVE.ADJUNCT)]"> peynire </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"geç+Verb+Pos+Narr+A3sg")]' REL="[6,1,(SENTENCE)]"> geçmiş </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="8">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"son+Adj")]' REL="[2,1,(MODIFIER)]"> Son </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"derece+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(CLASSIFIER)]"> derece </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"lezzet+Noun+A3sg+Pnon+Nom")(2,"Adj+With")(3,"Noun+Zero+A3sg+Pnon+Nom")]' REL="[4,1,(SENTENCE)]"> lezzetli </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="9">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[2,1,(DETERMINER)]"> Bu </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"usül+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(SUBJECT)]"> usül </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yaygın+Adj")(2,"Verb+Become+Pos+Narr+A3sg")]' REL="[4,1,(SENTENCE)]"> yaygınlaşmış </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="10">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Rokfor+Noun+Prop+A3sg+Pnon+Gen")]' REL="[2,1,(POSSESSOR)]"> Rokfor'un </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ün+Noun+A3sg+P3sg+Nom")]' REL="[3,1,(OBJECT)]"> ünü </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yay+Verb")(2,"Verb+Pass+Pos+Narr+A3sg")]' REL="[4,1,(SENTENCE)]"> yayılmış </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,":+Punc")]' REL="[,( )]"> : </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"aşk+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(CLASSIFIER)]"> Aşk </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"peynir+Noun+A3sg+P3sg+Nom")]' REL="[3,1,(APPOSITION)]"> peyniri </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

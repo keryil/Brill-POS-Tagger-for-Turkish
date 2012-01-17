@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Aor")(2,"Adv+While")]' REL="[6,1,(MODIFIER)]"> Derken </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ev+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(CLASSIFIER)]"> ev </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"sahip+Noun+A3sg+P3sg+Nom")]' REL="[6,1,(SUBJECT)]"> sahibi </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"beyan+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(OBJECT)]"> beyan </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"değiş+Verb")(2,"Verb+Caus+Pos+Prog1+A3sg")]' REL="[7,1,(SENTENCE)]"> değiştiriyor </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

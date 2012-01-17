@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"dışarı+Noun+A3sg+Pnon+Loc")]' REL="[4,1,(LOCATIVE.ADJUNCT)]"> Dışarıda </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"da+Conj")]' REL="[1,1,(INTENSIFIER)]"> da </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"volatilite+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(SUBJECT)]"> volatilite </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"art+Verb+Pos+Past+A3sg")]' REL="[5,1,(SENTENCE)]"> arttı </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

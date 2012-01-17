@@ -4,6 +4,7 @@ Created on 17 Ara 2011
 @author: Kerem
 '''
 #from nltk.corpus.reader.api import SyntaxCorpusReader
+import nltk
 from nltk.corpus.util import LazyCorpusLoader
 from nltk.corpus.reader import XMLCorpusReader
 from xml.etree.cElementTree import ParseError

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="6">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"imambayıldı+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(SENTENCE)]"> İmambayıldı </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"patlıcan+Noun+A3sg+Pnon+Gen")]' REL="[3,1,(POSSESSOR)]"> Patlıcanın </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"baba+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(CLASSIFIER)]"> baba </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yemek+Noun+A3sg+P3sg+Nom")]' REL="[4,1,(SENTENCE)]"> yemeği </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"niye+Adv")]' REL="[2,1,(MODIFIER)]"> Niye </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bayıl+Verb+Pos+Narr+A3sg")]' REL="[4,1,(SENTENCE)]"> bayılmış </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"imam+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(SUBJECT)]"> imam </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+</S>
+<S No="4">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[10,1,(DETERMINER)]"> Bu </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"soru+Noun+A3sg+Pnon+Acc")]' REL="[8,1,(OBJECT)]"> soruyu </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"imam+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(SUBJECT)]"> imam </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"niye+Adv")]' REL="[6,1,(MODIFIER)]"> niye </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"bayıl+Verb+Pos+Narr+A3sg")]' REL="[7,1,(SENTENCE)]"> bayılmış </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[8,1,(OBJECT)]"> ? </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Opt+A3sg")]' REL="[9,1,(MODIFIER)]"> diye </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"sor+Verb+Pos+Imp+A2pl")]' REL="[10,1,(SENTENCE)]"> sorun </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="5">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"cevap+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(SUBJECT)]"> Cevap </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"hazır+Adj")]' REL="[3,1,(SENTENCE)]"> hazır </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="6">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"papaz+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(SUBJECT)]"> Papaz </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bayıl+Verb+Pos+Fut+A3sg")]' REL="[5,1,(SENTENCE)]"> bayılacak </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"değil+Conj")]' REL="[2,1,(NEGATIVE.PARTICLE)]"> değil </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ya+Conj")]' REL="[3,1,(INTENSIFIER)]"> ya </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"bit+Verb")(2,"Verb+Caus+Pos")(3,"Adv+When")]' REL="[2,1,(MODIFIER)]"> Bitirince </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"söz+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(SENTENCE)]"> söz </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"mü+Ques+Pres+A3sg")]' REL="[2,1,(QUESTION.PARTICLE)]"> mü </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[5,1,(OBJECT)]"> ? </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A3sg")]' REL="[12,1,(SENTENCE)]"> dedi </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"çocuk+Noun+A3sg+Pnon+Nom")]' REL="[5,1,(SUBJECT)]"> çocuk </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"el+Noun+A3pl+P3sg+Acc")]' REL="[11,1,(OBJECT)]"> ellerini </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"anne+Noun+A3sg+P3sg+Gen")]' REL="[10,1,(POSSESSOR)]"> annesinin </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"göğüs+Noun+A3sg+P3sg+Dat")]' REL="[11,1,(OBJECT)]"> göğsüne </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"daya+Verb+Pos")(2,"Adv+AfterDoingSo")]' REL="[5,1,(MODIFIER)]"> dayayıp </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

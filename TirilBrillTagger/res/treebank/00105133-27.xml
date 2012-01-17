@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Nom")]' REL="[4,1,(APPOSITION)]"> Ben </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,":+Punc")]' REL="[,( )]"> : </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"müzik+Noun+A3sg+Pnon+Nom")]' REL="[4,1,(OBJECT)]"> Müzik </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"koy+Verb+Pos+Opt+A1sg")]' REL="[6,1,(SENTENCE)]"> koyayım </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"mı+Ques+Pres+A3sg")]' REL="[4,1,(QUESTION.PARTICLE)]"> mı </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"şöyle+Adj")]' REL="[8,3,(MODIFIER)]"> Şöyle </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"rahatla+Verb")(2,"Verb+Caus+Pos")(3,"Adj+Agt")]' REL="[9,1,(MODIFIER)]"> rahatlatıcı </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"bir_şey+Noun+A3pl+Pnon+Nom")]' REL="[4,1,(OBJECT)]" ORG_IG1='[(1,"bir+Det")]' ORG_IG2='[(1,"şey+Noun+A3pl+Pnon+Nom")]'> bir_şeyler </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="2">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Nom")]' REL="[4,1,(SUBJECT)]"> Ben </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"o+Pron+PersP+A3pl+Pnon+Gen")]' REL="[4,1,(POSSESSOR)]"> onların </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"Hüseyin+Noun+Prop+A3sg+Pnon+Nom")]' REL="[4,1,(CLASSIFIER)]"> Hüseyin </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"abi+Noun+A3sg+P3pl+Nom")(2,"Verb+Zero+Pres+A1sg")]' REL="[5,1,(SENTENCE)]"> abileriyim </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"can+Noun+A3sg+Pnon+Nom")]' REL="[2,1,(OBJECT)]"> Can </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"sık+Verb+Pos")(2,"Adj+Agt")]' REL="[4,1,(MODIFIER)]"> sıkıcı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[4,1,(DETERMINER)]"> bir </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"iş+Noun+A3sg+Pnon+Nom")]' REL="[5,1,(SENTENCE)]"> iş </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"SUNUCU_Osmantan_erkır+Noun+A3sg+Pnon+Nom")]' REL="[18,1,(SUBJECT)]" ORG_IG1='[(1,"Sunucu+Noun+Prop+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"osmantan+Noun+A3sg+Pnon+Nom")]' ORG_IG3='[(1,"erkır+Noun+A3sg+Pnon+Nom")]'> SUNUCU_Osmantan_Erkır </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ziyaret+Noun+A3sg+Pnon+Acc")]' REL="[18,1,(OBJECT)]"> ziyareti </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,""+Punc")]' REL="[,( )]"> " </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"yarışma+Noun+A3sg+Pnon+Gen")]' REL="[7,1,(NEGATIVE.PARTICLE)]"> Yarışmanın </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"format+Noun+A3sg+P3sg+Acc")]' REL="[8,1,(OBJECT)]"> formatını </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[9,1,(COORDINATION)]"> ve </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"çekim+Noun+A3sg+Pnon+Nom")]' REL="[10,1,(CLASSIFIER)]"> çekim </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"aşama+Noun+A3sg+P3sg+Acc")]' REL="[11,2,(OBJECT)]"> aşamasını </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"izle+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[12,2,(OBJECT)]"> izlemek </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"iste+Verb+Pos")(2,"Noun+PastPart+A3pl+P3sg+Acc")]' REL="[13,3,(OBJECT)]"> istediklerini </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"belir+Verb")(2,"Verb+Caus+Pos")(3,"Adv+AfterDoingSo")]' REL="[15,1,(MODIFIER)]"> belirtip </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"randevu+Noun+A3sg+Pnon+Nom")]' REL="[15,1,(OBJECT)]"> randevu </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"iste+Verb+Pos+Past+A3pl")]' REL="[16,1,(SENTENCE)]"> istediler </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,""+Punc")]' REL="[17,1,(OBJECT)]"> " </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos")(2,"Adv+ByDoingSo")]' REL="[18,1,(MODIFIER)]"> diyerek </W>
+<W IX="18" LEM="" MORPH=" " IG='[(1,"açıkla+Verb+Pos+Past+A3sg")]' REL="[19,1,(SENTENCE)]"> açıkladı </W>
+<W IX="19" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

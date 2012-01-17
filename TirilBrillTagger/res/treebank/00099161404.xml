@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"kapa+Verb")(2,"Verb+Caus+Pos+Past+A2pl")]' REL="[4,1,(SENTENCE)]"> Kapattınız </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"mı+Ques+Pres+A3sg")]' REL="[1,2,(QUESTION.PARTICLE)]"> mı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"zarf+Noun+A3sg+Pnon+Acc")]' REL="[1,1,(OBJECT)]"> zarfı </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

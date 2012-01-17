@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"gene+Adv")]' REL="[8,1,(MODIFIER)]"> Gene </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"şöyle+Adv")]' REL="[8,1,(MODIFIER)]"> şöyle </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yan+Adj")]' REL="[4,1,(MODIFIER)]"> yan </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"göz+Noun+A3sg+Pnon+Ins")]' REL="[8,1,(INSTRUMENTAL.ADJUNCT)]"> gözle </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"kaçamak+Adj")]' REL="[7,2,(MODIFIER)]"> kaçamak </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[7,2,(DETERMINER)]"> bir </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"bak+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Nom")]' REL="[8,1,(OBJECT)]"> bakış </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"at+Verb+Pos+Past+A3sg")]' REL="[10,1,(SENTENCE)]"> attı </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Dat")]' REL="[8,1,(DATIVE.ADJUNCT)]"> bana </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

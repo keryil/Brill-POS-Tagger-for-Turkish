@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"memur+Noun+A3pl+Pnon+Nom")]' REL="[4,1,(SUBJECT)]"> Memurlar </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ne+Adj")]' REL="[3,1,(OBJECT)]"> ne </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"kadar+Postp+PCDat")]' REL="[4,1,(MODIFIER)]"> kadar </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"al+Verb+Pos+Fut+A3sg")]' REL="[6,1,(SENTENCE)]"> alacak </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"?+Punc")]' REL="[,( )]"> ? </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

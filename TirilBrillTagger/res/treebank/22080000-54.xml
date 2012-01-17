@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Hablemitoğlu+Noun+Prop+A3sg+Pnon+Gen")]' REL="[2,1,(SUBJECT)]"> Hablemitoğlu'nun </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[5,2,(COORDINATION)]"> ve </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yurtdış+Noun+A3sg+P3sg+Loc")]' REL="[5,1,(LOCATIVE.ADJUNCT)]"> yurtdışında </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"şirket+Noun+A3sg+Pnon+Nom")]' REL="[5,1,(OBJECT)]"> şirket </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"al+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Gen")]' REL="[11,1,(SUBJECT)]"> almanın </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"da+Conj")]' REL="[5,2,(INTENSIFIER)]"> da </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"bu+Det")]' REL="[8,1,(DETERMINER)]"> bu </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"strateji+Noun+A3sg+Pnon+Gen")]' REL="[10,1,(POSSESSOR)]"> stratejinin </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[10,1,(DETERMINER)]"> bir </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"parça+Noun+A3sg+P3sg+Nom")]' REL="[11,1,(OBJECT)]"> parçası </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos")(2,"Noun+PastPart+A3sg+P3sg+Acc")]' REL="[12,1,(OBJECT)]"> olduğunu </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"vurgula+Verb+Pos")(2,"Adj+PresPart")]' REL="[13,1,(MODIFIER)]"> vurgulayan </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"Batılı+Noun+Prop+A3sg+Pnon+Nom")]' REL="[26,2,(SUBJECT)]"> Batılı </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,"alacak+Noun+A3sg+P3pl+Nom")]' REL="[16,1,(MODIFIER)]"> alacakları </W>
+<W IX="16" LEM="" MORPH=" " IG='[(1,"şirket+Noun+A3sg+Pnon+Loc")]' REL="[25,1,(MODIFIER)]"> şirkette </W>
+<W IX="17" LEM="" MORPH=" " IG='[(1,"marka+Noun+A3sg+Pnon+Nom")]' REL="[18,1,(CLASSIFIER)]"> marka </W>
+<W IX="18" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[20,1,(COORDINATION)]"> , </W>
+<W IX="19" LEM="" MORPH=" " IG='[(1,"üretim+Noun+A3sg+Pnon+Nom")]' REL="[20,1,(CLASSIFIER)]"> üretim </W>
+<W IX="20" LEM="" MORPH=" " IG='[(1,"kapasite+Noun+A3sg+P3sg+Nom")]' REL="[21,1,(CLASSIFIER)]"> kapasitesi </W>
+<W IX="21" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[23,1,(COORDINATION)]"> ve </W>
+<W IX="22" LEM="" MORPH=" " IG='[(1,"pazar+Noun+A3sg+Pnon+Nom")]' REL="[23,1,(CLASSIFIER)]"> pazar </W>
+<W IX="23" LEM="" MORPH=" " IG='[(1,"pay+Noun+A3sg+P3sg+Nom")]' REL="[24,1,(CLASSIFIER)]"> payı </W>
+<W IX="24" LEM="" MORPH=" " IG='[(1,"kriter+Noun+A3pl+P3sg+Dat")]' REL="[25,1,(OBJECT)]"> kriterlerine </W>
+<W IX="25" LEM="" MORPH=" " IG='[(1,"bak+Verb+Pos")(2,"Noun+FutPart+A3sg+P3pl+Acc")]' REL="[26,2,(OBJECT)]"> bakacaklarını </W>
+<W IX="26" LEM="" MORPH=" " IG='[(1,"belir+Verb")(2,"Verb+Caus+Pos+Past+A3sg")]' REL="[27,1,(SENTENCE)]"> belirtti </W>
+<W IX="27" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

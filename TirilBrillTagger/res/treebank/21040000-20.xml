@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Hazine+Noun+Prop+A3sg+Pnon+Nom")]' REL="[4,1,(SUBJECT)]"> Hazine </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"yüksek+Adj")]' REL="[3,3,(MODIFIER)]"> yüksek </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"borç+Noun+A3sg+Pnon+Nom")(2,"Verb+Acquire+Pos")(3,"Noun+Inf+A3sg+Pnon+Dat")]' REL="[4,1,(DATIVE.ADJUNCT)]"> borçlanmaya </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"çalış+Verb+Pos+Fut+A3sg")]' REL="[5,1,(SENTENCE)]"> çalışacak </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

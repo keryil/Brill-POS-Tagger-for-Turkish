@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"önce+Adv")]' REL="[7,1,(MODIFIER)]"> Önce </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"göz+Noun+A3pl+P1sg+Gen")]' REL="[3,1,(POSSESSOR)]"> gözlerimin </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ön+Noun+A3sg+P3sg+Dat")]' REL="[6,1,(DATIVE.ADJUNCT)]"> önüne </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"Zübeyde+Noun+Prop+A3sg+Pnon+Gen")]' REL="[5,1,(POSSESSOR)]"> Zübeyde'nin </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"yeğen+Noun+A3pl+P3sg+Acc")]' REL="[6,1,(OBJECT)]"> yeğenlerini </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"getir+Verb+Pos")(2,"Noun+Inf+A3sg+Pnon+Dat")]' REL="[7,1,(OBJECT)]"> getirmeye </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"çalış+Verb+Pos+Past+A1sg")]' REL="[8,1,(SENTENCE)]"> çalıştım </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

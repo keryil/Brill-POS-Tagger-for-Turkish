@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"Mahmut+Noun+Prop+A3sg+Pnon+Nom")]' REL="[2,1,(OBJECT)]"> Mahmut </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[5,1,(COORDINATION)]"> ve </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"yeni+Adj")]' REL="[5,1,(MODIFIER)]"> yeni </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"aşık_ol+Verb+Pos")(2,"Adj+PastPart+P3sg")]' REL="[5,1,(MODIFIER)]" ORG_IG1='[(1,"aşık+Noun+A3sg+Pnon+Nom")]' ORG_IG2='[(1,"ol+Verb+Pos")(2,"Adj+PastPart+P3sg")]'> aşık_olduğu </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"kadın+Noun+A3sg+Pnon+Nom")]' REL="[6,1,(OBJECT)]"> kadın </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"de+Verb+Pos+Past+A3sg")]' REL="[8,1,(SENTENCE)]"> dedi </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,";+Punc")]' REL="[,( )]"> ; </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"Mahmut+Noun+Prop+A3sg+Pnon+Gen")]' REL="[10,1,(SUBJECT)]"> Mahmut'un </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"otur+Verb+Pos")(2,"Adj+PastPart+P3sg")]' REL="[11,1,(MODIFIER)]"> oturduğu </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"masa+Noun+A3sg+Pnon+Acc")]' REL="[12,1,(OBJECT)]"> masayı </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"göster+Verb+Pos+Past+A3sg")]' REL="[14,1,(SENTENCE)]"> gösterdi </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"ben+Pron+PersP+A1sg+Pnon+Dat")]' REL="[12,1,(OBJECT)]"> bana </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

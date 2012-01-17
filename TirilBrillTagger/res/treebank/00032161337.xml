@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ya+Conj")]' REL="[4,1,(S.MODIFIER)]"> Ya </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"okul+Noun+A3sg+Pnon+Dat")]' REL="[3,1,(OBJECT)]"> okula </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"geç_kal+Verb+Pos+Aor+Cond+A1pl")]' REL="[4,1,(SENTENCE)]" ORG_IG1='[(1,"geç+Adv")]' ORG_IG2='[(1,"kal+Verb+Pos+Aor+Cond+A1pl")]'> geç_kalırsak </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

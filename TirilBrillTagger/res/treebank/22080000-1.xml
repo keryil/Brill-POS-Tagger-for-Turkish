@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"'+Punc")]' REL="[,( )]"> ' </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"eşgüdüm+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(SUBJECT)]"> eşgüdüm </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ol+Verb+Neg+Aor+Cond+A3sg")]' REL="[5,1,(MODIFIER)]"> olmazsa </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"vay+Interj")]' REL="[6,1,(SENTENCE)]"> vay </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"hal+Noun+A3sg+P1pl+Dat")]' REL="[4,1,(DATIVE.ADJUNCT)]"> halimize </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="1">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"yarın+Noun+A3sg+Pnon+Dat")]' REL="[2,1,(OBJECT)]"> Yarına </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"ilişkin+Postp+PCDat")]' REL="[3,1,(MODIFIER)]"> ilişkin </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"hesap+Noun+A3pl+P2pl+Nom")]' REL="[4,1,(SUBJECT)]"> hesaplarınız </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"ve+Conj")]' REL="[11,1,(COORDINATION)]"> ve </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"kaygı+Noun+A3pl+P2pl+Loc")]' REL="[11,1,(LOCATIVE.ADJUNCT)]"> kaygılarınızda </W>
+<W IX="6" LEM="" MORPH=" " IG='[(1,"tarih+Noun+A3sg+Pnon+Gen")]' REL="[8,1,(POSSESSOR)]"> tarihin </W>
+<W IX="7" LEM="" MORPH=" " IG='[(1,"yanlış+Adj")]' REL="[8,1,(MODIFIER)]"> yanlış </W>
+<W IX="8" LEM="" MORPH=" " IG='[(1,"kurgu+Noun+A3sg+P3sg+Loc")(2,"Adj+Rel")]' REL="[9,1,(MODIFIER)]"> kurgusundaki </W>
+<W IX="9" LEM="" MORPH=" " IG='[(1,"kare+Noun+A3pl+Pnon+Gen")]' REL="[10,1,(POSSESSOR)]"> karelerin </W>
+<W IX="10" LEM="" MORPH=" " IG='[(1,"yer+Noun+A3pl+P3pl+Gen")]' REL="[11,1,(SUBJECT)]"> yerlerinin </W>
+<W IX="11" LEM="" MORPH=" " IG='[(1,"değişmiş_ol+Verb+Pos")(2,"Noun+Inf+A3sg+P3sg+Nom")]' REL="[14,1,(SUBJECT)]" ORG_IG1='[(1,"değiş+Verb+Pos+Narr+A3sg")]' ORG_IG2='[(1,"ol+Verb+Pos")(2,"Noun+Inf+A3sg+P3sg+Nom")]'> değişmiş_olması </W>
+<W IX="12" LEM="" MORPH=" " IG='[(1,"ne+Pron+QuesP+A3sg+Pnon+Nom")]' REL="[13,1,(OBJECT)]"> ne </W>
+<W IX="13" LEM="" MORPH=" " IG='[(1,"kadar+Postp+PCDat")]' REL="[14,1,(MODIFIER)]"> kadar </W>
+<W IX="14" LEM="" MORPH=" " IG='[(1,"etki+Noun+A3sg+Pnon+Nom")(2,"Adj+With")(3,"Noun+Zero+A3sg+Pnon+Nom")]' REL="[15,1,(SENTENCE)]"> etkili </W>
+<W IX="15" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+</Set>

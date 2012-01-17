@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1254" ?>
+<Set sentences="6">
+<S No="1">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"anlat+Verb")(2,"Verb+Pass+Pos+Neces+A3sg")]' REL="[4,1,(SENTENCE)]"> Anlatılmalı </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"bir+Det")]' REL="[3,1,(DETERMINER)]"> bir </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"gün+Noun+A3sg+Pnon+Nom")]' REL="[1,2,(MODIFIER)]"> gün </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="2">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"yok+Adj")(2,"Verb+Zero+Cond+A3sg")]' REL="[3,1,(MODIFIER)]"> Yoksa </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kangren+Noun+A3sg+Pnon+Nom")]' REL="[3,1,(OBJECT)]"> kangren </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"ol+Verb+Pos+Fut+A3sg")]' REL="[5,1,(SENTENCE)]"> olacak </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"baş+Noun+A3sg+P1sg+Nom")]' REL="[3,1,(SUBJECT)]"> başım </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+<S No="3">
+<W IX="1" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="4">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ne+Adv")]' REL="[2,1,(MODIFIER)]"> Ne </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"kolay+Adj")]' REL="[3,1,(SENTENCE)]"> kolay </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="5">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"ün+Noun+A3sg+P3sg+Nom")]' REL="[3,1,(SUBJECT)]"> Ünü </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"dünya+Noun+A3sg+Pnon+Acc")]' REL="[3,1,(OBJECT)]"> dünyayı </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,"tut+Verb+Pos+Narr")(2,"Adj+Zero")]' REL="[4,1,(MODIFIER)]"> tutmuş </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"şair+Noun+A3sg+Pnon+Nom")]' REL="[5,1,(SENTENCE)]"> şair </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,".+Punc")]' REL="[,( )]"> . </W>
+</S>
+<S No="6">
+<W IX="1" LEM="" MORPH=" " IG='[(1,"daha+Adv")]' REL="[4,1,(MODIFIER)]"> Daha </W>
+<W IX="2" LEM="" MORPH=" " IG='[(1,"otuz_iki+Num+Card")(2,"Noun+Zero+A3sg+P3sg+Loc")]' REL="[4,1,(MODIFIER)]" ORG_IG1='[(1,"otuz+Num+Card")]' ORG_IG2='[(1,"iki+Num+Card")(2,"Noun+Zero+A3sg+P3sg+Loc")]'> otuz_ikisinde </W>
+<W IX="3" LEM="" MORPH=" " IG='[(1,",+Punc")]' REL="[,( )]"> , </W>
+<W IX="4" LEM="" MORPH=" " IG='[(1,"acı+Verb+Neg+Narr+A3pl")]' REL="[5,1,(SENTENCE)]"> acımamışlar </W>
+<W IX="5" LEM="" MORPH=" " IG='[(1,"...+Punc")]' REL="[,( )]"> ... </W>
+</S>
+</Set>
