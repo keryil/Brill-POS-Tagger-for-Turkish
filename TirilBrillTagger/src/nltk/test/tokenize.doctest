@@ -1,0 +1,65 @@
+.. Copyright (C) 2001-2012 NLTK Project
+.. For license information, see LICENSE.TXT
+
+    >>> from nltk.tokenize import *
+
+Regression Tests: Regexp Tokenizer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Some additional test strings.
+
+    >>> s = ("Good muffins cost $3.88\nin New York.  Please buy me\n"
+    ...      "two of them.\n\nThanks.")
+    >>> s2 = ("Alas, it has not rained today. When, do you think, "
+    ...       "will it rain again?")
+    >>> s3 = ("<p>Although this is <b>not</b> the case here, we must "
+    ...       "not relax our vigilance!</p>")
+
+    >>> print regexp_tokenize(s2, r'[,\.\?!"]\s*', gaps=False)
+    [', ', '. ', ', ', ', ', '?']
+    >>> print regexp_tokenize(s2, r'[,\.\?!"]\s*', gaps=True)
+    ['Alas', 'it has not rained today', 'When', 'do you think',
+     'will it rain again']
+
+Make sure that grouping parentheses don't confuse the tokenizer:
+
+    >>> print regexp_tokenize(s3, r'</?(b|p)>', gaps=False)
+    ['<p>', '<b>', '</b>', '</p>']
+    >>> print regexp_tokenize(s3, r'</?(b|p)>', gaps=True)
+    ['Although this is ', 'not',
+     ' the case here, we must not relax our vigilance!']
+
+Make sure that named groups don't confuse the tokenizer:
+
+    >>> print regexp_tokenize(s3, r'</?(?P<named>b|p)>', gaps=False)
+    ['<p>', '<b>', '</b>', '</p>']
+    >>> print regexp_tokenize(s3, r'</?(?P<named>b|p)>', gaps=True)
+    ['Although this is ', 'not',
+     ' the case here, we must not relax our vigilance!']
+
+Make sure that nested groups don't confuse the tokenizer:
+
+    >>> print regexp_tokenize(s2, r'(h|r|l)a(s|(i|n0))', gaps=False)
+    ['las', 'has', 'rai', 'rai']
+    >>> print regexp_tokenize(s2, r'(h|r|l)a(s|(i|n0))', gaps=True)
+    ['A', ', it ', ' not ', 'ned today. When, do you think, will it ',
+     'n again?']
+
+The tokenizer should reject any patterns with backreferences:
+
+    >>> print regexp_tokenize(s2, r'(.)\1')
+    Traceback (most recent call last):
+       ...
+    ValueError: Regular expressions with back-references are
+    not supported: '(.)\\1'
+    >>> print regexp_tokenize(s2, r'(?P<foo>)(?P=foo)')
+    Traceback (most recent call last):
+       ...
+    ValueError: Regular expressions with back-references are
+    not supported: '(?P<foo>)(?P=foo)'
+
+A simple sentence tokenizer '\.(\s+|$)'
+
+    >>> print regexp_tokenize(s, pattern=r'\.(\s+|$)', gaps=True)
+    ['Good muffins cost $3.88\nin New York',
+     'Please buy me\ntwo of them', 'Thanks']
