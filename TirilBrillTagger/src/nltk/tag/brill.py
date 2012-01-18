@@ -533,7 +533,10 @@ class ProximateTokensTemplate(BrillTemplateI):
         between *index+start* and *index+end* (inclusive) is *value*.
         """
         conditions = []
-        s = max(0, index+start)
+        try:
+            s = max(0, index+start)
+        except TypeError, e:
+            raise Exception("%s\n%s, %s, %s" % (e, index, start, end))
         e = min(index+end+1, len(tokens))
         for i in range(s, e):
             value = self._rule_class.extract_property(tokens[i])
@@ -1338,7 +1341,7 @@ def demo(num_sents=2000, max_rules=200, min_score=3,
       brill.SymmetricProximateTokensTemplate(brill.ProximateWordsRule, (1,2)),
       brill.SymmetricProximateTokensTemplate(brill.ProximateWordsRule, (1,3)),
       brill.ProximateTokensTemplate(brill.ProximateTagsRule, (-1, -1), (1,1)),
-      brill.ProximateTokensTemplate(brill.ProximateWordsRule, (-1, -1), (1,1)),
+      brill.ProximateTokensTemplate(brill.ProximateWordsRule, (-1, -1), (1,1))
       ]
     trainer = brill.FastBrillTaggerTrainer(bigram_tagger, templates, trace)
     #trainer = brill.BrillTaggerTrainer(u, templates, trace)

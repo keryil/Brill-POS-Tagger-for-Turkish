@@ -4,10 +4,98 @@ Created on Jan 18, 2012
 @author: kerem
 '''
 from nltk.corpus.util import LazyCorpusLoader
+from nltk.tag.brill import ProximateWordsRule, ProximateTokensTemplate,\
+    SymmetricProximateTokensTemplate
 
 win_data_dir = "C:\\Users\\Kerem\\nltk_data"
 nix_data_dir = "/home/kerem/nltk_data"
 import os, yaml
+
+class Proximate1SuffixesRule(ProximateWordsRule):
+    PROPERTY_NAME = "suffix"
+    def __init__(self, original_tag, replacement_tag, *conditions):
+        super(Proximate1SuffixesRule, self).__init__(original_tag, replacement_tag, *conditions)
+        
+    @staticmethod
+    def extract_property(token):
+        """:return: The given token's text."""
+        text = token[0]
+        return text[max(0, len(text)-1):]
+    
+class Proximate2SuffixesRule(ProximateWordsRule):
+    PROPERTY_NAME = "suffix"
+    def __init__(self, original_tag, replacement_tag, *conditions):
+        super(Proximate2SuffixesRule,self).__init__(original_tag, replacement_tag, *conditions)
+        
+    @staticmethod
+    def extract_property(token):
+        """:return: The given token's text."""
+        text = token[0]
+        return text[max(0, len(text)-2):]
+
+class Proximate3SuffixesRule(ProximateWordsRule):
+    PROPERTY_NAME = "suffix"
+    def __init__(self, original_tag, replacement_tag, *conditions):
+        super(Proximate3SuffixesRule, self).__init__(original_tag, replacement_tag, *conditions)
+        
+    @staticmethod
+    def extract_property(token):
+        """:return: The given token's text."""
+        text = token[0]
+        return text[max(0, len(text)-3):]
+
+class Proximate4SuffixesRule(ProximateWordsRule):
+    PROPERTY_NAME = "suffix"
+    def __init__(self, original_tag, replacement_tag, *conditions):
+        super(Proximate4SuffixesRule, self).__init__(original_tag, replacement_tag, *conditions)
+        
+    @staticmethod
+    def extract_property(token):
+        """:return: The given token's text."""
+        text = token[0]
+        return text[max(0, len(text)-4):]
+
+class Proximate5SuffixesRule(ProximateWordsRule):
+    PROPERTY_NAME = "suffix"
+    def __init__(self, original_tag, replacement_tag, *conditions):
+        super(Proximate5SuffixesRule, self).__init__(original_tag, replacement_tag, *conditions)
+        
+    @staticmethod
+    def extract_property(token):
+        """:return: The given token's text."""
+        text = token[0]
+        return text[max(0, len(text)-5):]
+
+class Proximate6SuffixesRule(ProximateWordsRule):
+    PROPERTY_NAME = "suffix"
+    def __init__(self, original_tag, replacement_tag, *conditions):
+        super(Proximate6SuffixesRule, self).__init__(original_tag, replacement_tag, *conditions)
+        
+    @staticmethod
+    def extract_property(token):
+        """:return: The given token's text."""
+        text = token[0]
+        return text[max(0, len(text)-6):]
+    
+class Proximate7SuffixesRule(ProximateWordsRule):
+    PROPERTY_NAME = "suffix"
+    def __init__(self, original_tag, replacement_tag, *conditions):
+        super(Proximate7SuffixesRule, self).__init__(original_tag, replacement_tag, *conditions)
+        
+    @staticmethod
+    def extract_property(token):
+        """:return: The given token's text."""
+        text = token[0]
+        return text[max(0, len(text)-7):]
+
+class ProximateSuffixesTemplate(ProximateTokensTemplate):
+    def __init__(self, rule_class, *boundaries):
+        super(ProximateSuffixesTemplate, self).__init__(rule_class,*boundaries)
+
+class SymmetricProximateSuffixesTemplate(SymmetricProximateTokensTemplate):
+    def __init__(self, rule_class, *boundaries):
+        super(SymmetricProximateSuffixesTemplate, self).__init__(rule_class,*boundaries)
+
 def error_list (train_sents, test_sents, radius=2):
     """
     Returns a list of human-readable strings indicating the errors in the
@@ -115,12 +203,72 @@ def demo(num_sents=5635, max_rules=200, min_score=3,
       brill.SymmetricProximateTokensTemplate(brill.ProximateTagsRule, (2,2)),
       brill.SymmetricProximateTokensTemplate(brill.ProximateTagsRule, (1,2)),
       brill.SymmetricProximateTokensTemplate(brill.ProximateTagsRule, (1,3)),
+      brill.SymmetricProximateTokensTemplate(brill.ProximateTagsRule, (2,3)),
+      brill.SymmetricProximateTokensTemplate(brill.ProximateTagsRule, (3,3)),
       brill.SymmetricProximateTokensTemplate(brill.ProximateWordsRule, (1,1)),
       brill.SymmetricProximateTokensTemplate(brill.ProximateWordsRule, (2,2)),
       brill.SymmetricProximateTokensTemplate(brill.ProximateWordsRule, (1,2)),
       brill.SymmetricProximateTokensTemplate(brill.ProximateWordsRule, (1,3)),
+      brill.SymmetricProximateTokensTemplate(brill.ProximateWordsRule, (2,3)),
+      brill.SymmetricProximateTokensTemplate(brill.ProximateWordsRule, (3,3)),
       brill.ProximateTokensTemplate(brill.ProximateTagsRule, (-1, -1), (1,1)),
       brill.ProximateTokensTemplate(brill.ProximateWordsRule, (-1, -1), (1,1)),
+      ProximateSuffixesTemplate(Proximate1SuffixesRule, (-1, -1), (1,1)),
+      ProximateSuffixesTemplate(Proximate2SuffixesRule, (-1, -1), (1,1)),
+      ProximateSuffixesTemplate(Proximate3SuffixesRule, (-1, -1), (1,1)),
+      ProximateSuffixesTemplate(Proximate1SuffixesRule, (-2, -2), (2,2)),
+      ProximateSuffixesTemplate(Proximate2SuffixesRule, (-2, -2), (2,2)),
+      ProximateSuffixesTemplate(Proximate3SuffixesRule, (-2, -2), (2,2)),
+      ProximateSuffixesTemplate(Proximate4SuffixesRule, (-1, -1), (1,1)),
+      ProximateSuffixesTemplate(Proximate5SuffixesRule, (-1, -1), (1,1)),
+      ProximateSuffixesTemplate(Proximate6SuffixesRule, (-1, -1), (1,1)),
+      ProximateSuffixesTemplate(Proximate7SuffixesRule, (-1, -1), (1,1)),
+      ProximateSuffixesTemplate(Proximate4SuffixesRule, (-2, -2), (2,2)),
+      ProximateSuffixesTemplate(Proximate5SuffixesRule, (-2, -2), (2,2)),
+      ProximateSuffixesTemplate(Proximate6SuffixesRule, (-2, -2), (2,2)),
+      ProximateSuffixesTemplate(Proximate7SuffixesRule, (-2, -2), (2,2)),
+      SymmetricProximateSuffixesTemplate(Proximate1SuffixesRule, (1,1)),
+      SymmetricProximateSuffixesTemplate(Proximate1SuffixesRule, (2,2)),
+      SymmetricProximateSuffixesTemplate(Proximate1SuffixesRule, (1,2)),
+      SymmetricProximateSuffixesTemplate(Proximate1SuffixesRule, (1,3)),
+      SymmetricProximateSuffixesTemplate(Proximate1SuffixesRule, (2,3)),
+      SymmetricProximateSuffixesTemplate(Proximate1SuffixesRule, (3,3)),
+      SymmetricProximateSuffixesTemplate(Proximate2SuffixesRule, (1,1)),
+      SymmetricProximateSuffixesTemplate(Proximate2SuffixesRule, (2,2)),
+      SymmetricProximateSuffixesTemplate(Proximate2SuffixesRule, (1,2)),
+      SymmetricProximateSuffixesTemplate(Proximate2SuffixesRule, (1,3)),
+      SymmetricProximateSuffixesTemplate(Proximate2SuffixesRule, (2,3)),
+      SymmetricProximateSuffixesTemplate(Proximate2SuffixesRule, (3,3)),
+      SymmetricProximateSuffixesTemplate(Proximate3SuffixesRule, (1,1)),
+      SymmetricProximateSuffixesTemplate(Proximate3SuffixesRule, (2,2)),
+      SymmetricProximateSuffixesTemplate(Proximate3SuffixesRule, (1,2)),
+      SymmetricProximateSuffixesTemplate(Proximate3SuffixesRule, (1,3)),
+      SymmetricProximateSuffixesTemplate(Proximate3SuffixesRule, (2,3)),
+      SymmetricProximateSuffixesTemplate(Proximate3SuffixesRule, (3,3)),
+      SymmetricProximateSuffixesTemplate(Proximate4SuffixesRule, (1,1)),
+      SymmetricProximateSuffixesTemplate(Proximate4SuffixesRule, (2,2)),
+      SymmetricProximateSuffixesTemplate(Proximate4SuffixesRule, (1,2)),
+      SymmetricProximateSuffixesTemplate(Proximate4SuffixesRule, (1,3)),
+      SymmetricProximateSuffixesTemplate(Proximate4SuffixesRule, (2,3)),
+      SymmetricProximateSuffixesTemplate(Proximate4SuffixesRule, (3,3)),
+      SymmetricProximateSuffixesTemplate(Proximate5SuffixesRule, (1,1)),
+      SymmetricProximateSuffixesTemplate(Proximate5SuffixesRule, (2,2)),
+      SymmetricProximateSuffixesTemplate(Proximate5SuffixesRule, (1,2)),
+      SymmetricProximateSuffixesTemplate(Proximate5SuffixesRule, (1,3)),
+      SymmetricProximateSuffixesTemplate(Proximate5SuffixesRule, (2,3)),
+      SymmetricProximateSuffixesTemplate(Proximate5SuffixesRule, (3,3)),
+      SymmetricProximateSuffixesTemplate(Proximate6SuffixesRule, (1,1)),
+      SymmetricProximateSuffixesTemplate(Proximate6SuffixesRule, (2,2)),
+      SymmetricProximateSuffixesTemplate(Proximate6SuffixesRule, (1,2)),
+      SymmetricProximateSuffixesTemplate(Proximate6SuffixesRule, (1,3)),
+      SymmetricProximateSuffixesTemplate(Proximate6SuffixesRule, (2,3)),
+      SymmetricProximateSuffixesTemplate(Proximate6SuffixesRule, (3,3)),
+      SymmetricProximateSuffixesTemplate(Proximate7SuffixesRule, (1,1)),
+      SymmetricProximateSuffixesTemplate(Proximate7SuffixesRule, (2,2)),
+      SymmetricProximateSuffixesTemplate(Proximate7SuffixesRule, (1,2)),
+      SymmetricProximateSuffixesTemplate(Proximate7SuffixesRule, (1,3)),
+      SymmetricProximateSuffixesTemplate(Proximate7SuffixesRule, (2,3)),
+      SymmetricProximateSuffixesTemplate(Proximate7SuffixesRule, (3,3))
       ]
     trainer = brill.FastBrillTaggerTrainer(bigram_tagger, templates, trace)
     #trainer = brill.BrillTaggerTrainer(u, templates, trace)
