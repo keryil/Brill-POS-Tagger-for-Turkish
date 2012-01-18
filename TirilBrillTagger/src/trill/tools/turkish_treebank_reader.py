@@ -4,7 +4,7 @@ Created on 17 Ara 2011
 @author: Kerem
 '''
 #from nltk.corpus.reader.api import SyntaxCorpusReader
-import nltk, re
+import nltk, re, os
 from nltk.corpus.util import LazyCorpusLoader
 from nltk.corpus.reader import XMLCorpusReader
 from xml.etree.cElementTree import ParseError
@@ -21,6 +21,15 @@ MAJOR_POS = ["Noun", "Adj", "Adv", "Verb", "Pron", "Conj", "Det", "Postp", \
 MINOR_POS = ["Inf", "PastPart", "FutPart", "Prop", "Zero", "PresPart", "DemonsP", \
              "QuesP", "ReflexP", "QuantP", "Card", "Ord", "Percent", "Range", "Real", \
              "Ratio", "Distrib", "Time"] 
+fileids = fileids = None
+treebank_path = None
+if os.name == "nt":
+    treebank_path = os.path.join(win_data_dir, "corpora", "turkish_treebank")
+else:
+    treebank_path = os.path.join(nix_data_dir, "corpora", "turkish_treebank")
+print treebank_path
+fileids = [file for file in os.listdir(treebank_path)]
+
 class TurkishTreebankCorpusReader(XMLCorpusReader):
     '''
     classdocs
@@ -81,7 +90,7 @@ class TurkishTreebankCorpusReader(XMLCorpusReader):
                 words.append((text, tag))
         return words
     
-    def tagged_sents(self, fileids):
+    def tagged_sents(self, fileids=fileids):
         sents = []
         for id in fileids:
 #            print id
@@ -146,7 +155,7 @@ if __name__ == '__main__':
         treebank_path = os.path.join(nix_data_dir, "corpora", "turkish_treebank")
     print treebank_path
     fileids = [file for file in os.listdir(treebank_path)]
-#    print fileids
+    print fileids
     turkish_treebank = LazyCorpusLoader(name="turkish_treebank",
                                         reader_cls=TurkishTreebankCorpusReader,
                                         fileids=fileids)
