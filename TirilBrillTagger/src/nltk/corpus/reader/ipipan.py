@@ -105,13 +105,13 @@ class IPIPANCorpusReader(CorpusReader):
     @_parse_args
     def sents(self, fileids=None, **kwargs):
         return concat([self._view(fileid,
-            mode=IPIPANCorpusView.SENTS_MODE, tags=False, **kwargs)
+            tagger_mode=IPIPANCorpusView.SENTS_MODE, tags=False, **kwargs)
             for fileid in self._list_morph_files(fileids)])
 
     @_parse_args
     def paras(self, fileids=None, **kwargs):
         return concat([self._view(fileid,
-            mode=IPIPANCorpusView.PARAS_MODE, tags=False, **kwargs)
+            tagger_mode=IPIPANCorpusView.PARAS_MODE, tags=False, **kwargs)
             for fileid in self._list_morph_files(fileids)])
 
     @_parse_args
@@ -121,13 +121,13 @@ class IPIPANCorpusReader(CorpusReader):
 
     @_parse_args
     def tagged_sents(self, fileids=None, **kwargs):
-        return concat([self._view(fileid, mode=IPIPANCorpusView.SENTS_MODE,
+        return concat([self._view(fileid, tagger_mode=IPIPANCorpusView.SENTS_MODE,
             **kwargs)
             for fileid in self._list_morph_files(fileids)])
 
     @_parse_args
     def tagged_paras(self, fileids=None, **kwargs):
-        return concat([self._view(fileid, mode=IPIPANCorpusView.PARAS_MODE,
+        return concat([self._view(fileid, tagger_mode=IPIPANCorpusView.PARAS_MODE,
             **kwargs)
             for fileid in self._list_morph_files(fileids)])
 
@@ -183,7 +183,7 @@ class IPIPANCorpusReader(CorpusReader):
 
     def _view(self, filename, **kwargs):
         tags = kwargs.pop('tags', True)
-        mode = kwargs.pop('mode', 0)
+        tagger_mode = kwargs.pop('tagger_mode', 0)
         simplify_tags = kwargs.pop('simplify_tags', False)
         one_tag = kwargs.pop('one_tag', True)
         disamb_only = kwargs.pop('disamb_only', True)
@@ -201,7 +201,7 @@ class IPIPANCorpusReader(CorpusReader):
                              'disamb_only with functions other than tagged_*')
 
         return IPIPANCorpusView(filename,
-                 tags=tags, mode=mode, simplify_tags=simplify_tags,
+                 tags=tags, tagger_mode=tagger_mode, simplify_tags=simplify_tags,
                  one_tag=one_tag, disamb_only=disamb_only,
                  append_no_space=append_no_space,
                  append_space=append_space,
@@ -222,7 +222,7 @@ class IPIPANCorpusView(StreamBackedCorpusView):
 
         self.show_tags = kwargs.pop('tags', True)
         self.disamb_only = kwargs.pop('disamb_only', True)
-        self.mode = kwargs.pop('mode', IPIPANCorpusView.WORDS_MODE)
+        self.mode = kwargs.pop('tagger_mode', IPIPANCorpusView.WORDS_MODE)
         self.simplify_tags = kwargs.pop('simplify_tags', False)
         self.one_tag = kwargs.pop('one_tag', True)
         self.append_no_space = kwargs.pop('append_no_space', False)

@@ -1331,8 +1331,8 @@ class SourcedStringStream(object):
     name = property(lambda self: self.stream.name, doc="""
         The name of the underlying stream.""")
 
-    mode = property(lambda self: self.stream.mode, doc="""
-        The mode of the underlying stream.""")
+    tagger_mode = property(lambda self: self.stream.mode, doc="""
+        The tagger_mode of the underlying stream.""")
 
     def close(self):
         """Close the underlying stream."""

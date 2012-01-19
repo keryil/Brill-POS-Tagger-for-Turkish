@@ -6,7 +6,7 @@ Brill accuracy: 0.851051 Suffixes only
 Brill accuracy: 0.851051 None
 Unigram: 0.85044
 
-Bigger set
+Bigger set (MINOR_POS)
 
 Brill accuracy: 0.793622 All
 Brill accuracy: 0.793622 Prefixes only
@@ -14,3 +14,10 @@ Brill accuracy: 0.793377 Suffixes only
 Brill accuracy: 0.793622 None
 Unigram: 0.792766
 
+Bigger set (MINOR_POS + VERB_INFLECTION + VERB_POLARITY)
+
+Brill accuracy: 0.794233 All
+Brill accuracy: 0.794233 Prefixes only
+Brill accuracy: 0.794110 Suffixes only
+Brill accuracy: 0.794110 None
+Unigram: 0.792766

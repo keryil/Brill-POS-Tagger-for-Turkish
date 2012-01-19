@@ -428,7 +428,7 @@ def smooth(x,window_len=11,window='flat'):
     else:
         w=eval('numpy.'+window+'(window_len)')
 
-    y=numpy.convolve(w/w.sum(),s,mode='same')
+    y=numpy.convolve(w/w.sum(),s,tagger_mode='same')
 
     return y[window_len-1:-window_len+1]
 

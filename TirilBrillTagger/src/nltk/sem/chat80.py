@@ -635,7 +635,7 @@ def label_indivs(valuation, lexicon=False):
     pairs = [(e, e) for e in domain]
     if lexicon:
         lex = make_lex(domain)
-        open("chat_pnames.cfg", mode='w').writelines(lex)
+        open("chat_pnames.cfg", tagger_mode='w').writelines(lex)
     # read the pairs into the valuation
     valuation.update(pairs)
     return valuation

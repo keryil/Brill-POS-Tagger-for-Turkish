@@ -221,7 +221,7 @@ class MalletCRF(FeaturesetTaggerI):
         # Create a zipfile, and write crf-info to it.
         if trace >= 2:
             print '[MalletCRF] Adding crf-info.xml to %s' % filename
-        zf = zipfile.ZipFile(filename, mode='w')
+        zf = zipfile.ZipFile(filename, tagger_mode='w')
         zf.writestr('crf-info.xml', crf_info.toxml()+'\n')
         zf.close()
 

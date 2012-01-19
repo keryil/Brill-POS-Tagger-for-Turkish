@@ -4,22 +4,38 @@ Created on Jan 19, 2012
 @author: kerem
 '''
 from nltk.tag.brill import *
+from trill import rules
+from trill.globalvars import get_p1_tagger, get_tagger_pass
 ######################################################################
 ## Fast Brill Tagger Trainer
 ######################################################################
+
+training_sents_w_p2_tags = None
 
 class FastBrillTaggerTrainerP2(object):
     """
     A faster trainer for brill taggers.
     """
+    _p1_tagger = None
     def __init__(self, initial_tagger, templates, trace=0,
-                 deterministic=False):
+                 deterministic=False, p1tagger=None):
         if not deterministic:
             deterministic = (trace > 0)
         self._initial_tagger = initial_tagger
         self._templates = templates
         self._trace = trace
         self._deterministic = deterministic
+        
+        if get_tagger_pass() != "P2":
+            raise Exception("P2 Level tagger needs globalvars.tagger_mode set to \"P2\".")
+        
+#        globalvars.tagger_mode = "P2"
+#        globalvars.p1_tagger = p1tagger
+        
+        if get_p1_tagger() == None:
+            raise Exception("P2 Level tagger needs a P1 level tagger given to constructor.")
+        
+        self._p1_tagger = p1tagger
 
         self._tag_positions = None
         """Mapping from tags to lists of positions that use that tag."""

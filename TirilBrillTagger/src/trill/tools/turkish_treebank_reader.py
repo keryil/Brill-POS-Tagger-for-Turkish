@@ -10,6 +10,8 @@ from nltk.corpus.reader import XMLCorpusReader
 from xml.etree.cElementTree import ParseError
 from xml.etree.ElementTree import ElementTree
 from xml.etree.ElementTree import tostring
+from globalvars import *
+from trill.globalvars import get_tagger_pass
 win_data_dir = "C:\\Users\\Kerem\\nltk_data"
 nix_data_dir = "/home/kerem/nltk_data"
 #tag_re = re.compile("\[\(.*?\)*?\(\d,\"(.+?)\"\)\]")
@@ -44,11 +46,11 @@ class TurkishTreebankCorpusReader(XMLCorpusReader):
     classdocs
     '''
     # this is for two-pass tagging
-    mode = "P1"
-    def __init__(self, root, fileids, wrap_etree=False, mode="P1", p1_tagger=None):
+    tagger_mode = "P1"
+    def __init__(self, root, fileids, wrap_etree=False, tagger_mode="P1", p1_tagger=None):
         super(TurkishTreebankCorpusReader,self).__init__(root, fileids, wrap_etree)
         self.p1_tagger = p1_tagger
-        self.mode = mode
+        self.mode = tagger_mode
         
     def words(self, fileids):
         words = []
@@ -88,11 +90,11 @@ class TurkishTreebankCorpusReader(XMLCorpusReader):
         relevant_parts = []
         MINOR = MINOR_POS
         MAJOR = MAJOR_POS
-        if self.mode == "P1":
-            MINOR = []
+        if get_tagger_pass() == "P1":
+            MINOR = MINOR_POS
 #                        MINOR = MINOR_POS + CASE + PERSON + VERB_INFLECTION + VERB_POLARITY
         else:
-            MINOR = MINOR_POS
+            MINOR = MINOR_POS + VERB_INFLECTION
             
         for part in parts:
             if part not in MAJOR:

@@ -193,16 +193,16 @@ class BufferedGzipFile(GzipFile):
     """
     SIZE = 2 * 2**20
 
-    def __init__(self, filename=None, mode=None, compresslevel=9,
+    def __init__(self, filename=None, tagger_mode=None, compresslevel=9,
                  fileobj=None, **kwargs):
         """
         Return a buffered gzip file object.
 
         :param filename: a filesystem path
         :type filename: str
-        :param mode: a file mode which can be any of 'r', 'rb', 'a', 'ab',
+        :param tagger_mode: a file tagger_mode which can be any of 'r', 'rb', 'a', 'ab',
             'w', or 'wb'
-        :type mode: str
+        :type tagger_mode: str
         :param compresslevel: The compresslevel argument is an integer from 1
             to 9 controlling the level of compression; 1 is fastest and
             produces the least compression, and 9 is slowest and produces the
@@ -214,7 +214,7 @@ class BufferedGzipFile(GzipFile):
         :type size: int
         :rtype: BufferedGzipFile
         """
-        GzipFile.__init__(self, filename, mode, compresslevel, fileobj)
+        GzipFile.__init__(self, filename, tagger_mode, compresslevel, fileobj)
         self._size = kwargs.get('size', self.SIZE)
         self._buffer = StringIO()
         # cStringIO does not support len.
@@ -659,8 +659,8 @@ def _open(resource_url):
     Helper function that returns an open file object for a resource,
     given its resource URL.  If the given resource URL uses the "nltk:"
     protocol, or uses no protocol, then use ``nltk.data.find`` to find
-    its path, and open it with the given mode; if the resource URL
-    uses the 'file' protocol, then open the file with the given mode;
+    its path, and open it with the given tagger_mode; if the resource URL
+    uses the 'file' protocol, then open the file with the given tagger_mode;
     otherwise, delegate to ``urllib2.urlopen``.
 
     :type resource_url: str
@@ -674,7 +674,7 @@ def _open(resource_url):
     if protocol is None or protocol.lower() == 'nltk':
         return find(path).open()
     elif protocol.lower() == 'file':
-        # urllib might not use mode='rb', so handle this one ourselves:
+        # urllib might not use tagger_mode='rb', so handle this one ourselves:
         return open(path, 'rb')
     else:
         return urllib2.urlopen(resource_url)
@@ -780,7 +780,7 @@ class SeekableUnicodeStreamReader(object):
            underlying stream."""
 
         self.errors = errors
-        """The error mode that should be used when decoding data from
+        """The error tagger_mode that should be used when decoding data from
            the underlying stream.  Can be 'strict', 'ignore', or
            'replace'."""
 
@@ -939,8 +939,8 @@ class SeekableUnicodeStreamReader(object):
     name = property(lambda self: self.stream.name, doc="""
         The name of the underlying stream.""")
 
-    mode = property(lambda self: self.stream.mode, doc="""
-        The mode of the underlying stream.""")
+    tagger_mode = property(lambda self: self.stream.mode, doc="""
+        The tagger_mode of the underlying stream.""")
 
     def close(self):
         """
