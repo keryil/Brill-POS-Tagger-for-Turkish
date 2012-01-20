@@ -21,3 +21,11 @@ Brill accuracy: 0.794233 Prefixes only
 Brill accuracy: 0.794110 Suffixes only
 Brill accuracy: 0.794110 None
 Unigram: 0.792766
+
+2-pass Bigger set (MINOR_POS + VERB_INFLECTION + VERB_POLARITY)
+
+Brill accuracy: 0.758065
+
+2-pass Smaller set
+
+Brill accuracy: 0.741813

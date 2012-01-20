@@ -91,10 +91,10 @@ class TurkishTreebankCorpusReader(XMLCorpusReader):
         MINOR = MINOR_POS
         MAJOR = MAJOR_POS
         if get_tagger_pass() == "P1":
-            MINOR = MINOR_POS
+            MINOR = []
 #                        MINOR = MINOR_POS + CASE + PERSON + VERB_INFLECTION + VERB_POLARITY
         else:
-            MINOR = MINOR_POS + VERB_INFLECTION
+            MINOR = MINOR_POS
             
         for part in parts:
             if part not in MAJOR:

@@ -89,9 +89,9 @@ def write_errors_and_rules(error_output, rule_output, gold_data, testing_data, e
     error_file.close()
     print "Done; affix_rules and errors saved to %s and %s." % (rule_output, error_output)
 
-def demo2(num_sents=5635, max_rules=400, min_score=4,
+def demo2(num_sents=5635, max_rules=300, min_score=4,
          error_output="errors.out", rule_output="rules.yaml",
-         randomize=False, train=.85, trace=3):
+         randomize=False, train=.85, trace=4):
     """
     Brill Tagger Demonstration
 
@@ -170,9 +170,10 @@ def demo2(num_sents=5635, max_rules=400, min_score=4,
         for s, e in ((1, 1), (2, 2), (1, 2), (1, 3), (2, 3), (3, 3)):
             templates.append(SymmetricProximateTokensTemplate(rule, (s, e)))
     affix_rules = [Proximate1SuffixesRule, Proximate2SuffixesRule, Proximate3SuffixesRule
-                 , Proximate4SuffixesRule, Proximate5SuffixesRule, Proximate6SuffixesRule,
+                 , Proximate4SuffixesRule, #Proximate5SuffixesRule, #Proximate6SuffixesRule,
                  Proximate1PrefixesRule, Proximate2PrefixesRule, Proximate3PrefixesRule
-                 , Proximate4PrefixesRule, Proximate5PrefixesRule, Proximate6PrefixesRule]
+                 , Proximate4PrefixesRule]#, Proximate5PrefixesRule]
+                 #, Proximate6PrefixesRule]
 #    affix_rules = [Proximate1PrefixesRule, Proximate2PrefixesRule, Proximate3PrefixesRule
 #                 , Proximate4PrefixesRule, Proximate5PrefixesRule, Proximate6PrefixesRule]
 #    affix_rules = [Proximate1SuffixesRule, Proximate2SuffixesRule, Proximate3SuffixesRule
@@ -231,17 +232,20 @@ def demo2(num_sents=5635, max_rules=400, min_score=4,
 #    print tagger_pass
 #    exit()
     templates = []
+#    for rule in (ProximateTagsRule, ProximateWordsRule):
+#        for s, e in ((1, 1), (2, 2), (1, 2), (1, 3), (2, 3), (3, 3)):
+#            templates.append(SymmetricProximateTokensTemplate(rule, (s, e)))
+#    affix_rules = [Proximate1SuffixesRule, Proximate2SuffixesRule, Proximate3SuffixesRule
+#                 , Proximate4SuffixesRule, #Proximate5SuffixesRule, #Proximate6SuffixesRule,
+#                 Proximate1PrefixesRule, Proximate2PrefixesRule, Proximate3PrefixesRule
+#                 , Proximate4PrefixesRule]
     for rule in (ProximateTagsRule, ProximateWordsRule):
         for s, e in ((1, 1), (2, 2), (1, 2), (1, 3), (2, 3), (3, 3)):
             templates.append(SymmetricProximateTokensTemplate(rule, (s, e)))
-    for rule in (Proximate1SuffixesRule, Proximate2SuffixesRule, Proximate3SuffixesRule
-                 , Proximate4SuffixesRule, Proximate5SuffixesRule, Proximate6SuffixesRule,
-                 Proximate7SuffixesRule, ProximateP1Rule):
+    for rule in affix_rules + [ProximateP1Rule]:
         for s, e in zip([(-1, -1), (-2, -2)], [(1, 1), (2, 2)]):
             templates.append(ProximateSuffixesTemplate(rule, s, e))
-    for rule in (Proximate1SuffixesRule, Proximate2SuffixesRule, Proximate3SuffixesRule
-                 , Proximate4SuffixesRule, Proximate5SuffixesRule, Proximate6SuffixesRule,
-                 Proximate7SuffixesRule, ProximateP1Rule):
+    for rule in affix_rules + [ProximateP1Rule]:
         for s, e in ((1, 1), (2, 2), (1, 2), (1, 3), (2, 3), (3, 3)):
             templates.append(SymmetricProximateSuffixesTemplate(rule, (s, e)))
     

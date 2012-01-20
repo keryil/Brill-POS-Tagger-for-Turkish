@@ -148,7 +148,7 @@ class ProximateWordsRule(ProximateTokensRule):
         return token[0]
 
 class ProximateP1Rule(ProximateWordsRule):
-    PROPERTY_NAME = "suffix"
+    PROPERTY_NAME = "p1 tag"
     def __init__(self, original_tag, replacement_tag, *conditions):
         super(ProximateP1Rule, self).__init__(original_tag, replacement_tag, *conditions)
         
